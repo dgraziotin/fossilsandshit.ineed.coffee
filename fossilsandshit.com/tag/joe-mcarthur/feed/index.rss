@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Joe McArthur &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/joe-mcarthur/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Thu, 24 Apr 2014 11:49:14 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Every time you publish behind a paywall, a kitten dies.</title>
+		<link>http://fossilsandshit.com/every-time-you-publish-behind-a-paywall-a-kitten-dies/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=every-time-you-publish-behind-a-paywall-a-kitten-dies</link>
+					<comments>http://fossilsandshit.com/every-time-you-publish-behind-a-paywall-a-kitten-dies/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Thu, 24 Apr 2014 11:49:14 +0000</pubDate>
+				<category><![CDATA[PhD]]></category>
+		<category><![CDATA[Policy]]></category>
+		<category><![CDATA[Science Communication]]></category>
+		<category><![CDATA[University]]></category>
+		<category><![CDATA[BioMed Central]]></category>
+		<category><![CDATA[David Carroll]]></category>
+		<category><![CDATA[Elsevier]]></category>
+		<category><![CDATA[F1000]]></category>
+		<category><![CDATA[Joe McArthur]]></category>
+		<category><![CDATA[Open Access]]></category>
+		<category><![CDATA[Open Access Button]]></category>
+		<category><![CDATA[open access movement]]></category>
+		<category><![CDATA[PeerJ]]></category>
+		<category><![CDATA[PLOS]]></category>
+		<category><![CDATA[PLOS ONE]]></category>
+		<category><![CDATA[publishing]]></category>
+		<category><![CDATA[research articles]]></category>
+		<category><![CDATA[research community]]></category>
+		<category><![CDATA[research funders]]></category>
+		<category><![CDATA[SAGE]]></category>
+		<category><![CDATA[Taylor and Francis]]></category>
+		<category><![CDATA[Wiley]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=655</guid>
+
+					<description><![CDATA[<p>This was originally posted at: http://blogs.egu.eu/palaeoblog/?p=1194 &#8220;Every day, people are denied access to something they have a right to.&#8221; That&#8217;s the opening line from a new appeal from students Joe McArthur and David Carroll. Open Access describes a form of publication of research where articles are made instantly available for free, and with unlimited reusability rights, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/every-time-you-publish-behind-a-paywall-a-kitten-dies/">Every time you publish behind a paywall, a kitten dies.</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/every-time-you-publish-behind-a-paywall-a-kitten-dies/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">655</post-id>	</item>
+	</channel>
+</rss>

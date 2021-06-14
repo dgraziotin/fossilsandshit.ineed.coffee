@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Om nom nom	</title>
+	<atom:link href="http://fossilsandshit.com/om-nom-nom/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com/om-nom-nom/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=om-nom-nom</link>
+	<description></description>
+	<lastBuildDate>Wed, 03 Jul 2013 13:25:15 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+</channel>
+</rss>

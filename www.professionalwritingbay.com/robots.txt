@@ -1,0 +1,90 @@
+User-agent: *
+Disallow: https://professionalwritingbay.com/how-to-write-a-thesis-statement/articles/how-to-write-a-thesis-statement.html
+Disallow: https://professionalwritingbay.com/how-to-write-a-research-proposal/articles/how-to-write-a-research-proposal.html
+Disallow: https://professionalwritingbay.com/how-to-do-a-book-review/articles/how-to-do-a-book-review.html
+Disallow: https://professionalwritingbay.com/how-to-write-your-assignment-446/articles/how-to-write-your-assignment-446.html
+Disallow: https://professionalwritingbay.com/how-to-write-a-term-paper/articles/how-to-write-a-term-paper.html
+Disallow: https://professionalwritingbay.com/writing-a-descriptive-essay-442/articles/writing-a-narrativedescriptive-essay.html
+Disallow: https://professionalwritingbay.com/writing-an-argumentative-essay/articles/writing-an-argumentative-essay.html
+Disallow: https://professionalwritingbay.com/writing-an-analytical-essay/articles/writing-an-analytical-essay.html
+Disallow: https://professionalwritingbay.com/writing-a-persuasive-essay/articles/writing-a-persuasive-essay.html
+Disallow: https://professionalwritingbay.com/how-to-write-your-assignment/articles/how-to-write-your-assignment.html
+Disallow: https://professionalwritingbay.com/how-to-conduct-a-literature-review/articles/how-to-conduct-a-literature-review.html
+Disallow: https://professionalwritingbay.com/formulating-research-questions/articles/formulating-research-questions.html
+Disallow: https://professionalwritingbay.com/writing-a-research-hypothesis/articles/writing-a-research-hypothesis.html
+Disallow: https://professionalwritingbay.com/writing-different-dissertation-chapters/articles/writing-different-dissertation-chapters.html
+Disallow: https://professionalwritingbay.com/findings-and-results-presentation-in-researchdissertation-papers/articles/findings-and-results-presentation-in-researchdissertation-papers.html
+Disallow: https://professionalwritingbay.com/data-analysis-in-researchdissertation-papers/articles/data-analysis-in-researchdissertation-papers.html
+Disallow: https://professionalwritingbay.com/choosing-a-thesis-topic/articles/choosing-a-thesis-topic.html
+Disallow: https://professionalwritingbay.com/writing-a-thesis-proposal/articles/writing-a-thesis-proposal.html
+Disallow: https://professionalwritingbay.com/writing-a-research-proposal/articles/writing-a-research-proposal.html
+Disallow: https://professionalwritingbay.com/writing-a-personal-statement/articles/writing-a-personal-statement.html
+Disallow: https://professionalwritingbay.com/writing-a-curriculum-vitae-cv/articles/writing-a-curriculum-vitae-cv.html
+Disallow: https://professionalwritingbay.com/writing-a-masterpiece-application-letter/articles/writing-a-masterpiece-application-letter.html
+Disallow: https://professionalwritingbay.com/writing-a-top-quality-economics-research-paper/articles/writing-a-top-quality-economics-research-paper.html
+Disallow: https://professionalwritingbay.com/the-art-of-writing-a-management-research-paper/articles/the-art-of-writing-a-management-research-paper.html
+Disallow: https://professionalwritingbay.com/writing-a-management-essay/articles/writing-a-management-essay.html
+Disallow: https://professionalwritingbay.com/the-art-of-writing-a-management-research-paper/articles/the-art-of-writing-a-management-research-paper.html
+Disallow: https://professionalwritingbay.com/writing-a-curriculum-vitae-cv/articles/writing-a-curriculum-vitae-cv.html
+Disallow: https://professionalwritingbay.com/writing-a-management-essay/articles/writing-a-management-essay.html
+Disallow: https://professionalwritingbay.com/writing-a-masterpiece-application-letter/articles/writing-a-masterpiece-application-letter.html
+Disallow: https://professionalwritingbay.com/writing-a-masterpiece-business-essay/articles/writing-a-masterpiece-business-essay.html
+Disallow: https://professionalwritingbay.com/writing-a-personal-statement/articles/writing-a-personal-statement.html
+Disallow: https://professionalwritingbay.com/writing-a-top-quality-business-research-paper/articles/writing-a-top-quality-business-research-paper.html
+Disallow: https://professionalwritingbay.com/writing-a-top-quality-economics-research-paper/articles/writing-a-top-quality-economics-research-paper.html
+Disallow: https://professionalwritingbay.com/writing-an-economics-essay-413/articles/Writing-an-economics-essay-413.html
+Disallow: https://www.professionalwritingbay.com/writing-an-economics-essay-413/articles.html
+Disallow: https://professionalwritingbay.com/writing-a-management-essay/articles/writing-a-management-essay.html
+Disallow: https://professionalwritingbay.com/writing-a-curriculum-vitae-cv/articles/writing-a-curriculum-vitae-cv.html
+Disallow: https://professionalwritingbay.com/the-art-of-writing-a-management-research-paper/articles/the-art-of-writing-a-management-research-paper.html
+Disallow: https://professionalwritingbay.com/how-to-write-your-assignment-446.html
+Disallow: https://professionalwritingbay.com/US-Economy-by-Sector/articles/US-Economy-by-Sector.html
+Disallow: https://professionalwritingbay.com/How-to-Write-a-Risk-for-Nursing-Diagnosis.html
+Disallow: https://www.professionalwritingbay.com/writing-an-economics-essay-413/articles.html
+Disallow: https://professionalwritingbay.com/writing-a-management-essay/articles/writing-a-management-essay.html
+Disallow: https://professionalwritingbay.com/writing-a-curriculum-vitae-cv/articles/writing-a-curriculum-vitae-cv.html
+Disallow: https://professionalwritingbay.com/the-art-of-writing-a-management-research-paper/articles/the-art-of-writing-a-management-research-paper.html
+Disallow: https://professionalwritingbay.com/how-to-write-your-assignment.html
+Disallow: https://professionalwritingbay.com/Topics-for-a-Nursing-Research-Paper/articles/Topics-for-a-Nursing-Research-Paper.html
+Disallow: https://professionalwritingbay.com/How-to-Write-an-Essay-Outline/articles/How-to-Write-an-Essay-Outline.html
+Disallow: https://professionalwritingbay.com/Business-Case-Study-Format/articles/Business-Case-Study-Format.html 
+Disallow: https://professionalwritingbay.com/How-to-Write-an-Essay-Report/articles/How-to-Write-an-Essay-Report.html 
+Disallow: https://professionalwritingbay.com/How-to-Write-an-Essay-Cover-Page/articles/How-to-Write-an-Essay-Cover-Page.html 
+Disallow: https://professionalwritingbay.com/The-Business-Strategy-of-Nike/articles/The-Business-Strategy-of-Nike.html
+Disallow: https://professionalwritingbay.com/Business-Research-Paper-Topics/articles/Business-Research-Paper-Topics.html 
+Disallow: https://professionalwritingbay.com/Genres-of-Academic-Writing/articles/Genres-of-Academic-Writing.html
+Disallow: https://professionalwritingbay.com/Reflective-Essay-for-Nursing-Student/articles/Reflective-Essay-for-Nursing-Student.html
+Disallow: https://professionalwritingbay.com/Types-of-Writing-Structure/articles/Types-of-Writing-Structure.html
+Disallow: https://professionalwritingbay.com/Nursing-Capstone-Project-Ideas/articles/Nursing-Capstone-Project-Ideas.html
+Disallow: https://professionalwritingbay.com/PESTLE-analysis-for-Amazon/articles/PESTLE-analysis-for-Amazon.html
+Disallow: https://professionalwritingbay.com/SWOT-analysis-for-Tesla/articles/SWOT-analysis-for-Tesla.html 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

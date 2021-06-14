@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Early Evolution of the Dinosaurs	</title>
+	<atom:link href="http://fossilsandshit.com/early-evolution-of-the-dinosaurs/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com/early-evolution-of-the-dinosaurs/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=early-evolution-of-the-dinosaurs</link>
+	<description></description>
+	<lastBuildDate>Wed, 10 Oct 2012 16:33:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>
+		By: The Mesozoic Era - the &#039;Age of Dinosaurs&#039;		</title>
+		<link>http://fossilsandshit.com/early-evolution-of-the-dinosaurs/#comment-322</link>
+
+		<dc:creator><![CDATA[The Mesozoic Era - the &#039;Age of Dinosaurs&#039;]]></dc:creator>
+		<pubDate>Wed, 10 Oct 2012 16:33:33 +0000</pubDate>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=339#comment-322</guid>
+
+					<description><![CDATA[[...] The Age of the Dinosaurs exhibition comes to Tel Aviv! : The ESSENTIAL guide to IsraelEarly Evolution of the Dinosaurs                         .wp-pagenavi { font-size:12px !important; }  [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] The Age of the Dinosaurs exhibition comes to Tel Aviv! : The ESSENTIAL guide to IsraelEarly Evolution of the Dinosaurs                         .wp-pagenavi { font-size:12px !important; }  [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

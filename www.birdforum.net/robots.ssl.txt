@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /cpadmin/
+Disallow: /cpmod/
+Disallow: /cgi-bin/

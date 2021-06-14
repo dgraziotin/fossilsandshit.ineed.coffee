@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Misuse &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/misuse/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Wed, 26 Mar 2014 11:28:18 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>It&#039;s beyond time we ditched the impact factor</title>
+		<link>http://fossilsandshit.com/its-beyond-time-we-ditched-the-impact-factor/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=its-beyond-time-we-ditched-the-impact-factor</link>
+					<comments>http://fossilsandshit.com/its-beyond-time-we-ditched-the-impact-factor/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2014 11:28:18 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Boycott]]></category>
+		<category><![CDATA[DORA]]></category>
+		<category><![CDATA[impact factor]]></category>
+		<category><![CDATA[impact factors]]></category>
+		<category><![CDATA[Misuse]]></category>
+		<category><![CDATA[Scientific Assessment]]></category>
+		<category><![CDATA[The impact factor]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=651</guid>
+
+					<description><![CDATA[<p>This originally appeared at: http://blogs.egu.eu/palaeoblog/?p=1162 &#8220;I am sick of impact factors and so is science.&#8221; Stephen Curry said it best back in 2012. The impact factor is just one of the many banes of academia, from it&#8217;s complete misuse to being falsely inflated by publishers. I want to draw attention to a new article  that addresses [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/its-beyond-time-we-ditched-the-impact-factor/">It&#039;s beyond time we ditched the impact factor</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/its-beyond-time-we-ditched-the-impact-factor/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">651</post-id>	</item>
+	</channel>
+</rss>

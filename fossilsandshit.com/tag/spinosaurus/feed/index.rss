@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Spinosaurus &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/spinosaurus/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 11 Jan 2016 20:08:52 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>The Spinosaurus saga continues..</title>
+		<link>http://fossilsandshit.com/the-spinosaurus-saga-continues/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-spinosaurus-saga-continues</link>
+					<comments>http://fossilsandshit.com/the-spinosaurus-saga-continues/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Mon, 11 Jan 2016 20:08:52 +0000</pubDate>
+				<category><![CDATA[Fossils]]></category>
+		<category><![CDATA[Palaeontology]]></category>
+		<category><![CDATA[Discover Magazine]]></category>
+		<category><![CDATA[Open Access]]></category>
+		<category><![CDATA[PLOS ONE]]></category>
+		<category><![CDATA[Sergey Krasovskiy]]></category>
+		<category><![CDATA[Spinosaurus]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=1050</guid>
+
+					<description><![CDATA[<p>Spinosaurus is without a doubt one of the most iconic and badass dinosaurs that ever roamed the planet. It&#8217;s research history, however, has been complicated to see the least. Some of the original material of this species was lost or destroyed during World War II, and newer specimens discovered since come from questionable sources without [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/the-spinosaurus-saga-continues/">The Spinosaurus saga continues..</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/the-spinosaurus-saga-continues/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1050</post-id>	</item>
+		<item>
+		<title>Your bite or mine?</title>
+		<link>http://fossilsandshit.com/your-bite-or-mine/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=your-bite-or-mine</link>
+					<comments>http://fossilsandshit.com/your-bite-or-mine/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Mon, 02 Jun 2014 10:40:23 +0000</pubDate>
+				<category><![CDATA[Ecology]]></category>
+		<category><![CDATA[Evolution]]></category>
+		<category><![CDATA[Fossils]]></category>
+		<category><![CDATA[Palaeontology]]></category>
+		<category><![CDATA[Baryonyx]]></category>
+		<category><![CDATA[Biomechanics]]></category>
+		<category><![CDATA[Crocodiles]]></category>
+		<category><![CDATA[CT Scanning]]></category>
+		<category><![CDATA[Dinosaurs]]></category>
+		<category><![CDATA[Feeding Style]]></category>
+		<category><![CDATA[Functional Morphology]]></category>
+		<category><![CDATA[Snout Shape]]></category>
+		<category><![CDATA[Spinosaurus]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=667</guid>
+
+					<description><![CDATA[<p>This was originally posted at:  It rises from the dark waters like some behemoth from the deep, and lets out a blood-curdling roar. It’s feeding time. One of the most iconic scenes from Jurassic Park III is where the long-snouted, sail-backed giant theropod dinosaur Spinosaurus emerges from underwater to try, yet again, to eat our [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/your-bite-or-mine/">Your bite or mine?</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/your-bite-or-mine/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">667</post-id>	</item>
+	</channel>
+</rss>

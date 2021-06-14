@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /cron/
+Disallow: /tools/
+Disallow: /templates/
+Disallow: /webservices/
+Disallow: /webfiles/js

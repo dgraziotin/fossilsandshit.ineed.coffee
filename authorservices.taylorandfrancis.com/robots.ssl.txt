@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+SITEMAP: https://authorservices.taylorandfrancis.com/sitemap_index.xml
+Disallow: /wp-content/uploads/b@EcqE!BeK7hcgDd

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: An Introduction to Fossil Preservation	</title>
+	<atom:link href="http://fossilsandshit.com/an-introduction-to-fossil-preservation/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com/an-introduction-to-fossil-preservation/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=an-introduction-to-fossil-preservation</link>
+	<description></description>
+	<lastBuildDate>Wed, 21 Dec 2011 11:59:15 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>
+		By: protohedgehog		</title>
+		<link>http://fossilsandshit.com/an-introduction-to-fossil-preservation/#comment-45</link>
+
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Wed, 21 Dec 2011 11:59:15 +0000</pubDate>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=79#comment-45</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;http://fossilsandshit.com/an-introduction-to-fossil-preservation/#comment-44&quot;&gt;himmapaan&lt;/a&gt;.
+
+Everybody has to start somewhere :)]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="http://fossilsandshit.com/an-introduction-to-fossil-preservation/#comment-44">himmapaan</a>.</p>
+<p>Everybody has to start somewhere 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: himmapaan		</title>
+		<link>http://fossilsandshit.com/an-introduction-to-fossil-preservation/#comment-44</link>
+
+		<dc:creator><![CDATA[himmapaan]]></dc:creator>
+		<pubDate>Sun, 18 Dec 2011 17:36:04 +0000</pubDate>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=79#comment-44</guid>
+
+					<description><![CDATA[Excellent post, Jon; thank you. Just ideal for an ignoramus like me!]]></description>
+			<content:encoded><![CDATA[<p>Excellent post, Jon; thank you. Just ideal for an ignoramus like me!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

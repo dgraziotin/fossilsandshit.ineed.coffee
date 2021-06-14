@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Beall &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/beall/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Thu, 11 May 2017 22:04:41 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Why we don&#8217;t need journal blacklists</title>
+		<link>http://fossilsandshit.com/why-we-dont-need-journal-blacklists/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-we-dont-need-journal-blacklists</link>
+					<comments>http://fossilsandshit.com/why-we-dont-need-journal-blacklists/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Thu, 11 May 2017 22:04:41 +0000</pubDate>
+				<category><![CDATA[Open Science]]></category>
+		<category><![CDATA[Beall]]></category>
+		<category><![CDATA[Blacklist]]></category>
+		<category><![CDATA[Predatory Journals]]></category>
+		<category><![CDATA[Predatory Publishers]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=2315</guid>
+
+					<description><![CDATA[<p>A journalist approached me yesterday, and asked the question: &#8220;I’d like to know what you think about [journal/publisher] blacklists and whether you would pay for one?&#8221; I can&#8217;t reveal too much about the context just yet (see here), but it was regarding the release of a new &#8216;blacklist&#8217; this month by a company called Cabell&#8217;s [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/why-we-dont-need-journal-blacklists/">Why we don&#8217;t need journal blacklists</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/why-we-dont-need-journal-blacklists/feed/</wfw:commentRss>
+			<slash:comments>10</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2315</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /4817/
+Disallow: /176986657/
+Disallow: /styleguide/
+Disallow: /author/mrben
+Disallow: /members/
+# News Sitemap
+
+Sitemap: https://www.discoverwildlife/google-news.xml/
+# Sitemap archive
+Sitemap: https://www.discoverwildlife.com/sitemap.xml
+

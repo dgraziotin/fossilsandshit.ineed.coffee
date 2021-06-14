@@ -1,0 +1,16 @@
+User-agent: googlebot
+Allow: /search_api/paper_preview/
+
+User-agent: Googlebot smartphone
+Allow: /search_api/paper_preview/
+
+User-agent: *
+Disallow: /staging/
+Disallow: /search_api/
+Disallow: /search_api/*
+
+User-agent: facebookexternalhit
+Disallow: /bogus-directory-or-filename
+
+User-agent: Twitterbot
+Disallow: /bogus-directory-or-filename

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /~jfreyd/copsy/web/
+Disallow: /~jfreyd/psygen/webassignment/
+Disallow: /~jfreyd/hopsy/web/

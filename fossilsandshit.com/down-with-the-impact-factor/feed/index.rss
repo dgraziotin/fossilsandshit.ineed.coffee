@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Down with the impact factor	</title>
+	<atom:link href="http://fossilsandshit.com/down-with-the-impact-factor/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com/down-with-the-impact-factor/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=down-with-the-impact-factor</link>
+	<description></description>
+	<lastBuildDate>Mon, 11 Jul 2016 14:24:47 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>
+		By: The case for Open Research: the mis-measurement problem &#124; Unlocking Research		</title>
+		<link>http://fossilsandshit.com/down-with-the-impact-factor/#comment-457</link>
+
+		<dc:creator><![CDATA[The case for Open Research: the mis-measurement problem &#124; Unlocking Research]]></dc:creator>
+		<pubDate>Mon, 11 Jul 2016 14:24:47 +0000</pubDate>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=773#comment-457</guid>
+
+					<description><![CDATA[[&#8230;] Tennant, in a 2015 blog stated that “The impact factor is one of the most mis-used metrics in the history of academia” [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Tennant, in a 2015 blog stated that “The impact factor is one of the most mis-used metrics in the history of academia” [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: &#8216;Open&#8217; is about equality &#124; Green Tea and Velociraptors		</title>
+		<link>http://fossilsandshit.com/down-with-the-impact-factor/#comment-456</link>
+
+		<dc:creator><![CDATA[&#8216;Open&#8217; is about equality &#124; Green Tea and Velociraptors]]></dc:creator>
+		<pubDate>Tue, 24 Nov 2015 16:35:08 +0000</pubDate>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=773#comment-456</guid>
+
+					<description><![CDATA[[&#8230;] &#8592; Previous [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] &larr; Previous [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

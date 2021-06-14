@@ -1,0 +1,5 @@
+User-agent: *
+disallow: /results?
+noindex: /results?
+noindex: /search?
+allow: /search

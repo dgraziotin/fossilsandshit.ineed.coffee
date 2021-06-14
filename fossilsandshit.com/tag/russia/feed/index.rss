@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Russia &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/russia/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Wed, 10 Apr 2013 09:18:00 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>From impact factors to impact craters</title>
+		<link>http://fossilsandshit.com/from-impact-factors-to-impact-craters/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=from-impact-factors-to-impact-craters</link>
+					<comments>http://fossilsandshit.com/from-impact-factors-to-impact-craters/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Wed, 10 Apr 2013 09:18:00 +0000</pubDate>
+				<category><![CDATA[Geology]]></category>
+		<category><![CDATA[Policy]]></category>
+		<category><![CDATA[Early Career Researcher]]></category>
+		<category><![CDATA[European Geosciences Union]]></category>
+		<category><![CDATA[impact factors]]></category>
+		<category><![CDATA[meteors]]></category>
+		<category><![CDATA[Open Access]]></category>
+		<category><![CDATA[publishing]]></category>
+		<category><![CDATA[RCUK]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[Vienna]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=548</guid>
+
+					<description><![CDATA[<p>This was originally posted at: http://blogs.egu.eu/palaeoblog/?p=542 Day 2 in the Big Brother house (aka the European Geosciences Union General Meeting). There&#8217;s no where near enough beer, and tensions are getting high. A horde of angry horses have invaded the lower levels, and taken the President of Austria hostage, with demands of lowering the Fair Straw Tax. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/from-impact-factors-to-impact-craters/">From impact factors to impact craters</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/from-impact-factors-to-impact-craters/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">548</post-id>	</item>
+	</channel>
+</rss>

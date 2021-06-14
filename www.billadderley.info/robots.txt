@@ -1,0 +1,21 @@
+
+# Squirrly SEO Robots
+Sitemap: http://www.billadderley.info/sitemap.xml
+Sitemap: http://www.billadderley.info/sitemap-home.xml
+Sitemap: http://www.billadderley.info/sitemap-posts.xml
+Sitemap: http://www.billadderley.info/sitemap-pages.xml
+Sitemap: http://www.billadderley.info/sitemap-categories.xml
+Sitemap: http://www.billadderley.info/sitemap-tags.xml
+Sitemap: http://www.billadderley.info/sitemap-archives.xml
+Sitemap: http://www.billadderley.info/sitemap-custom-taxonomies.xml
+Sitemap: http://www.billadderley.info/sitemap-custom-posts.xml
+
+User-agent: *
+Disallow: */xmlrpc.php
+Disallow: /wp-*.php
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Allow: */wp-content/uploads/
+Allow: */wp-content/uploads/
+
+

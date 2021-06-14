@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /one/aera/aera14/
+Disallow: /one/aera/aera13/
+Disallow: /one/aera/aera12/
+Disallow: /one/ica/ica14/
+Disallow: /one/ica/ica13/
+Disallow: /one/ica/ica12/
+Disallow: /one/balas/balas14/
+Disallow: /one/tas/tas14/

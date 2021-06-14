@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /app/auth/login
+Disallow: /app/registration/form
+Disallow: /app/resetPassword/form
+
+Sitemap: https://journals.indexcopernicus.com/sitemapindex.xml

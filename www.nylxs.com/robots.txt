@@ -1,0 +1,39 @@
+User-Agent: *
+Disallow: /docs/Nu-CentOS-BQ-4.2.iso
+
+User-Agent: *
+Disallow: /docs/openSUSE-10.2-GM-Addon-NonOSS-BiArch.iso
+
+User-Agent: *
+Disallow: /docs/openSUSE-10.2-GM-i386-CD1.iso
+
+User-Agent: *
+Disallow: /docs/openSUSE-10.2-GM-i386-CD2.iso
+
+User-Agent: *
+Disallow: /docs/openSUSE-10.2-GM-i386-CD3.iso
+
+User-Agent: *
+Disallow: /docs/openSUSE-10.2-GM-i386-CD4.iso
+
+User-Agent: *
+Disallow: /docs/openSUSE-10.2-GM-i386-CD5.iso
+
+User-Agent: *
+Disallow: /docs/openSUSE-10.3-GM-GNOME-i386.iso
+
+User-Agent: *
+Disallow: /docs/openSUSE-11.0-DVD-i386.iso
+
+User-Agent: *
+Disallow: /docs/openSUSE-11.0-GNOME-LiveCD-i386.iso
+
+User-Agent: *
+Disallow: /docs/slackware-10.2-install-d1.iso 
+
+User-Agent: *
+Disallow: /docs/slackware-10.2-install-d2.iso
+
+User-Agent: *
+Disallow: /docs/slackware-10.2-source-d3.iso
+

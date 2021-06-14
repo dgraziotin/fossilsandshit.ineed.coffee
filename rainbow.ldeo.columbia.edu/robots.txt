@@ -1,0 +1,7 @@
+# robots.txt for http://ocp.ldeo.columbia.edu/
+
+User-agent: *
+Disallow: /loam/
+Disallow: /research/loam/
+Disallow: /usage
+Disallow: /edf

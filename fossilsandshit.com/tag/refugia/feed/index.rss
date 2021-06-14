@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Refugia &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/refugia/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 02 Jun 2014 10:47:43 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Last dinosaur of its kind found in the land that time forgot</title>
+		<link>http://fossilsandshit.com/last-dinosaur-of-its-kind-found-in-the-land-that-time-forgot/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=last-dinosaur-of-its-kind-found-in-the-land-that-time-forgot</link>
+					<comments>http://fossilsandshit.com/last-dinosaur-of-its-kind-found-in-the-land-that-time-forgot/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Mon, 02 Jun 2014 10:47:43 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[animals]]></category>
+		<category><![CDATA[Argentina]]></category>
+		<category><![CDATA[Cretaceous]]></category>
+		<category><![CDATA[Diplodocid]]></category>
+		<category><![CDATA[Extinction]]></category>
+		<category><![CDATA[Jurassic]]></category>
+		<category><![CDATA[Jurassic period]]></category>
+		<category><![CDATA[Land that time forgotr]]></category>
+		<category><![CDATA[Leinkupal laticaudata]]></category>
+		<category><![CDATA[Mass Extinction]]></category>
+		<category><![CDATA[North America]]></category>
+		<category><![CDATA[Patagonia]]></category>
+		<category><![CDATA[Phil Mannion]]></category>
+		<category><![CDATA[PLOS ONE]]></category>
+		<category><![CDATA[Refugia]]></category>
+		<category><![CDATA[Sauropod]]></category>
+		<category><![CDATA[Sauropods]]></category>
+		<category><![CDATA[Selectivity]]></category>
+		<category><![CDATA[South America]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=672</guid>
+
+					<description><![CDATA[<p>This was originally posted at:  In terms of iconic dinosaurs, the gargantuan sauropods are certainly up there. Along with the mostly meat eating-theropods, and herbivorous and often armoured ornithischians, they form one of the three major groups, or clades, of dinosaurs, and were the biggest animals to ever walk this Earth. The end of the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/last-dinosaur-of-its-kind-found-in-the-land-that-time-forgot/">Last dinosaur of its kind found in the land that time forgot</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/last-dinosaur-of-its-kind-found-in-the-land-that-time-forgot/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">672</post-id>	</item>
+	</channel>
+</rss>

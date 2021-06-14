@@ -1,0 +1,4 @@
+User-agent: AhrefsBot
+Crawl-delay: 10
+User-agent: Bingbot
+Crawl-delay: 10

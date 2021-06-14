@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /tour/
+
+User-agent: Googlebot
+Disallow: /researcher/*/metrics/
+Disallow: /researcher/*/peer-review/
+Disallow: /researcher/*/publications/

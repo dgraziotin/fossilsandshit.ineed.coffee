@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://theconversation.com/les-systemes-educatifs-sont-en-crise-partout-sur-la-planete-voici-comment-ils-se-releveront-135377</loc>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>The Conversation CA-FR</news:name>
+        <news:language>fr</news:language>
+      </news:publication>
+      <news:publication_date>2020-04-13T14:54:32Z</news:publication_date>
+      <news:title>Les systèmes éducatifs sont en crise partout sur la planète. Voici comment ils se relèveront</news:title>
+      <news:keywords>éducation, formation, système scolaire, crises, Covid-19</news:keywords>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.theconversation.com/files/325110/original/file-20200402-74863-1pw4uic.jpg?ixlib=rb-1.1.0&amp;q=45&amp;auto=format&amp;w=496&amp;fit=clip</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://theconversation.com/voici-comment-renforcer-votre-rythme-circadien-et-accroitre-votre-resistance-face-a-la-covid-19-135882</loc>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>The Conversation CA-FR</news:name>
+        <news:language>fr</news:language>
+      </news:publication>
+      <news:publication_date>2020-04-13T14:37:00Z</news:publication_date>
+      <news:title>Voici comment renforcer votre rythme circadien et accroître votre résistance face à la Covid-19</news:title>
+      <news:keywords>système immunitaire, exercices, plein air, coronavirus, Covid-19, rythme circadien</news:keywords>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.theconversation.com/files/326891/original/file-20200409-187418-1orkr3g.jpg?ixlib=rb-1.1.0&amp;q=45&amp;auto=format&amp;w=496&amp;fit=clip</image:loc>
+    </image:image>
+  </url>
+</urlset>

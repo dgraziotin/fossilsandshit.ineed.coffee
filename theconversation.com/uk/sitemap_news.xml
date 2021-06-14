@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://theconversation.com/coronavirus-black-death-rumours-and-remedies-show-how-little-people-have-changed-135725</loc>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>The Conversation UK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2020-04-14T10:57:21Z</news:publication_date>
+      <news:title>Coronavirus: Black Death rumours and remedies show how little people have changed</news:title>
+      <news:keywords>Black Death, Conspiracy theories, Coronavirus, Anti-semitism, English history, COVID-19, Expert guide to conspiracy theories, Great Plague</news:keywords>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.theconversation.com/files/325820/original/file-20200406-96913-1skiq2j.jpg?ixlib=rb-1.1.0&amp;rect=0%2C9%2C1255%2C708&amp;q=45&amp;auto=format&amp;w=496&amp;fit=clip</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://theconversation.com/alzheimers-the-switch-on-moment-discovered-131810</loc>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>The Conversation UK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2020-04-14T09:26:57Z</news:publication_date>
+      <news:title>Alzheimer's: the 'switch-on moment' discovered</news:title>
+      <news:keywords>Dementia, Beta-amyloid, tau, ApoE4</news:keywords>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.theconversation.com/files/315498/original/file-20200214-10991-9dp8iy.jpg?ixlib=rb-1.1.0&amp;rect=0%2C0%2C7360%2C4561&amp;q=45&amp;auto=format&amp;w=496&amp;fit=clip</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://theconversation.com/how-dangerous-are-conspiracy-theories-listen-to-part-five-of-our-expert-guide-136070</loc>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>The Conversation UK</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2020-04-13T11:42:29Z</news:publication_date>
+      <news:title>How dangerous are conspiracy theories? Listen to part five of our expert guide</news:title>
+      <news:keywords>Anders Breivik, Conspiracy theories, Podcast, Audio, Pyschology, Populism, The Anthill Podcast, Anti-vaccination, Anti-vaxxers, Expert guide to conspiracy theories</news:keywords>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.theconversation.com/files/326947/original/file-20200409-165427-2pyuhl.jpg?ixlib=rb-1.1.0&amp;q=45&amp;auto=format&amp;w=496&amp;fit=clip</image:loc>
+    </image:image>
+  </url>
+</urlset>

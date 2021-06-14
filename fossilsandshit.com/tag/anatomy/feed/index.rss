@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Anatomy &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/anatomy/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Sat, 26 Jan 2013 21:20:50 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Which direction to take!?</title>
+		<link>http://fossilsandshit.com/which-direction-to-take/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=which-direction-to-take</link>
+					<comments>http://fossilsandshit.com/which-direction-to-take/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Sat, 26 Jan 2013 21:20:50 +0000</pubDate>
+				<category><![CDATA[Fossils]]></category>
+		<category><![CDATA[Palaeontology]]></category>
+		<category><![CDATA[Anatomy]]></category>
+		<category><![CDATA[Dinosaurs]]></category>
+		<category><![CDATA[Morphology]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=391</guid>
+
+					<description><![CDATA[<p>One of the most important things palaeontologists and taxonomists do is the description of new species or fossils. Focussing on dinosaurs, because they&#8217;re the ones I know the best, there is a whole host of descriptive anatomy to get your head around. It&#8217;s not just the names of the bones; it&#8217;s also the names of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/which-direction-to-take/">Which direction to take!?</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/which-direction-to-take/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">391</post-id>	</item>
+	</channel>
+</rss>

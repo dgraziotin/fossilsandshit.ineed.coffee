@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Therapsids &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/therapsids/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Wed, 18 Apr 2012 21:32:00 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Another Page Written in the History of Tetrapod Biodiversity</title>
+		<link>http://fossilsandshit.com/another-page-written-in-the-history-of-tetrapod-biodiversity/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=another-page-written-in-the-history-of-tetrapod-biodiversity</link>
+					<comments>http://fossilsandshit.com/another-page-written-in-the-history-of-tetrapod-biodiversity/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Wed, 18 Apr 2012 21:32:00 +0000</pubDate>
+				<category><![CDATA[Ecology]]></category>
+		<category><![CDATA[Evolution]]></category>
+		<category><![CDATA[Fossils]]></category>
+		<category><![CDATA[Palaeontology]]></category>
+		<category><![CDATA[Zoology]]></category>
+		<category><![CDATA[Archosaurs]]></category>
+		<category><![CDATA[Body Size]]></category>
+		<category><![CDATA[Climate Change]]></category>
+		<category><![CDATA[Dinosaurs]]></category>
+		<category><![CDATA[Macroevolution]]></category>
+		<category><![CDATA[Mammals]]></category>
+		<category><![CDATA[Richard Butler]]></category>
+		<category><![CDATA[Roger Benson]]></category>
+		<category><![CDATA[Roland Sookias]]></category>
+		<category><![CDATA[Teatrapods]]></category>
+		<category><![CDATA[Therapsids]]></category>
+		<category><![CDATA[Traits]]></category>
+		<category><![CDATA[Vertebrates]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=222</guid>
+
+					<description><![CDATA[<p>The story of vertebrate evolution over the last 250 million years is one of the most remarkable, and most complex to unravel, stories of all time. Throughout the ages, extraordinary species and groups have come and gone, and we are left now with only a fingerprint of times long forgotten. Recreating and detecting macroevolutionary patterns [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/another-page-written-in-the-history-of-tetrapod-biodiversity/">Another Page Written in the History of Tetrapod Biodiversity</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/another-page-written-in-the-history-of-tetrapod-biodiversity/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">222</post-id>	</item>
+	</channel>
+</rss>

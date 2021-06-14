@@ -1,0 +1,16 @@
+User-agent: Mediapartners-Google 
+Disallow:
+User-agent: *
+Disallow: /Images/
+Disallow: /_borders/
+Disallow: /_private/
+Disallow: /911tribute/
+Disallow: /faith/
+
+Disallow: /Jokes/
+Disallow: /Links/
+Disallow: /Music/
+Disallow: /Politics/
+Disallow: /The Activist/
+Disallow: /cgi-bin/
+Disallow: /tmp/

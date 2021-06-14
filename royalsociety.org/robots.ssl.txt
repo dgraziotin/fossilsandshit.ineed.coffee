@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /search/#?query=
+sitemap: https://royalsociety.org/sitemap.xml

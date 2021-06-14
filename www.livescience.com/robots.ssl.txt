@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /search
+Disallow: /*searchTerm
+Disallow: /deals/compare
+Disallow: /*/deals/compare
+
+Sitemap: https://www.livescience.com/sitemap.xml

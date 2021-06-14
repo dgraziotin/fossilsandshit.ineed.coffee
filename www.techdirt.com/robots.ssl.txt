@@ -1,0 +1,20 @@
+# some paths no one should crawl
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /webalizer/
+Disallow: /webmail/
+Disallow: /wusage/
+Disallow: /tools/
+Disallow: /ajax/
+Disallow: /includes/
+Disallow: /paidpost/
+Disallow: /emailthis.php
+Disallow: /bounce/
+
+# 80legs (user-generated crawls) shouldn't crawl anything
+User-agent: 008
+Disallow: /
+
+# Amazon crawler for contextual ads.
+User-agent: Mozilla/5.0 (compatible;contxbot/1.0)
+Disallow:

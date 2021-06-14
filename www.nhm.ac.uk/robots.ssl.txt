@@ -1,0 +1,25 @@
+#robots.txt for www.nhm.ac.uk/
+
+sitemap: https://www.nhm.ac.uk/sitemap.xml
+
+user-agent: *
+
+disallow: /uksf-bin/
+disallow: /cgi-bin/
+disallow: /search/
+disallow: /about-us/search/
+disallow: /jdsml/mils/
+disallow: /natureplus/people/
+disallow: /research-curation/research/projects/british-insect-mines/database/
+disallow: /research-curation/research/projects/solanaceaesource/
+disallow: /research-curation/research/projects/species-dictionary-new/
+disallow: /print-version/
+disallow: /resources-rx/*
+disallow: /resources-rx/files/*
+disallow: /research-curation/scientific-resources/collections/library-collections/wallace-letters-online/
+disallow: /visit/whats-on/programs/*
+disallow: /sso/login
+disallow: /user-test-site-2020-1
+disallow: /user-test-site-2020-1/*
+
+Disallow: /*.pdf

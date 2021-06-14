@@ -1,0 +1,1387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/wp-content/plugins/xml-sitemap-feed/assets/styles/sitemap-news.xsl?ver=5.2.7"?>
+<!-- generated-on="2020-04-14T16:10:01+00:00" -->
+<!-- generator="XML Sitemap & Google News for WordPress" -->
+<!-- generator-url="https://status301.net/wordpress-plugins/xml-sitemap-feed/" -->
+<!-- generator-version="5.2.7" -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/14/universidad-de-chile-es-el-equipo-que-mas-hinchas-llevo-al-estadio-en-esta-decada/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-14T13:09:55+00:00</news:publication_date>
+			<news:title>Universidad de Chile es el equipo que más hinchas llevó al estadio en esta década</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/14/la-conmovedora-historia-de-maria-la-nina-espanola-de-siete-anos-con-cancer-que-celebra-haberle-ganado-la-batalla-al-coronavirus/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-14T12:52:53+00:00</news:publication_date>
+			<news:title>La conmovedora historia de María, la niña española de siete años con cáncer, que celebra haberle ganado la batalla al coronavirus</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/14/gobierno-decide-quitar-la-cuarentena-total-en-las-condes-y-aplicarla-en-el-bosque-y-parte-de-arica/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-14T12:23:35+00:00</news:publication_date>
+			<news:title>Gobierno decide quitar la cuarentena total en Las Condes y aplicarla en El Bosque y parte de Arica</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/14/revisa-el-ranking-de-las-10-comunas-con-mas-contagios-segun-ultimo-informe-epidemiologico-del-minsal/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-14T11:59:54+00:00</news:publication_date>
+			<news:title>Revisa el ranking de las 10 comunas con más contagios según último informe epidemiológico del Minsal</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/14/chile-llega-a-los-7-917-contagiados-por-covid-19-y-cifra-de-fallecidos-se-eleva-a-92/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-14T11:57:48+00:00</news:publication_date>
+			<news:title>Chile llega a los 7.917 contagiados por COVID-19 y cifra de fallecidos se eleva a 92</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/14/anfp-revisa-la-posibilidad-de-que-el-futbol-chileno-vuelva-en-julio-o-agosto/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-14T11:48:08+00:00</news:publication_date>
+			<news:title>ANFP revisa la posibilidad de que el fútbol chileno vuelva en julio o agosto</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/14/subsecretaria-de-salud-publica-que-nadie-se-infecte-por-covid-19-en-chile-es-imposible/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-14T11:28:38+00:00</news:publication_date>
+			<news:title>Subsecretaria de Salud Pública: “Que nadie se infecte por COVID-19 en Chile es imposible”</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/14/cifras-globales-covid-19-ya-ha-contagiado-a-casi-2-millones-de-personas-mientras-que-muertes-escalan-a-120-mil/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-14T11:26:58+00:00</news:publication_date>
+			<news:title>Cifras globales: COVID-19 ya ha contagiado a casi 2 millones de personas, mientras que muertes escalan a 120 mil</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/14/parricidio-frustrado-en-san-felipe-padre-apunalo-a-su-hijo-de-solo-5-anos-por-un-arrebato-emocional/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-14T11:17:28+00:00</news:publication_date>
+			<news:title>Parricidio frustrado en San Felipe: padre apuñaló a su hijo de sólo 5 años por “un arrebato emocional”</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/14/presidente-de-la-camara-nacional-de-comercio-nadie-vive-del-fogape-o-del-seguro-de-desempleo/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-14T11:12:32+00:00</news:publication_date>
+			<news:title>Presidente de la Cámara Nacional de Comercio: &#8220;Nadie vive del Fogape o del seguro de desempleo&#8221;</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/14/en-vivo-mira-un-nuevo-capitulo-de-el-matinal-de-los-que-sobran-17/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-14T11:06:39+00:00</news:publication_date>
+			<news:title>EN VIVO&#124; Mira un nuevo capítulo de El Matinal de los que Sobran</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/14/la-otra-cara-del-estado-de-excepcion/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-14T11:00:59+00:00</news:publication_date>
+			<news:title>La otra cara del estado de excepción</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/14/las-pymes-en-tiempos-de-pandemia/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-14T11:00:17+00:00</news:publication_date>
+			<news:title>Las Pymes en tiempos de pandemia</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/14/ministro-ribera-logra-acuerdo-bilateral-para-retorno-de-800-bolivianos-varados-en-colchane/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-14T10:49:10+00:00</news:publication_date>
+			<news:title>Ministro Ribera logra acuerdo bilateral para retorno de 800 Bolivianos varados en Colchane</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/14/funcionaria-de-salud-que-participo-de-culto-religioso-contagio-a-seis-matronas-del-sotero-del-rio-con-covid-19/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-14T10:31:22+00:00</news:publication_date>
+			<news:title>Funcionaria de salud que participó de culto religioso contagió a seis matronas del Sótero del Río con COVID-19</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/14/quitar-sin-entregar-lo-que-revela-esta-pandemia/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-14T10:29:15+00:00</news:publication_date>
+			<news:title>Quitar sin entregar: lo que revela esta pandemia</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/14/duro-reves-para-la-derecha-en-el-tc-tribunal-rechazo-conmutar-penas-a-reos-violadores-de-dd-hh/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-14T10:27:12+00:00</news:publication_date>
+			<news:title>Duro revés para la derecha en el TC: Tribunal rechazó conmutar penas a reos violadores de DD.HH.</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/14/dibujos-animados-y-educacion-asi-sera-el-nuevo-canal-de-tv-dedicado-a-los-ninos-en-cuarentena/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-14T10:18:58+00:00</news:publication_date>
+			<news:title>Dibujos animados y educación: Así será el nuevo canal de TV dedicado a los niños en cuarentena</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/14/dilemas-de-las-comunicaciones-en-tiempos-de-covid-19-fanatismo-religioso-y-pastor-soto/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-14T10:14:39+00:00</news:publication_date>
+			<news:title>Dilemas de las comunicaciones en tiempos de COVID-19: Fanatismo religioso y pastor Soto</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/14/covid-19-la-necesidad-de-una-nueva-tv/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-14T10:12:42+00:00</news:publication_date>
+			<news:title>COVID-19: la necesidad de una nueva TV</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/14/alerta-mundial-por-incendio-forestal-que-avanza-rapidamente-hacia-la-central-nuclear-de-chernobyl/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-14T09:44:43+00:00</news:publication_date>
+			<news:title>Alerta mundial por incendio forestal que avanza rápidamente hacia la central nuclear de Chernobyl</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/14/el-doloroso-presente-de-walter-montillo-a-la-muerte-de-su-abuelo-y-padre-se-suma-su-madre-con-covid-19/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-14T09:15:17+00:00</news:publication_date>
+			<news:title>Drama de Walter Montillo: Su mamá se enferma de COVID-19 pocos días después de la muerte de su padre y abuelo</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/14/ingreso-de-emergencia-la-formula-con-la-que-el-gobierno-busca-ayudar-a-trabajadores-informales/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-14T08:53:57+00:00</news:publication_date>
+			<news:title>Ingreso de Emergencia: la fórmula con la que el gobierno busca ayudar a ‘trabajadores informales’</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/14/arturo-vidal-confirma-su-futuro-y-en-espana-ya-hablan-de-negociaciones-con-su-nuevo-club/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-14T08:38:29+00:00</news:publication_date>
+			<news:title>Arturo Vidal confirma su futuro y en España ya hablan de negociaciones con su nuevo club</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/libros/lucas-urenda-fotografo-premiado-en-inglaterra-por-serie-sobre-el-estallido-social-detras-de-esto-hay-historias-muy-fuertes-que-no-pueden-quedar-en-la-impunidad/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-14T08:30:50+00:00</news:publication_date>
+			<news:title>Lucas Urenda, fotógrafo premiado en Inglaterra por serie sobre el estallido social: &#8220;Detrás de esto hay historias muy fuertes que no pueden quedar en la impunidad&#8221;</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/trabajadores-de-mcdonalds-rechazan-suspension-de-contratos-por-pandemia-la-ley-del-gobierno-agudiza-la-precariedad-laboral-que-hay-en-la-comida-rapida/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T23:50:32+00:00</news:publication_date>
+			<news:title>Trabajadores de McDonald&#8217;s rechazan suspensión de contratos por pandemia: &#8220;La ley del Gobierno agudiza la precariedad laboral que hay en la comida rápida&#8221;</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/camaras-con-sensores-termicos-detectan-fiebre-de-periodista-espanol-en-medio-de-un-despacho-en-vivo/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T22:29:38+00:00</news:publication_date>
+			<news:title>VIDEO&#124; Cámaras con sensores térmicos detectan fiebre de periodista español en medio de un despacho en vivo</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/ministerio-de-salud-confirma-dos-casos-de-covid-19-en-residencia-de-adultos-mayores-en-las-condes/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T21:35:48+00:00</news:publication_date>
+			<news:title>Ministerio de Salud confirma dos casos de COVID-19 en residencia de adultos mayores en Las Condes</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/familia-de-fabiola-machuca-victima-mas-joven-de-covid-19-en-chile-por-investigacion-del-caso-esta-todo-muy-oscuro/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T21:15:21+00:00</news:publication_date>
+			<news:title>Familia de Fabiola Machuca, víctima más joven de COVID-19 en Chile, por investigación del caso: &#8220;Está todo muy oscuro&#8221;</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/tras-apelacion-de-la-fiscalia-y-el-gobierno-12-imputados-de-la-primera-linea-pasaron-de-firma-quincenal-a-arresto-domiciliario-total/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T20:54:20+00:00</news:publication_date>
+			<news:title>Tras apelación de la Fiscalía y el Gobierno, 12 imputados de la &#8220;primera línea&#8221; pasaron de firma quincenal a arresto domiciliario total</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/fiscalia-notifica-apertura-de-investigacion-por-utilizacion-de-helicopteros-para-infringir-cuarentena-por-covid-19/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T19:40:49+00:00</news:publication_date>
+			<news:title>Fiscalía abre investigación por utilización de helicópteros en medio de cuarentena por COVID-19</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/encuentran-a-carabinero-muerto-en-la-direccion-de-inteligencia/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T18:22:40+00:00</news:publication_date>
+			<news:title>Encuentran a carabinero muerto en la Dirección de Inteligencia</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/intento-de-detonacion-de-puente-y-posesion-de-armas-de-fuego-en-camino-entre-canete-y-tirua-moviliza-a-fuerzas-especiales-del-biobio/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T18:10:21+00:00</news:publication_date>
+			<news:title>Intento de detonación de puente y posesión de armas de fuego en camino entre Cañete y Tirúa moviliza a Fuerzas Especiales del Biobío</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/polemica-pinera-fernandez-por-cifras-de-contagios-presidente-chileno-estaria-indignado-ante-la-filtracion-de-una-minuta-interna-a-medios-argentinos/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T17:59:24+00:00</news:publication_date>
+			<news:title>Polémica Piñera-Fernández por cifras de contagios: Presidente chileno estaría &#8220;indignado&#8221; ante la &#8220;filtración de una minuta interna&#8221; a medios argentinos </news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/abogado-de-kaufmann-defiende-el-traslado-en-helicoptero-de-su-cliente-a-su-casa-en-cachagua-fue-a-comprar-un-medicamento-y-extendio-el-viaje/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T17:58:31+00:00</news:publication_date>
+			<news:title>Abogado de Kaufmann defiende el traslado en helicóptero de su cliente a su casa en Cachagua: &#8220;Fue a comprar un medicamento y extendió el viaje&#8221;</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/libros/almodovar-en-cuarentena-lee-a-escritor-chileno-ivan-ojeda-monalisa/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T17:38:20+00:00</news:publication_date>
+			<news:title>Almodóvar en cuarentena: lee a escritor chileno Iván Ojeda Monalisa</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/permiso-de-circulacion-2020-municipios-mas-pobres-no-percibieron-ni-la-mitad-de-lo-que-recaudaban-en-anos-anteriores/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T16:59:32+00:00</news:publication_date>
+			<news:title>Permiso de circulación 2020: Municipios más pobres no percibieron ni la mitad de lo que recaudaban en años anteriores</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/gendarmeria-suspende-visitas-a-establecimientos-penitenciarios-reportan-24-internos-y-59-funcionarios-contagiados/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T16:57:22+00:00</news:publication_date>
+			<news:title>Gendarmería suspende visitas a establecimientos penitenciarios: Reportan 24 internos y 59 funcionarios contagiados</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/oposicion-denuncia-a-la-direccion-del-trabajo-ante-la-contraloria-por-implementar-finiquito-electronico-ilegal/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T16:40:12+00:00</news:publication_date>
+			<news:title>Oposición denuncia a la Dirección del Trabajo ante la Contraloría por implementar finiquito electrónico ilegal</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/habla-urenda-el-empresario-que-viajo-a-cachagua-en-helicoptero-no-hay-ninguna-violacion-de-nada/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T16:21:30+00:00</news:publication_date>
+			<news:title>Habla Urenda, el empresario que viajó a Cachagua en helicóptero: &#8220;No hay ninguna violación de nada&#8221;</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/babel/selectores/selectores-13-juan-cristobal-pena/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T16:06:07+00:00</news:publication_date>
+			<news:title>[Selectores #13] Juan Cristobal Peña</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/presidente-de-ecuador-reduce-su-sueldo-y-el-de-su-gabinete-en-un-50/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T15:55:25+00:00</news:publication_date>
+			<news:title>Presidente de Ecuador reduce su sueldo y el de su gabinete en un 50%</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/libros/manual-sobre-covid-19-mas-leido-en-china-ya-esta-disponible-en-nuestro-pais/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T15:48:30+00:00</news:publication_date>
+			<news:title>Manual sobre COVID-19 más leído en China ya está disponible en nuestro país</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/la-oms-pone-en-duda-la-idea-que-recuperados-de-covid-19-sean-inmunes-a-nuevos-contagios/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T15:36:57+00:00</news:publication_date>
+			<news:title>La OMS pone en duda la idea que recuperados de COVID-19 sean inmunes a nuevos contagios</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/oms-confirma-que-covid-19-es-10-veces-mas-mortifero-que-el-h1n1/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T15:33:25+00:00</news:publication_date>
+			<news:title>OMS confirma que COVID-19 es 10 veces más mortífero que el H1N1</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/revisa-un-nuevo-capitulo-de-la-web-serie-para-pasar-la-cuarentena-de-el-desconcierto-uplatv-y-el-colegio-de-periodistas/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T15:06:26+00:00</news:publication_date>
+			<news:title>Revisa un nuevo capítulo de la web serie para pasar la cuarentena de El Desconcierto, UPLATV y el Colegio de Periodistas</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/enterate-de-quienes-son-los-17-agentes-de-la-dina-beneficiados-por-la-corte-de-apelaciones/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T14:46:33+00:00</news:publication_date>
+			<news:title>Entérate quiénes son los 17 agentes de la DINA beneficiados por la Corte de Apelaciones</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/la-desafiante-respuesta-de-belen-mora-a-quienes-la-amenazaron-por-su-parodia-los-kastos/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T14:42:45+00:00</news:publication_date>
+			<news:title>La desafiante respuesta de Belén Mora a quienes la amenazaron por su parodia &#8220;Los KasTos&#8221;</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/pablo-aranguiz-desata-el-debate-entre-hinchas-de-la-u-no-puedo-decir-que-nunca-jugaria-en-colo-colo/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T14:39:43+00:00</news:publication_date>
+			<news:title>Pablo Aránguiz desata el debate entre hinchas de la U: &#8220;No puedo decir que nunca jugaría en Colo Colo&#8221;</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/empresario-jorge-errazuriz-en-cuarentena-sugerida-desde-su-casa-en-zapallar-lo-del-helicoptero-fue-una-imprudencia/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T14:39:06+00:00</news:publication_date>
+			<news:title>Empresario Jorge Errázuriz en cuarentena sugerida desde su casa en Zapallar: &#8220;Lo del helicóptero fue una imprudencia&#8221;</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/libros/el-indulto-inhumano-en-punta-peuco/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T14:28:30+00:00</news:publication_date>
+			<news:title>El indulto inhumano en Punta Peuco</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/cumplio-el-fallo-ejercito-anuncia-que-retiro-imagenes-y-placas-de-manuel-contreras-en-tejas-verdes/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T14:21:01+00:00</news:publication_date>
+			<news:title>Cumplió el fallo: Ejército anuncia que retiró imágenes y placas de Manuel Contreras en Tejas Verdes</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/empiezan-las-fricciones-pinera-fernandez-gobierno-de-chile-relativizo-manejo-argentino-para-enfrentar-la-pandemia/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T14:05:48+00:00</news:publication_date>
+			<news:title>Empiezan las fricciones Piñera-Fernández: Gobierno de Chile relativizó manejo argentino para enfrentar la pandemia</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/dato-bono-covid-19-conoce-si-recibiste-dinero-en-tu-cuentarut-con-un-solo-click/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T14:01:39+00:00</news:publication_date>
+			<news:title>DATO&#124; Bono COVID-19: conoce si recibiste dinero en tu CuentaRUT con un solo click</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/patricio-yanez-sin-filtro-dedico-su-clasico-gesto-del-89-a-los-que-viajaron-a-la-playa-en-semana-santa/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T13:39:56+00:00</news:publication_date>
+			<news:title>Patricio Yáñez sin filtro: dedicó su clásico gesto del 89 a los que viajaron a la playa en Semana Santa</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/confirman-dos-casos-positivos-de-covid-19-en-minera-cerro-colorado/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T13:36:09+00:00</news:publication_date>
+			<news:title>Confirman dos casos positivos de COVID-19 en minera Cerro Colorado</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/hospital-felix-bulnes-aclara-situacion-de-anegamiento-descartan-filtracion-por-lluvias-del-domingo/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T13:25:09+00:00</news:publication_date>
+			<news:title>Hospital Félix Bulnes aclara situación de anegamiento: descartan filtración por lluvias del domingo</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/fifa-cambiara-las-reglas-de-fichajes-por-el-covid-19-alexis-sanchez-podria-quedarse-sin-jugar/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T13:13:21+00:00</news:publication_date>
+			<news:title>FIFA cambiará las reglas de fichajes por el COVID-19: Alexis Sánchez podría quedarse sin jugar</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/las-pruebas-que-apuntan-a-que-el-regimen-chino-oculto-evidencias-de-la-existencia-del-covid-19-mucho-antes-de-hacerlo-publico/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T13:09:24+00:00</news:publication_date>
+			<news:title>Las pruebas que apuntan a que el régimen chino ocultó evidencias de la existencia del COVID-19 mucho antes de hacerlo público</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/osvaldo-torres-ex-jefe-de-estudios-del-indh-el-instituto-ha-caido-en-la-irrelevancia-en-esta-pandemia/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T13:00:10+00:00</news:publication_date>
+			<news:title>Osvaldo Torres, Ex Jefe de Estudios del INDH: “El Instituto ha caído en la irrelevancia en esta pandemia”</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/babel/audiovisual/canal-samadhi-escuela-online-artistica-de-la-compania-bayku/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T12:56:35+00:00</news:publication_date>
+			<news:title>Canal Samadhi: Escuela online artística de la Compañía Bayku</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/covid-19-banco-mundial-espera-que-economia-chilena-caiga-un-33-en-2020/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T12:35:06+00:00</news:publication_date>
+			<news:title>COVID-19: Banco Mundial espera que economía chilena caiga un 3,3% en 2020</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/video-impactante-registro-muestra-como-un-contagiado-disemina-el-covid-19-dentro-de-un-supermercado/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T12:23:23+00:00</news:publication_date>
+			<news:title>VIDEO&#124; Impactante registro muestra cómo un contagiado disemina el COVID-19 dentro de un supermercado</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/el-cristo-redentor-de-brasil-tributo-a-los-trabajadores-de-la-salud/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T12:21:04+00:00</news:publication_date>
+			<news:title>El Cristo Redentor de Brasil tributó a los trabajadores de la salud</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/alcaldesa-de-la-pintana-anuncia-acciones-legales-contra-pastor-que-lidero-culto-evangelico-en-su-comuna/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T12:04:22+00:00</news:publication_date>
+			<news:title>Alcaldesa de La Pintana anuncia acciones legales contra pastor que lideró culto evangélico en su comuna</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/video-la-cag-el-condoro-de-fernando-solabarrieta-con-su-pelo-en-plena-cuarentena/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T12:04:07+00:00</news:publication_date>
+			<news:title>VIDEO&#124; “La cag…”: El ‘condoro’ de Fernando Solabarrieta con su pelo en plena cuarentena</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/ahora-se-retracta-ministro-de-educacion-ve-poco-probable-que-clases-presenciales-vuelvan-el-27-de-abril/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T11:36:28+00:00</news:publication_date>
+			<news:title>Ahora se retracta: Ministro de Educación ve “poco probable” que clases presenciales vuelvan el 27 de abril</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/ministro-de-economia-sobre-los-efectos-del-modelo-de-desarrollo-disminuimos-la-desigualdad-pero-no-generamos-un-sistema-humanizado/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T11:36:25+00:00</news:publication_date>
+			<news:title>Ministro de Economía sobre los efectos del modelo de desarrollo: &#8220;Disminuimos la desigualdad, pero no generamos un sistema humanizado&#8221;</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/covid-19-en-chile-contagiados-aumentan-a-7-525-y-se-contabilizan-un-total-de-82-muertes/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T11:35:15+00:00</news:publication_date>
+			<news:title>COVID-19 en Chile: contagiados aumentan a 7.525 y se contabilizan un total de 82 muertes</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/el-crudo-relato-de-un-contagiado-con-covid-19-mi-papa-que-es-medico-me-decia-que-la-gente-no-vuelve-del-respirador/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T11:32:20+00:00</news:publication_date>
+			<news:title>El crudo relato de un contagiado con COVID-19: &#8220;Mi papá, que es médico, me decía que la gente no vuelve del respirador&#8221;</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/ventiladores-made-in-chile-produccion-en-serie-podria-comenzar-en-dos-semanas-en-diversas-universidades-nacionales/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T11:18:35+00:00</news:publication_date>
+			<news:title>Ventiladores &#8216;made in Chile&#8217;: Producción en serie podría comenzar en dos semanas en diversas universidades nacionales</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/joven-da-la-vuelta-al-mundo-con-su-noble-iniciativa-elabora-mascarillas-especiales-para-sordos-en-tiempos-de-pandemia/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T11:17:11+00:00</news:publication_date>
+			<news:title>Joven da la vuelta al mundo con su noble iniciativa: Elabora mascarillas especiales para sordos en tiempos de pandemia</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/enterate-de-las-exigencias-de-mall-plaza-para-acceder-a-sus-centros-comerciales/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T11:10:04+00:00</news:publication_date>
+			<news:title>Entérate de las exigencias de Mall Plaza para acceder a sus centros comerciales</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/video-conmovedor-viral-hombre-libera-a-sus-pajaros-al-sentir-el-mismo-encierro-que-ellos/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T11:08:23+00:00</news:publication_date>
+			<news:title>VIDEO&#124; Conmovedor viral: hombre libera a sus pájaros al sentir el mismo encierro que ellos</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/en-vivo-mira-un-nuevo-capitulo-de-el-matinal-de-los-que-sobran-16/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T11:03:03+00:00</news:publication_date>
+			<news:title>VIDEO&#124; El Matinal de los que Sobran &#8211; Capítulo 13 de abril</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/hija-de-alcalde-de-lo-barnechea-sorprendida-en-segunda-vivienda-de-zapallar-tendria-autorizacion-de-seremi-de-salud/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T10:11:45+00:00</news:publication_date>
+			<news:title>Hija de alcalde de Lo Barnechea sorprendida en segunda vivienda de Zapallar: tendría autorización de Seremi de Salud</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/encuesta-79-esta-en-desacuerdo-con-el-levantamiento-de-las-cuarentena-en-la-r-m/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T10:08:03+00:00</news:publication_date>
+			<news:title>Encuesta: 79% está en desacuerdo con el levantamiento de las cuarentenas en la R.M.</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/identifican-a-dos-de-las-personas-que-volaron-en-helicoptero-a-zapallar/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T09:56:57+00:00</news:publication_date>
+			<news:title>Identifican a dos de las personas que volaron en helicóptero a Zapallar</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/sebastian-pinera-descarta-de-plano-una-cuarentena-total-en-chile-no-es-sostenible/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T09:47:39+00:00</news:publication_date>
+			<news:title>Sebastián Piñera descarta de plano una cuarentena total en Chile: “No es sostenible”</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/videos-nuevo-hospital-felix-bulnes-se-inunda-con-la-lluvia-a-las-pocas-horas-de-ser-inaugurado-por-pinera/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T09:21:42+00:00</news:publication_date>
+			<news:title>VIDEOS&#124; Nuevo Hospital Félix Bulnes se inunda con la lluvia a las pocas horas de ser inaugurado por Piñera</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/con-ninos-y-sin-mascarillas-pastor-evangelico-condenado-por-delitos-sexuales-a-menores-sigue-haciendo-misas/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T09:02:00+00:00</news:publication_date>
+			<news:title>Con niños y sin mascarillas: pastor evangélico condenado por delitos sexuales a menores sigue haciendo reuniones</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/video-profundo-socavon-mantiene-totalmente-cortada-la-alameda-en-pleno-centro/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T08:37:56+00:00</news:publication_date>
+			<news:title>VIDEO&#124; Profundo socavón mantiene totalmente cortada la Alameda en pleno centro</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/pymes-y-paquete-de-medidas-economicas-acorraladas-por-un-monstruo-de-tres-cabezas/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T07:10:37+00:00</news:publication_date>
+			<news:title>Pymes y paquete de medidas económicas: Acorraladas por un monstruo de tres cabezas</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/es-mejor-pedir-perdon-que-pedir-permiso/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T07:02:58+00:00</news:publication_date>
+			<news:title>¿Es mejor pedir perdón que pedir permiso?</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/agua-segura-para-chile/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T07:00:44+00:00</news:publication_date>
+			<news:title>Agua segura para Chile</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/la-desconexion-del-ministro-de-educacion-y-el-sueno-truncado-de-las-clases-online-para-las-escuelas-rurales-y-mas-pobres/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T06:50:39+00:00</news:publication_date>
+			<news:title>Mineduc y el sueño truncado de las clases online para las escuelas rurales</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/13/izkia-siches-pide-al-gobierno-transparentar-informacion-a-la-mesa-social-covid-19-tenemos-las-mismas-preguntas-desde-el-dia-uno/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-13T00:24:50+00:00</news:publication_date>
+			<news:title>Izkia Siches pide al gobierno transparentar información a la Mesa Social COVID-19: &#8220;Tenemos las mismas preguntas desde el día uno&#8221;</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/12/madre-y-su-hija-recien-nacida-dan-positivo-para-covid-19-en-temuco/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-12T23:18:29+00:00</news:publication_date>
+			<news:title>Madre y su hija recién nacida dan positivo para COVID-19 en Temuco</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/12/presunto-femicidio-frustrado-ex-chica-reality-de-canal-13-hospitalizada-tras-recibir-balazo-que-le-habria-propinado-su-pareja/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-12T22:30:04+00:00</news:publication_date>
+			<news:title>Presunto femicidio frustrado: Ex chica reality de Canal 13 hospitalizada tras recibir balazo que le habría propinado su pareja</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/12/sinluz-onemi-declara-alerta-preventiva-en-la-rm-por-evento-meteorologico-que-habria-ocasionado-cortes-de-electricidad-en-16-comunas/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-12T21:26:06+00:00</news:publication_date>
+			<news:title>#SinLuz: Onemi declara alerta preventiva en la RM por &#8220;evento meteorológico&#8221; que habría ocasionado cortes de electricidad en 16 comunas</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/12/ricardo-lagos-defiende-indulto-a-criminales-de-lesa-humanidad-yo-haria-lo-que-quiere-el-senor-presidente/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-12T20:39:15+00:00</news:publication_date>
+			<news:title>Ricardo Lagos defiende indulto a criminales de lesa humanidad: &#8220;Yo haría lo que quiere el señor Presidente&#8221;</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/12/cinco-alcaldes-de-la-derecha-lideran-ranking-de-presencia-en-matinales-con-294-apariciones-en-un-mes/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-12T20:31:31+00:00</news:publication_date>
+			<news:title>Cinco alcaldes de la derecha lideran ranking de presencia en matinales con 294 apariciones en un mes</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/libros/hay-kastos-para-rato-belen-mora-denuncia-amenazas-tras-video-en-que-se-burla-de-la-clase-alta-en-cuarentena/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-12T19:02:35+00:00</news:publication_date>
+			<news:title>Hay KasTos para rato: Belén Mora denuncia amenazas tras video en que se burla de la clase alta en cuarentena</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/12/es-una-ofensa-no-solo-para-mi-familia-sino-para-la-historia-del-pais-familiares-rechazan-rebaja-de-condena-a-ex-agentes-de-la-dina/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-12T18:38:40+00:00</news:publication_date>
+			<news:title>&#8220;Es una ofensa no solo para mi familia, sino para la historia del país&#8221;: Familiares rechazan rebaja de condena a ex agentes de la DINA</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/12/alberto-fernandez-y-dilema-entre-economia-y-salud-publica-prefiero-tener-un-10-mas-de-pobres-y-no-100-mil-muertos-en-la-argentina/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-12T17:58:35+00:00</news:publication_date>
+			<news:title>Alberto Fernández y dilema entre economía y salud pública: &#8220;Prefiero tener un 10% más de pobres y no 100 mil muertos en la Argentina&#8221;</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/12/alcalde-de-cerro-navia-explic-el-porque-de-su-ausencia-en-la-visita-de-pinera-al-hospital-felix-bulnes/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-12T17:26:42+00:00</news:publication_date>
+			<news:title>Alcalde de Cerro Navia revela el porqué de su ausencia en la visita de Piñera al Hospital Félix Bulnes</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/12/dato-revisa-aqui-los-requisitos-y-los-bancos-en-los-que-podras-solicitar-los-creditos-a-tasa-0-de-interes-que-anuncio-el-presidente/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-12T16:45:55+00:00</news:publication_date>
+			<news:title>DATO&#124; Revisa aquí los requisitos y los bancos en los que podrás solicitar los créditos &#8220;a tasa 0% de interés&#8221; que anunció el Presidente</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/12/el-presidente-de-la-dc-es-como-el-mono-porfiado-de-la-derecha-comunes-responde-a-dichos-de-fuad-chahin/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-12T16:16:33+00:00</news:publication_date>
+			<news:title>&#8220;El presidente de la DC es como el mono porfiado de la derecha&#8221;: Comunes responde a dichos de Fuad Chahin</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/12/evelyn-matthei-sobre-el-levantamiento-de-la-cuarentena-en-providencia-esto-no-es-chipe-libre/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-12T15:44:40+00:00</news:publication_date>
+			<news:title>Evelyn Matthei sobre el levantamiento de la cuarentena en Providencia: &#8220;Esto no es chipe libre&#8221;</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/12/bielsa-protege-a-sus-jugadores-hacerles-volver-a-una-cancha-sin-garantizarles-su-seguridad-es-un-gran-riesgo/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-12T15:18:38+00:00</news:publication_date>
+			<news:title>Bielsa protege a sus jugadores: &#8220;Hacerles volver a una cancha sin garantizarles su seguridad es un gran riesgo&#8221;</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/12/gobierno-se-querella-contra-contagiados-de-covid-19-que-incumplieron-cuarentena-en-lider-de-nunoa/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-12T15:12:27+00:00</news:publication_date>
+			<news:title>Gobierno se querella contra contagiados de COVID-19 que incumplieron cuarentena en Líder de Ñuñoa</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/12/alcalde-de-puente-alto-califica-de-inentendible-cuarentena-parcial-tras-haber-triplicado-cifra-de-contagios-en-la-comuna/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-12T14:57:13+00:00</news:publication_date>
+			<news:title>Alcalde de Puente Alto califica de &#8220;inentendible&#8221; cuarentena parcial tras haber triplicado cifra de contagios en la comuna</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/12/carabineros-disparo-mas-de-2-000-perdigones-cuando-dejaron-ciego-a-gustavo-gatica/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-12T14:39:21+00:00</news:publication_date>
+			<news:title>Carabineros disparó más de 2.000 perdigones el día que dejaron ciego a Gustavo Gatica</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/12/diecinueve-carabineros-de-la-guardia-de-palacio-habrian-dado-positivo-para-covid-19/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-12T14:29:34+00:00</news:publication_date>
+			<news:title>Diecinueve Carabineros de la Guardia de Palacio habrían dado positivo para COVID-19</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/12/videos-vecinos-de-cerro-navia-funan-a-pinera-en-visita-al-hospital-felix-bulnes/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-12T13:47:05+00:00</news:publication_date>
+			<news:title>VIDEOS&#124; Vecinos de Cerro Navia funan a Piñera en visita al Hospital Félix Bulnes</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://www.eldesconcierto.cl/2020/04/12/minsal-entrega-nuevo-reporte-286-nuevos-casos-marcan-un-aparente-aplanamiento-de-la-curva/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>El Desconcierto</news:name>
+				<news:language>es</news:language>
+			</news:publication>
+			<news:publication_date>2020-04-12T13:29:17+00:00</news:publication_date>
+			<news:title>Minsal entrega nuevo reporte: 286 nuevos casos marcan un aparente aplanamiento de la curva</news:title>
+			<news:keywords></news:keywords>
+			<news:stock_tickers></news:stock_tickers>
+		</news:news>
+	</url>
+</urlset>

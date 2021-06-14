@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>http://www.ala.org/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://www.ala.org/footer-feedback</loc><lastmod>2012-07-05T21:15Z</lastmod><changefreq>never</changefreq><priority>0.6</priority></url>
+<url><loc>http://www.ala.org/copyright</loc><lastmod>2019-05-24T17:34Z</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+<url><loc>http://www.ala.org/privacypolicy</loc><lastmod>2018-07-16T17:32Z</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+<url><loc>http://www.ala.org/everysite</loc><lastmod>2017-08-11T17:28Z</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+<url><loc>http://www.ala.org/user-guidelines</loc><lastmod>2017-02-13T21:47Z</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+<url><loc>http://www.ala.org/everysitemap</loc><lastmod>2018-03-08T15:54Z</lastmod><changefreq>never</changefreq><priority>1.0</priority></url>
+<url><loc>http://www.ala.org/supercontact</loc><lastmod>2017-04-07T21:03Z</lastmod><changefreq>never</changefreq><priority>0.6</priority></url>
+<url><loc>http://www.ala.org/3-column-test</loc><lastmod>2017-05-16T21:35Z</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+<url><loc>http://www.ala.org/p-tag-test</loc><lastmod>2017-10-24T18:33Z</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+<url><loc>http://www.ala.org/search-results</loc><lastmod>2018-01-18T22:39Z</lastmod><changefreq>never</changefreq><priority>0.8</priority></url>
+<url><loc>http://www.ala.org/ala-service-providers</loc><lastmod>2018-07-09T20:37Z</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+<url><loc>http://www.ala.org/personal-data-notification-registrations</loc><lastmod>2018-05-23T19:21Z</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
+<url><loc>http://www.ala.org/personal-data-notification</loc><lastmod>2018-05-23T18:39Z</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+<url><loc>http://www.ala.org/CMSwebinar</loc><lastmod>2019-07-02T19:03Z</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+<url><loc>http://www.ala.org/test-feed</loc><lastmod>2020-04-02T20:41Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>http://www.ala.org/covid</loc><lastmod>2020-04-05T19:04Z</lastmod><changefreq>always</changefreq><priority>0.8</priority></url>
+</urlset>

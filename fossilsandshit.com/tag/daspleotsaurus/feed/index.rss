@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Daspleotsaurus &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/daspleotsaurus/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Dec 2017 00:50:26 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Tyrannosaurs &#8211; the weird lovers we always wanted them to be? &#124; PLOS Paleo Community</title>
+		<link>http://fossilsandshit.com/tyrannosaurs-the-weird-lovers-we-always-wanted-them-to-be-plos-paleo-community/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tyrannosaurs-the-weird-lovers-we-always-wanted-them-to-be-plos-paleo-community</link>
+					<comments>http://fossilsandshit.com/tyrannosaurs-the-weird-lovers-we-always-wanted-them-to-be-plos-paleo-community/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Wed, 13 Dec 2017 00:50:26 +0000</pubDate>
+				<category><![CDATA[Fossils]]></category>
+		<category><![CDATA[Palaeontology]]></category>
+		<category><![CDATA[Daspleotsaurus]]></category>
+		<category><![CDATA[Sixth Sense]]></category>
+		<category><![CDATA[Tyrannosaurs]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=2753</guid>
+
+					<description><![CDATA[<p>Jurassic World, you got it all wrong. Why make up a new dinosaur by fusing genetics, when you already have one that was terrifying enough? And also real. Source: Tyrannosaurs &#8211; the weird lovers we always wanted them to be? &#124; PLOS Paleo Community</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/tyrannosaurs-the-weird-lovers-we-always-wanted-them-to-be-plos-paleo-community/">Tyrannosaurs &#8211; the weird lovers we always wanted them to be? | PLOS Paleo Community</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/tyrannosaurs-the-weird-lovers-we-always-wanted-them-to-be-plos-paleo-community/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2753</post-id>	</item>
+	</channel>
+</rss>

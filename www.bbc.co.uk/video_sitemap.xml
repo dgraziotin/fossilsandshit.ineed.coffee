@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Sitemaps V3.0.4 -->
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd">
+
+<sitemap><loc>http://www.bbc.co.uk/nature/videositemap.xml</loc></sitemap>
+<sitemap><loc>http://www.bbc.co.uk/schools/gcsebitesize/geography/geog_video_site_map.xml</loc></sitemap>
+<sitemap><loc>http://www.bbc.co.uk/news/video_sitemap.xml</loc></sitemap>
+<sitemap><loc>http://www.bbc.co.uk/food/video_sitemap.xml</loc></sitemap>
+
+</sitemapindex>

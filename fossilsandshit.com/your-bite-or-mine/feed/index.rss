@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Your bite or mine?	</title>
+	<atom:link href="http://fossilsandshit.com/your-bite-or-mine/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com/your-bite-or-mine/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=your-bite-or-mine</link>
+	<description></description>
+	<lastBuildDate>Tue, 03 Jun 2014 06:04:59 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>
+		By: Thomas Peace (author)		</title>
+		<link>http://fossilsandshit.com/your-bite-or-mine/#comment-440</link>
+
+		<dc:creator><![CDATA[Thomas Peace (author)]]></dc:creator>
+		<pubDate>Tue, 03 Jun 2014 06:04:59 +0000</pubDate>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=667#comment-440</guid>
+
+					<description><![CDATA[Nice stuff!  I really miss Steve Irwin!  What a great nature lover and advocate for all animals! (tears)]]></description>
+			<content:encoded><![CDATA[<p>Nice stuff!  I really miss Steve Irwin!  What a great nature lover and advocate for all animals! (tears)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

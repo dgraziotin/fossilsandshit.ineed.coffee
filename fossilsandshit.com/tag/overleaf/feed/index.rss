@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Overleaf &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/overleaf/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Tue, 06 Feb 2018 10:34:30 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Sharing your work on paleorXiv is now even easier</title>
+		<link>http://fossilsandshit.com/sharing-work-paleorxiv-now-even-easier/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sharing-work-paleorxiv-now-even-easier</link>
+					<comments>http://fossilsandshit.com/sharing-work-paleorxiv-now-even-easier/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Tue, 06 Feb 2018 10:34:30 +0000</pubDate>
+				<category><![CDATA[Palaeontology]]></category>
+		<category><![CDATA[Center for Open Science]]></category>
+		<category><![CDATA[Open Science Framework]]></category>
+		<category><![CDATA[Overleaf]]></category>
+		<category><![CDATA[PaleorXiv]]></category>
+		<category><![CDATA[publishing]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=2810</guid>
+
+					<description><![CDATA[<p>Our mission at paleorXiv is to make the open sharing of paleontological research as simple as possible for researchers. We&#8217;ve published 65 articles already, and one of the most common pieces of feedback we get is how easy the process is, often only taking a few minutes. For the typical submission process, all you need [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/sharing-work-paleorxiv-now-even-easier/">Sharing your work on paleorXiv is now even easier</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/sharing-work-paleorxiv-now-even-easier/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2810</post-id>	</item>
+	</channel>
+</rss>

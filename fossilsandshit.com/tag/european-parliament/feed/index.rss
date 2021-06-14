@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>European Parliament &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/european-parliament/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 21 Jan 2019 10:26:10 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>European Parliament Petition on Elsevier and the Open Science Monitor</title>
+		<link>http://fossilsandshit.com/european-parliament-petition-on-elsevier-and-the-open-science-monitor/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=european-parliament-petition-on-elsevier-and-the-open-science-monitor</link>
+					<comments>http://fossilsandshit.com/european-parliament-petition-on-elsevier-and-the-open-science-monitor/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Mon, 21 Jan 2019 10:24:09 +0000</pubDate>
+				<category><![CDATA[Open Science]]></category>
+		<category><![CDATA[Democracy]]></category>
+		<category><![CDATA[Elsevier]]></category>
+		<category><![CDATA[European Commission]]></category>
+		<category><![CDATA[European Parliament]]></category>
+		<category><![CDATA[Lisbon Council]]></category>
+		<category><![CDATA[Open Science Monitor]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3507</guid>
+
+					<description><![CDATA[<p>As regular readers here might know, me and Elsevier are not the greatest friends. Last year saw a lot of activism against them, and other scholarly publishers, as a great threat to democratic access to knowledge and the future of [open] science. One of the major points of tension was around Elsevier and their role [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/european-parliament-petition-on-elsevier-and-the-open-science-monitor/">European Parliament Petition on Elsevier and the Open Science Monitor</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/european-parliament-petition-on-elsevier-and-the-open-science-monitor/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3507</post-id>	</item>
+	</channel>
+</rss>

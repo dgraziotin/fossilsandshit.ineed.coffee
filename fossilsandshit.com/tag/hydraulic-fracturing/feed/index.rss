@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Hydraulic Fracturing &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/hydraulic-fracturing/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Wed, 18 Jul 2012 12:19:39 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Science Says: Groundwater Contamination in Pennsylvania Unrelated to Fracking Operations</title>
+		<link>http://fossilsandshit.com/science-says-groundwater-contamination-in-pennsylvania-unrelated-to-fracking-operations/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=science-says-groundwater-contamination-in-pennsylvania-unrelated-to-fracking-operations</link>
+					<comments>http://fossilsandshit.com/science-says-groundwater-contamination-in-pennsylvania-unrelated-to-fracking-operations/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Wed, 18 Jul 2012 12:19:39 +0000</pubDate>
+				<category><![CDATA[Geology]]></category>
+		<category><![CDATA[Contamination]]></category>
+		<category><![CDATA[Fracking]]></category>
+		<category><![CDATA[Gaslands]]></category>
+		<category><![CDATA[Geochemistry]]></category>
+		<category><![CDATA[Groundwater]]></category>
+		<category><![CDATA[Hydraulic Fracturing]]></category>
+		<category><![CDATA[Josh Fox]]></category>
+		<category><![CDATA[Marcellus Shale]]></category>
+		<category><![CDATA[Pennsylvania]]></category>
+		<category><![CDATA[Shale Gas]]></category>
+		<category><![CDATA[Tectonics]]></category>
+		<category><![CDATA[Vengosh]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=267</guid>
+
+					<description><![CDATA[<p>One of the key topics at the moment regarding the future of global energy revolves around the extraction of gas from shale formations through a process known as hydraulic fracturing, or fracking. There is a vigorous and strongly polarised debate between pro- and anti-fracking campaigners, based around environmental concerns.  Many of the issues raised though [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/science-says-groundwater-contamination-in-pennsylvania-unrelated-to-fracking-operations/">Science Says: Groundwater Contamination in Pennsylvania Unrelated to Fracking Operations</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/science-says-groundwater-contamination-in-pennsylvania-unrelated-to-fracking-operations/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">267</post-id>	</item>
+	</channel>
+</rss>

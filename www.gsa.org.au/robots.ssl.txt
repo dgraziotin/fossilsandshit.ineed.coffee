@@ -1,0 +1,16 @@
+User-agent: SemrushBot
+Disallow: /
+User-agent: SemrushBot-SA
+Disallow: /
+User-agent: *
+Disallow: /App_Browsers/
+Disallow: /App_Data/
+Disallow: /AsiCommon/
+Disallow: /bin/
+Disallow: /Core/
+Disallow: /iCore/
+Disallow: /iMISDBUpgrade/
+Disallow: /iParts/
+Disallow: /Old_App_Code/
+Disallow: /RadControls/
+Disallow: /imisservice/

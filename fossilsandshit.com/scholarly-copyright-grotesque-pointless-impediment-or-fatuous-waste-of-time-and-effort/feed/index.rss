@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Scholarly copyright: grotesque, pointless impediment, or fatuous waste of time and effort?	</title>
+	<atom:link href="http://fossilsandshit.com/scholarly-copyright-grotesque-pointless-impediment-or-fatuous-waste-of-time-and-effort/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com/scholarly-copyright-grotesque-pointless-impediment-or-fatuous-waste-of-time-and-effort/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=scholarly-copyright-grotesque-pointless-impediment-or-fatuous-waste-of-time-and-effort</link>
+	<description></description>
+	<lastBuildDate>Sun, 21 Feb 2016 12:24:41 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+</channel>
+</rss>

@@ -1,0 +1,15 @@
+User-agent: Twitterbot
+Disallow:
+
+User-agent: *
+Disallow: /logout
+Disallow: /login
+Disallow: /publish
+Disallow: /backoffice
+Disallow: /explore/download
+Disallow: /explore/dataset/*/download
+Disallow: /explore/dataset/*/rss/
+Disallow: /explore/dataset/*/atom/
+Disallow: /api/v2/*/exports/
+
+Sitemap: https://www.datastro.eu/sitemap.xml

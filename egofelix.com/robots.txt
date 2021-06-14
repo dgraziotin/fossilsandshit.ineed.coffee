@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /search/*
+Disallow: /?s=*
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.egofelix.com/sitemap_index.xml

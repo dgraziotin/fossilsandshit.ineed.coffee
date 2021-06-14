@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /
+
+User-agent: Googlebot
+Disallow: /j/search
+Disallow: /j/cache
+Disallow: /j/zt/search
+Disallow: /j/pt/search
+Disallow: /j/zt/issue/archive?issuesPage=10
+
+Crawl-Delay: 30

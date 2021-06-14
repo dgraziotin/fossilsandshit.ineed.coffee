@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>SpotOn &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/spoton/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Thu, 02 May 2013 17:44:36 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Social Media for Science Outreach – A Case Study: That social media thang</title>
+		<link>http://fossilsandshit.com/social-media-for-science-outreach-a-case-study-that-social-media-thang/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=social-media-for-science-outreach-a-case-study-that-social-media-thang</link>
+					<comments>http://fossilsandshit.com/social-media-for-science-outreach-a-case-study-that-social-media-thang/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Thu, 02 May 2013 17:44:36 +0000</pubDate>
+				<category><![CDATA[Science Communication]]></category>
+		<category><![CDATA[#reachingoutsci]]></category>
+		<category><![CDATA[Academia]]></category>
+		<category><![CDATA[Blogging]]></category>
+		<category><![CDATA[Nature]]></category>
+		<category><![CDATA[Palaeocast]]></category>
+		<category><![CDATA[PhD student]]></category>
+		<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[science communication]]></category>
+		<category><![CDATA[SpotOn]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[university]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=563</guid>
+
+					<description><![CDATA[<p>This was initially posted at: http://www.nature.com/spoton/2013/04/social-media-for-science-outreach-a-case-study-that-social-media-thang/ as part of a series of case studies exploring how academics use social media. Jon began university life as a geologist, following this with a treacherous leap into the life sciences with a course in biodiversity and taxonomy. Now undertaking a PhD in tetrapod biodiversity and extinction at Imperial College London, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/social-media-for-science-outreach-a-case-study-that-social-media-thang/">Social Media for Science Outreach – A Case Study: That social media thang</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/social-media-for-science-outreach-a-case-study-that-social-media-thang/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">563</post-id>	</item>
+		<item>
+		<title>SpotOn London &#8211; a global conference</title>
+		<link>http://fossilsandshit.com/spoton-london-a-global-conference/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=spoton-london-a-global-conference</link>
+					<comments>http://fossilsandshit.com/spoton-london-a-global-conference/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Tue, 13 Nov 2012 18:39:52 +0000</pubDate>
+				<category><![CDATA[PhD]]></category>
+		<category><![CDATA[Policy]]></category>
+		<category><![CDATA[#OpenPhD]]></category>
+		<category><![CDATA[Fossils]]></category>
+		<category><![CDATA[Geology]]></category>
+		<category><![CDATA[London]]></category>
+		<category><![CDATA[Nature]]></category>
+		<category><![CDATA[science communication]]></category>
+		<category><![CDATA[Science Online]]></category>
+		<category><![CDATA[Science Policy]]></category>
+		<category><![CDATA[SOLO]]></category>
+		<category><![CDATA[SpotOn]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=360</guid>
+
+					<description><![CDATA[<p>SpotOn London was held this weekend at the Wellcome Trust, shockingly, in London. The name stands for Science Policy, Outreach and Tools Online, with each of these representing three individual but strongly interwoven strands during the two days. As far as conferences go, it was pretty interactive. Each session was live-streamed, and through that and [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/spoton-london-a-global-conference/">SpotOn London &#8211; a global conference</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/spoton-london-a-global-conference/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">360</post-id>	</item>
+	</channel>
+</rss>

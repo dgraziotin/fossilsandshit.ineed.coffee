@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Mobbing &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/mobbing/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Thu, 13 Feb 2020 17:54:55 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>What academic mobbing feels like</title>
+		<link>http://fossilsandshit.com/what-academic-mobbing-feels-like/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=what-academic-mobbing-feels-like</link>
+					<comments>http://fossilsandshit.com/what-academic-mobbing-feels-like/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2020 17:54:55 +0000</pubDate>
+				<category><![CDATA[Journey To Nowhere]]></category>
+		<category><![CDATA[cancel culture]]></category>
+		<category><![CDATA[Harassment]]></category>
+		<category><![CDATA[Mobbing]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3869</guid>
+
+					<description><![CDATA[<p>In my many years on Twitter, I have seen a lot of interesting things. Back when I first started some 9 years ago, it used to be, well, fun. People would joke, share, and generally enjoy engaging as part of a community. We used to go viral, discussing and celebrating the things we loved. Now [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/what-academic-mobbing-feels-like/">What academic mobbing feels like</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/what-academic-mobbing-feels-like/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3869</post-id>	</item>
+		<item>
+		<title>Cancel Culture Makes Everything Look Worse Than It Is</title>
+		<link>http://fossilsandshit.com/cancel-culture-makes-everything-look-worse-than-it-is/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cancel-culture-makes-everything-look-worse-than-it-is</link>
+					<comments>http://fossilsandshit.com/cancel-culture-makes-everything-look-worse-than-it-is/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2020 05:58:56 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Broken Windows]]></category>
+		<category><![CDATA[cancel culture]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Dogpile]]></category>
+		<category><![CDATA[Doxxing]]></category>
+		<category><![CDATA[JK Rowling]]></category>
+		<category><![CDATA[Mobbing]]></category>
+		<category><![CDATA[Outrage]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3754</guid>
+
+					<description><![CDATA[<p>The logic that animates both cancel culture and broken windows is fundamentally shallow and also fundamentally fear-based. It acts on the assumption that something that’s not necessarily harmful in and of itself but that somehow has the flavor of harmfulness — be it an edgy tweet or some tipsy neighbors hanging out on the stoop [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/cancel-culture-makes-everything-look-worse-than-it-is/">Cancel Culture Makes Everything Look Worse Than It Is</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/cancel-culture-makes-everything-look-worse-than-it-is/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3754</post-id>	</item>
+	</channel>
+</rss>

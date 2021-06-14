@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generated Time:2020-04-14T14:01+00:00 . This is Google news site map INDEX for BETAUS . -->
+
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<sitemap>
+<loc>https://www.reuters.com/sitemap_news_index1.xml</loc>
+<lastmod>2020-04-14T14:01+00:00</lastmod>
+</sitemap>
+<sitemap>
+<loc>https://www.reuters.com/sitemap_news_index2.xml</loc>
+<lastmod>2020-04-14T14:01+00:00</lastmod>
+</sitemap>
+<sitemap>
+<loc>https://www.reuters.com/sitemap_news_index3.xml</loc>
+<lastmod>2020-04-14T14:01+00:00</lastmod>
+</sitemap>
+</sitemapindex>

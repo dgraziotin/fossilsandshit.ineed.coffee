@@ -1,0 +1,5 @@
+Sitemap: https://peercommunityin.org/sitemap.xml
+Sitemap: https://peercommunityin.org/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

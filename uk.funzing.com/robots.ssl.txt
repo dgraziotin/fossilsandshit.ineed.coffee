@@ -1,0 +1,23 @@
+  User-Agent: *
+  Allow: /
+  Disallow: /admin
+  Sitemap: https://uk.funzing.com/sitemap.xml
+  Disallow: /categories_landing
+  Disallow: /fetch_modal_content
+  Disallow: /fb_friends_background_job_status
+  Disallow: /plivo/*
+  Disallow: /api/*
+  Disallow: /download_images/*
+  Disallow: /share_my_mobile_apps
+  Disallow: /fb_virtual_actions
+  Disallow: /mamaya*
+  Disallow: /fb_feed*
+  Disallow: /fb_events_feed*
+  Disallow: /dsa_search_mp_feed*
+  Disallow: /dsa_search_talks_feed*
+  Disallow: /dsa_display_feed*
+  Disallow: /emtxet*
+  Disallow: /fetch_component
+
+  User-Agent: Fyrebot*
+  Disallow: /

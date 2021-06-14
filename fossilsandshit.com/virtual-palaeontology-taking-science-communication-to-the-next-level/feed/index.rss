@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Virtual Palaeontology &#8211; taking science communication to the next level	</title>
+	<atom:link href="http://fossilsandshit.com/virtual-palaeontology-taking-science-communication-to-the-next-level/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com/virtual-palaeontology-taking-science-communication-to-the-next-level/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=virtual-palaeontology-taking-science-communication-to-the-next-level</link>
+	<description></description>
+	<lastBuildDate>Fri, 21 Dec 2012 08:32:18 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>
+		By: Weekly Round-up (Dec 15-21, 2012) &#124; scicommnetwork		</title>
+		<link>http://fossilsandshit.com/virtual-palaeontology-taking-science-communication-to-the-next-level/#comment-340</link>
+
+		<dc:creator><![CDATA[Weekly Round-up (Dec 15-21, 2012) &#124; scicommnetwork]]></dc:creator>
+		<pubDate>Fri, 21 Dec 2012 08:32:18 +0000</pubDate>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=382#comment-340</guid>
+
+					<description><![CDATA[[...] Virtual Palaeontology – Taking Science Communication to the Next Level [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Virtual Palaeontology – Taking Science Communication to the Next Level [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: gravelinspector		</title>
+		<link>http://fossilsandshit.com/virtual-palaeontology-taking-science-communication-to-the-next-level/#comment-339</link>
+
+		<dc:creator><![CDATA[gravelinspector]]></dc:creator>
+		<pubDate>Thu, 20 Dec 2012 07:20:23 +0000</pubDate>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=382#comment-339</guid>
+
+					<description><![CDATA[Several years ago I was looking semi-seriously at building a 3d-printer (step-daughter on gap year ; bedroom for office/ workshop space ; but the wife stole the room for her night-school study instead). One motivation was explicitly to be able to make &quot;virtual endocasts&quot; of, for example, the reptile fossils of the Elgin-Lossiemouth sandstones, which classically &lt;em&gt;aren&#039;t there&lt;/em&gt;.
+One thing that became clear to me is that there is a wide, and confusing, array of file formats available for stages of the process ; a wide and confusing array of programs for collecting / manipulating the data ; and no clear path to designing your toolchain. If I&#039;d been particularly interested in becoming an expert in 3d-printing, that would be great ; but I&#039;m more interested in getting (say) another &quot;Lizzie&quot; out of the rock without destroying the fossil.
+Unless things have changed significantly in the last couple of years, there is a definite need for guidance through this morass, otherwise people will get excessively buried in the details.
+Some years ago there was a comparable situation with respect to &quot;stitching&quot; photographs together to make large and-or panoramic images. I returned to this more recently and discovered the &quot;Hugin&quot; project, which collapses a toolchain of Open Source elements into a much more coherent whole, which can be easily navigated. Sure, each step has lots! (&quot;!&quot; implying &quot;factorial &quot; here! (but not here[exclaim]) of options, but the overall path is well established.
+That, IMHO, is a step that the 3d-processing world needs to take.]]></description>
+			<content:encoded><![CDATA[<p>Several years ago I was looking semi-seriously at building a 3d-printer (step-daughter on gap year ; bedroom for office/ workshop space ; but the wife stole the room for her night-school study instead). One motivation was explicitly to be able to make &#8220;virtual endocasts&#8221; of, for example, the reptile fossils of the Elgin-Lossiemouth sandstones, which classically <em>aren&#8217;t there</em>.<br />
+One thing that became clear to me is that there is a wide, and confusing, array of file formats available for stages of the process ; a wide and confusing array of programs for collecting / manipulating the data ; and no clear path to designing your toolchain. If I&#8217;d been particularly interested in becoming an expert in 3d-printing, that would be great ; but I&#8217;m more interested in getting (say) another &#8220;Lizzie&#8221; out of the rock without destroying the fossil.<br />
+Unless things have changed significantly in the last couple of years, there is a definite need for guidance through this morass, otherwise people will get excessively buried in the details.<br />
+Some years ago there was a comparable situation with respect to &#8220;stitching&#8221; photographs together to make large and-or panoramic images. I returned to this more recently and discovered the &#8220;Hugin&#8221; project, which collapses a toolchain of Open Source elements into a much more coherent whole, which can be easily navigated. Sure, each step has lots! (&#8220;!&#8221; implying &#8220;factorial &#8221; here! (but not here[exclaim]) of options, but the overall path is well established.<br />
+That, IMHO, is a step that the 3d-processing world needs to take.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

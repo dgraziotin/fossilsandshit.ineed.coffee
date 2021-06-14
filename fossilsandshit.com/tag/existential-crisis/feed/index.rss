@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Existential Crisis &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/existential-crisis/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Fri, 29 Mar 2013 13:39:24 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Panic mode, initiated?</title>
+		<link>http://fossilsandshit.com/panic-mode-initiated/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=panic-mode-initiated</link>
+					<comments>http://fossilsandshit.com/panic-mode-initiated/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Fri, 29 Mar 2013 13:39:24 +0000</pubDate>
+				<category><![CDATA[Palaeontology]]></category>
+		<category><![CDATA[PhD]]></category>
+		<category><![CDATA[Science Communication]]></category>
+		<category><![CDATA[University]]></category>
+		<category><![CDATA[#OpenPhD]]></category>
+		<category><![CDATA[Early Career Researcher]]></category>
+		<category><![CDATA[Existential Crisis]]></category>
+		<category><![CDATA[Macroevolution]]></category>
+		<category><![CDATA[Mass extinctions]]></category>
+		<category><![CDATA[palaeoblog]]></category>
+		<category><![CDATA[palaeontologist]]></category>
+		<category><![CDATA[palaeontology]]></category>
+		<category><![CDATA[PhD life]]></category>
+		<category><![CDATA[Science]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=527</guid>
+
+					<description><![CDATA[<p>This was originally posted at: http://blogs.egu.eu/palaeoblog/2013/03/29/panic-mode-initiated/ It&#8217;s been 6 months now, and a while since I updated y&#8217;all with what it&#8217;s like in the world of a PhD-palaeontologist. In case you missed it, my intention was to open up PhD life and research a bit to expose what it&#8217;s like beyond the simple production of research [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/panic-mode-initiated/">Panic mode, initiated?</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/panic-mode-initiated/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">527</post-id>	</item>
+	</channel>
+</rss>

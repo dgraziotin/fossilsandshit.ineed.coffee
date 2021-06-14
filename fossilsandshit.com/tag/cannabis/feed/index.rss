@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Cannabis &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/cannabis/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Thu, 09 Aug 2012 12:23:31 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>The Nutty Professor 2</title>
+		<link>http://fossilsandshit.com/the-nutty-professor-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-nutty-professor-2</link>
+					<comments>http://fossilsandshit.com/the-nutty-professor-2/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Thu, 09 Aug 2012 12:23:31 +0000</pubDate>
+				<category><![CDATA[Policy]]></category>
+		<category><![CDATA[Alcohol]]></category>
+		<category><![CDATA[Cannabis]]></category>
+		<category><![CDATA[David Nutt]]></category>
+		<category><![CDATA[Drugs]]></category>
+		<category><![CDATA[Drugs Control]]></category>
+		<category><![CDATA[Heroin]]></category>
+		<category><![CDATA[Marijuana]]></category>
+		<category><![CDATA[Morality]]></category>
+		<category><![CDATA[Science Policy]]></category>
+		<category><![CDATA[Shit Science]]></category>
+		<category><![CDATA[Tobacco]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=288</guid>
+
+					<description><![CDATA[<p>Drug control is one of the more messy fields of integration of science and policy, and is certainly up there with climate change and the mechanics of Boris Johnson’s hair. The post from yesterday demonstrated how complex the science-policy interface can be, with respect to David Nutt’s dismissal from the Advisory Council on the Misuse [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/the-nutty-professor-2/">The Nutty Professor 2</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/the-nutty-professor-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">301</post-id>	</item>
+	</channel>
+</rss>

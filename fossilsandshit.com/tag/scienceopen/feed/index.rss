@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>ScienceOpen &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/scienceopen/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Thu, 21 Dec 2017 11:29:23 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Leaving ScienceOpen – Time to say goodbye</title>
+		<link>http://fossilsandshit.com/leaving-scienceopen-time-say-goodbye/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=leaving-scienceopen-time-say-goodbye</link>
+					<comments>http://fossilsandshit.com/leaving-scienceopen-time-say-goodbye/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Thu, 21 Dec 2017 11:08:15 +0000</pubDate>
+				<category><![CDATA[Open Science]]></category>
+		<category><![CDATA[ScienceOpen]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=2758</guid>
+
+					<description><![CDATA[<p>Cross posted from here. Well, it has finally come to that time. After two years at ScienceOpen, I’m sad, but also excited, to announce that I’ll be leaving at the end of the year. Sad because I’ll be leaving an amazing team of creators, thinkers, and doers – people who I’m proud to call not [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/leaving-scienceopen-time-say-goodbye/">Leaving ScienceOpen – Time to say goodbye</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/leaving-scienceopen-time-say-goodbye/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2758</post-id>	</item>
+		<item>
+		<title>Other stuff wot I wrote</title>
+		<link>http://fossilsandshit.com/stuff-wot-wrote/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=stuff-wot-wrote</link>
+					<comments>http://fossilsandshit.com/stuff-wot-wrote/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Wed, 17 May 2017 18:22:32 +0000</pubDate>
+				<category><![CDATA[Science Communication]]></category>
+		<category><![CDATA[peer review]]></category>
+		<category><![CDATA[PLOS Paleo]]></category>
+		<category><![CDATA[science communication]]></category>
+		<category><![CDATA[ScienceOpen]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=2336</guid>
+
+					<description><![CDATA[<p>As I&#8217;m sure many of you are aware, this is not the only platform I write on. This is my own personal blog, which explains the perpetually low quality of the ramblings on here. I also write a lot for ScienceOpen, and also the PLOS Paleo Community. The former of these includes a lot of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/stuff-wot-wrote/">Other stuff wot I wrote</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/stuff-wot-wrote/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2336</post-id>	</item>
+		<item>
+		<title>OpenCon Berlin &#8211; Great success!</title>
+		<link>http://fossilsandshit.com/opencon-berlin-great-success/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=opencon-berlin-great-success</link>
+					<comments>http://fossilsandshit.com/opencon-berlin-great-success/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Sun, 04 Dec 2016 15:45:18 +0000</pubDate>
+				<category><![CDATA[Journey To Nowhere]]></category>
+		<category><![CDATA[Open Science]]></category>
+		<category><![CDATA[Berlin]]></category>
+		<category><![CDATA[Digital Science]]></category>
+		<category><![CDATA[Julia Reda]]></category>
+		<category><![CDATA[Open Access]]></category>
+		<category><![CDATA[Open Data]]></category>
+		<category><![CDATA[Open Education]]></category>
+		<category><![CDATA[OpenAIRE]]></category>
+		<category><![CDATA[OpenCon]]></category>
+		<category><![CDATA[ScienceOpen]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=2173</guid>
+
+					<description><![CDATA[<p>Right on the back of OpenCon in DC and my open science talk with the Ministry of Education in Slovenia was our AMAZING OpenCon satellite event in Berlin! We kicked off day one with an epic hackathon, a &#8216;reproducibility hack&#8216; led by Anna Krystalli and Julien Colomb, and with the backing of the PaperHive and Overleaf [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/opencon-berlin-great-success/">OpenCon Berlin &#8211; Great success!</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/opencon-berlin-great-success/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2173</post-id>	</item>
+	</channel>
+</rss>

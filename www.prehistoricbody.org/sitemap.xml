@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.prehistoricbody.org/events</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2019-05-09</lastmod>
+  </url>
+  <url>
+    <loc>https://www.prehistoricbody.org/events/2018/11/11/ghosts-of-hell-creek-at-south-borneo-art-festival</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2018-10-25</lastmod>
+  </url>
+  <url>
+    <loc>https://www.prehistoricbody.org/events/2019/6/15/ghosts-of-hell-creek-viii</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2019-04-01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.prehistoricbody.org/events/2019/3/27/open-call-2019</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2019-04-01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.prehistoricbody.org/events/2019/6/23/ari-rudenko-will-present-prehistoric-body-theater-at-the-north-american-paleontological-convention</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2019-04-01</lastmod>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/t/5c9ba4b2a4222fd99cf50223/1553704126915/sitegraphics.png</image:loc>
+      <image:title>Events - Prehistoric Body at North American Paleontological Convention</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.prehistoricbody.org/news</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2018-10-25</lastmod>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/t/5bc163d824a6945402715372/1539400680425/GoHC+Banner.jpg</image:loc>
+      <image:title>NEWS</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.prehistoricbody.org/news/2018/9/26/prehistoric-body-theater-wins-2018-4culture-artist-grant</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2018-09-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.prehistoricbody.org/news/2018/9/26/patreon-launched</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2018-10-13</lastmod>
+  </url>
+  <url>
+    <loc>https://www.prehistoricbody.org/news/2018/10/12/oxford-university-press-article-published</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2018-10-13</lastmod>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/t/5bc1670eec212d9111497a3d/1539401495464/oup-logo.png</image:loc>
+      <image:title>NEWS - Oxford University Press Article Published</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.prehistoricbody.org/news/2018/10/25/prehistoric-body-theater-is-now-fiscally-sponsored-by-fractured-atlas</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2018-10-25</lastmod>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/t/5bd1df4171c10b27a67cef03/1540480957109/Fractured+Atlas+Logo.png</image:loc>
+      <image:title>NEWS - Prehistoric Body Theater is now fiscally sponsored by Fractured Atlas - We are now fiscally sponsored.</image:title>
+      <image:caption>A new chapter in PBT’s growth as a performance company.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.prehistoricbody.org/about</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2019-07-16</lastmod>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/t/5bc0b40aa4222f9cef20f17b/1539355664200/oup-logo.png</image:loc>
+      <image:title>ABOUT PBT</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/t/5baa5da1652dea2bdd41e4c5/1537892237600/GoHCPosterBergstrom2018.small.jpg</image:loc>
+      <image:title>ABOUT PBT</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/t/5bb1f6018165f5f83cdf0021/1538389529929/GoHC+Banner.jpg</image:loc>
+      <image:title>ABOUT PBT</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.prehistoricbody.org/donate</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2018-10-26</lastmod>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/t/5bd1d0afec212df24c8c7a8d/1540477168795/Fractured+Atlas+Logo.png</image:loc>
+      <image:title>DONATE</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.prehistoricbody.org/ghostsofhellcreek</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <lastmod>2018-10-12</lastmod>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/t/5baa64d3b208fcc81b22babe/1538473601329/ACT2PresentationslideProto.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/t/5baa6519e4966b069ea69a9f/1538473607190/ACT3PresentationslideAchero.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/t/5baa648253450a519af21770/1538473595712/ACT1Presentationslidehaikou.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/t/5baa65944785d36297251894/1538473612829/ACT4PresentationslidePurgi2.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/t/5bae23a9e2c483d0105b9a8a/1538139090218/GoHC+Promo+Image+wide+web.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.prehistoricbody.org/connect</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2018-10-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.prehistoricbody.org/newsevents</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2018-10-02</lastmod>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/t/5bac8e6aa4222ff403add5bd/1538035309730/grey+skinny+sharp+divider2.png</image:loc>
+      <image:title>NEWS + EVENTS</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.prehistoricbody.org/science-hub</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2018-11-07</lastmod>
+  </url>
+  <url>
+    <loc>https://www.prehistoricbody.org/ghosts-of-hell-creek-archive</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2019-08-06</lastmod>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/t/5d44d4ffd73cd500010df239/1564792104748/FINALIGsmaller2.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d4a095bc2f30d0001f37787/5d4a09b1a0e2c400014707cc/1565133334214/FC_Project_Prehistoricbody-BTS_029credit.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d4a095bc2f30d0001f37787/5d4a09aae81d3a000181c5e5/1565133234751/FC_Project_Prehistoricbody-BTS_028credit.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d4a095bc2f30d0001f37787/5d4a09a4a40bff0001267f77/1565133323799/FC_Project_Prehistoricbody-BTS_026credit.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d4a095bc2f30d0001f37787/5d4a0994a0e2c40001470670/1565133312950/FC_Project_Prehistoricbody-BTS_025credit.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d4a095bc2f30d0001f37787/5d4a098853ed6c00013401c6/1565133311010/FC_Project_Prehistoricbody-BTS_024credit.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d4a095bc2f30d0001f37787/5d4a0984eab0710001563a3b/1565133300933/FC_Project_Prehistoricbody-BTS_021credit.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d4a095bc2f30d0001f37787/5d4a096ce32d740001fcca65/1565133294915/FC_Project_Prehistoricbody-BTS_010credit.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d4a095bc2f30d0001f37787/5d4a096cbe2ba400016331de/1565133288139/FC_Project_Prehistoricbody-BTS_004credit.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d43d55f5a6152000113490c/5d43d6a945d34a00018181d5/1564726986463/GOHCBaliChaniago40.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d43d55f5a6152000113490c/5d43d6a660f0ff0001ebc52d/1564726977805/GOHCBaliChaniago39.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d43d55f5a6152000113490c/5d43d693d64cbf0001b728a3/1564726955338/GOHCBaliChaniago38.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d43d55f5a6152000113490c/5d43d68e45d34a00018180e8/1564726952040/GOHCBaliChaniago37.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d43d55f5a6152000113490c/5d43d67acccced00014aebd4/1564726933251/GOHCBaliChaniago36.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d43d55f5a6152000113490c/5d43d675700b100001501074/1564726926469/GOHCBaliChaniago35.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d43d55f5a6152000113490c/5d43d65db35bf0000195ae38/1564726907730/GOHCBaliChaniago34.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d43d55f5a6152000113490c/5d43d65a9636500001726bef/1564726904379/GOHCBaliChaniago33.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d43d55f5a6152000113490c/5d43d63e1c750b0001265132/1564726878722/GOHCBaliChaniago32.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d43d55f5a6152000113490c/5d43d6260c500000016f34c3/1564726847845/GOHCBaliChaniago30.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d43d55f5a6152000113490c/5d43d61fe39a96000173b41d/1564726843389/GOHCBaliChaniago26.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d43d55f5a6152000113490c/5d43d60ed64cbf0001b723b2/1564791357952/GOHCBaliChaniago24.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d43d55f5a6152000113490c/5d43d5f90c500000016f32cf/1564791359467/GOHCBaliChaniago23.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d43d55f5a6152000113490c/5d43d5f14b71aa0001f51a3b/1564726800887/GOHCBaliChaniago22.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d43d55f5a6152000113490c/5d43d5d460f0ff0001ebbc47/1564726779949/GOHCBaliChaniago17.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d43d55f5a6152000113490c/5d43d5c63f688400011a158d/1564726771617/GOHCBaliChaniago16.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d43d55f5a6152000113490c/5d43d5b51c750b0001264b44/1564791354594/GOHCBaliChaniago14.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d43d55f5a6152000113490c/5d43d5a488aabb00017a2f35/1564726719666/GOHCBaliChaniago13.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d43d55f5a6152000113490c/5d43d5883b50bf0001ae63ad/1564726694251/GOHCBaliChaniago11.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d43d55f5a6152000113490c/5d43d57ad64cbf0001b71db7/1564726683101/GOHCBaliChaniago09.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d43d55f5a6152000113490c/5d43d5775c6f09000108dc8c/1564726666203/GOHCBaliChaniago08.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d43d55f5a6152000113490c/5d43d56a5c6f09000108dc16/1564726649155/GOHCBaliChaniago07.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d43d55f5a6152000113490c/5d43d55f96365000017260ba/1564791348178/GOHCBaliChaniago06.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/5d43d55f5a6152000113490c/5d43d55f700b100001500538/1564791345573/GOHCBaliChaniago03.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/t/5bae2c4e0d929727f6e437b8/1538141324170/GoHC+Film+Promo+1+Basic+bright.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/t/5bae2a9cc830256b79fb229c/1538140909061/GoHCPosterBergstrom2018.small.jpg</image:loc>
+      <image:title>GHOSTS of HELL CREEK ARCHIVE</image:title>
+      <image:caption>GHOSTS of HELL CREEK Bergstrom Award Performance Poster, original artwork and design by Ari Rudenko (2018)</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.prehistoricbody.org/opencall</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2019-04-07</lastmod>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/t/5c9a41c8ee6eb05b1f46d26a/1553613268084/Website+Promo+Banner.jpg</image:loc>
+      <image:title>OPEN CALL 2019</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.prehistoricbody.org/ghosts-bahasa-indonesia</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2019-04-08</lastmod>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5aff8fe8c258b4b15dd6f146/t/5cab36f4fa0d607cf14debd1/1554724615975/GOHC+Logo+Image2small.jpg</image:loc>
+      <image:title>GHOSTS Bahasa Indonesia</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.prehistoricbody.org/tickets</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2019-05-11</lastmod>
+  </url>
+  <url>
+    <loc>https://www.prehistoricbody.org/store</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+    <lastmod>2018-09-28</lastmod>
+  </url>
+</urlset>
+

@@ -1,0 +1,5 @@
+Sitemap: https://2dgf.dk/sitemap.xml
+Sitemap: https://2dgf.dk/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

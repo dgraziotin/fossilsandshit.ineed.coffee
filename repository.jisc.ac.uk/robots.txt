@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: http://repository.jisc.ac.uk/sitemap.xml
+
+Disallow: /

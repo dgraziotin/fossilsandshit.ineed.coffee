@@ -1,0 +1,5 @@
+Sitemap: https://www.palaeontologyonline.com/sitemap.xml
+Sitemap: https://www.palaeontologyonline.com/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

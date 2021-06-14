@@ -1,0 +1,43 @@
+User-agent: PiplBot
+Disallow: /
+
+User-Agent: bingbot
+Disallow: /21632812681/
+Disallow: /activate-subscription/
+Disallow: /cgi-bin/
+Disallow: /commenting/
+Disallow: /data/design/
+Disallow: /error/
+Disallow: /feed/
+Disallow: /icons/
+Disallow: /login/
+Disallow: /logout/
+Disallow: /lost-password/
+Disallow: /my-account/
+Disallow: /registration/
+Disallow: /search/
+Disallow: /sign-up/
+Disallow: /upfront/
+Disallow: /wp-admin/
+
+User-agent: *
+Crawl-delay: 10
+Disallow: /21632812681/
+Disallow: /activate-subscription/
+Disallow: /cgi-bin/
+Disallow: /commenting/
+Disallow: /data/design/
+Disallow: /error/
+Disallow: /feed/
+Disallow: /icons/
+Disallow: /login/
+Disallow: /logout/
+Disallow: /lost-password/
+Disallow: /my-account/
+Disallow: /registration/
+Disallow: /search/
+Disallow: /sign-up/
+Disallow: /upfront/
+Disallow: /wp-admin/
+
+Sitemap: https://www.newscientist.com/sitemap.xml

@@ -1,0 +1,25 @@
+User-agent: Googlebot
+Crawl-delay: 30
+Allow: /display/
+Disallow: /display/~*
+Disallow: /display/AMCDPWT/mail/
+Disallow: /display/rdmsgweb/
+Disallow: /
+
+User-agent: Bingbot
+Crawl-delay: 30
+Allow: /display/
+Disallow: /display/~*
+Disallow: /display/AMCDPWT/mail/
+Disallow: /display/rdmsgweb/
+Disallow: /
+
+User-agent: Baiduspider
+Crawl-delay: 30
+#Allow: /display/
+#Disallow: /display/~*
+#Disallow: /display/AMCDPWT/mail/
+Disallow: /
+
+User-agent: *
+Disallow: /

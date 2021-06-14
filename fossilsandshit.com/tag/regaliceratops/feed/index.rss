@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Regaliceratops &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/regaliceratops/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 04 Jan 2016 15:49:10 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Which palaeontology stories in 2015 captured the public&#039;s imagination?</title>
+		<link>http://fossilsandshit.com/which-palaeontology-stories-in-2015-captured-the-publics-imagination/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=which-palaeontology-stories-in-2015-captured-the-publics-imagination</link>
+					<comments>http://fossilsandshit.com/which-palaeontology-stories-in-2015-captured-the-publics-imagination/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Mon, 04 Jan 2016 15:49:10 +0000</pubDate>
+				<category><![CDATA[Fossils]]></category>
+		<category><![CDATA[Palaeontology]]></category>
+		<category><![CDATA[Science Communication]]></category>
+		<category><![CDATA[Altmetric]]></category>
+		<category><![CDATA[Brontosaurus]]></category>
+		<category><![CDATA[Chilesaurus]]></category>
+		<category><![CDATA[Dinosaurs]]></category>
+		<category><![CDATA[Mass extinctions]]></category>
+		<category><![CDATA[Regaliceratops]]></category>
+		<category><![CDATA[sixth mass extinction]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=984</guid>
+
+					<description><![CDATA[<p>Happy New Year everyone! It&#8217;s that time of year when all the summaries of an amazing year of research are coming out, and goodness, what a year it&#8217;s been! The folk over at Altmetric have been kind enough to summarise the top 100 articles of 2015, measured by their altmetrics scores &#8211; a measure of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/which-palaeontology-stories-in-2015-captured-the-publics-imagination/">Which palaeontology stories in 2015 captured the public&#039;s imagination?</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/which-palaeontology-stories-in-2015-captured-the-publics-imagination/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">984</post-id>	</item>
+	</channel>
+</rss>

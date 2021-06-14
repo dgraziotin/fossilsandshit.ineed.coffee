@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>species problem &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/species-problem/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Fri, 27 Jan 2012 01:04:17 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>What is a Fossil Species..?</title>
+		<link>http://fossilsandshit.com/what-is-a-fossil-species/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=what-is-a-fossil-species</link>
+					<comments>http://fossilsandshit.com/what-is-a-fossil-species/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Fri, 27 Jan 2012 01:04:17 +0000</pubDate>
+				<category><![CDATA[Ecology]]></category>
+		<category><![CDATA[Evolution]]></category>
+		<category><![CDATA[Fossils]]></category>
+		<category><![CDATA[Geology]]></category>
+		<category><![CDATA[Homology]]></category>
+		<category><![CDATA[Morphometrics]]></category>
+		<category><![CDATA[Palaeontology]]></category>
+		<category><![CDATA[Zoology]]></category>
+		<category><![CDATA[discovery of dna]]></category>
+		<category><![CDATA[DNA]]></category>
+		<category><![CDATA[fossil organisms]]></category>
+		<category><![CDATA[fossil species]]></category>
+		<category><![CDATA[Iguanodon]]></category>
+		<category><![CDATA[Species]]></category>
+		<category><![CDATA[species concepts]]></category>
+		<category><![CDATA[species problem]]></category>
+		<category><![CDATA[species unit]]></category>
+		<category><![CDATA[Systematics]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=147</guid>
+
+					<description><![CDATA[<p>What do we currently understand by a &#8216;species&#8217;? Naming species, also known as alpha taxonomy, forms the fundamental basis and core of systematic analysis (e.g., for biodiversity, macroevolutionary and ecological studies). Since the origin of the species concept, there has been heated and continuous debate as to what exactly constitutes a species. The discovery of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/what-is-a-fossil-species/">What is a Fossil Species..?</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/what-is-a-fossil-species/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">147</post-id>	</item>
+	</channel>
+</rss>

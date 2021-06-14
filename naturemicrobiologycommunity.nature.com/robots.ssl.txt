@@ -1,0 +1,31 @@
+User-agent: *
+Disallow: /api
+
+User-agent: AhrefsBot
+Crawl-Delay: 10
+
+User-agent: SemrushBot-SA
+Crawl-Delay: 10
+
+User-agent: SemrushBot-BA
+Crawl-Delay: 10
+
+User-agent: SemrushBot-SI
+Crawl-Delay: 10
+
+User-agent: SemrushBot-SWA
+Crawl-Delay: 10
+
+User-agent: SemrushBot-CT
+Crawl-Delay: 10
+
+User-agent: SemrushBot-BM
+Crawl-Delay: 10
+
+User-agent: dotbot
+Crawl-delay: 10
+
+User-agent: rogerbot
+Crawl-delay: 10
+
+Sitemap: https://naturemicrobiologycommunity.nature.com/sitemap.xml.gz

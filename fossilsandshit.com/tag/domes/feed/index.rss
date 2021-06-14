@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Domes &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/domes/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Sun, 17 Nov 2013 20:33:08 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>A double-whammy of dinosaur awesomeness. Pun totally intended.</title>
+		<link>http://fossilsandshit.com/a-double-whammy-of-dinosaur-awesomeness-pun-totally-intended/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=a-double-whammy-of-dinosaur-awesomeness-pun-totally-intended</link>
+					<comments>http://fossilsandshit.com/a-double-whammy-of-dinosaur-awesomeness-pun-totally-intended/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Sun, 17 Nov 2013 20:33:08 +0000</pubDate>
+				<category><![CDATA[Ecology]]></category>
+		<category><![CDATA[Evolution]]></category>
+		<category><![CDATA[Fossils]]></category>
+		<category><![CDATA[Palaeontology]]></category>
+		<category><![CDATA[Taphonomy]]></category>
+		<category><![CDATA[Combat]]></category>
+		<category><![CDATA[Cranium]]></category>
+		<category><![CDATA[Domes]]></category>
+		<category><![CDATA[Head-butting]]></category>
+		<category><![CDATA[Joseph Peterson]]></category>
+		<category><![CDATA[Pachycephalosaurs]]></category>
+		<category><![CDATA[Skulls]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=602</guid>
+
+					<description><![CDATA[<p>This was originally posted at: http://blogs.egu.eu/palaeoblog/?p=873 This is a post about pachycephalosaurs. It’s not a post about feathered dinosaurs, huge dinosaurs, or any of the ones which you may be more familiar with from popular media. Pachycephalosaurs were the dome-headed little scrappers of the Cretaceous, around 85 to 66 million years ago. Their name means ‘thick-skulled [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/a-double-whammy-of-dinosaur-awesomeness-pun-totally-intended/">A double-whammy of dinosaur awesomeness. Pun totally intended.</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/a-double-whammy-of-dinosaur-awesomeness-pun-totally-intended/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">602</post-id>	</item>
+	</channel>
+</rss>

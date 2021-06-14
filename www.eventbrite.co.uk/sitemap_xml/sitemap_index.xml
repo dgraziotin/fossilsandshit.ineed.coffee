@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd">
+
+<sitemap>
+    <loc>https://www.eventbrite.co.uk/sitemap_xml/directory00.xml.gz</loc>
+    <lastmod>2020-04-13T08:52:43Z</lastmod>
+</sitemap>
+
+<sitemap>
+    <loc>https://www.eventbrite.co.uk/sitemap_xml/directory_category00.xml.gz</loc>
+    <lastmod>2020-04-13T08:52:43Z</lastmod>
+</sitemap>
+
+<sitemap>
+    <loc>https://www.eventbrite.co.uk/sitemap_xml/directory_category01.xml.gz</loc>
+    <lastmod>2020-04-13T08:52:43Z</lastmod>
+</sitemap>
+
+<sitemap>
+    <loc>https://www.eventbrite.co.uk/sitemap_xml/events00.xml.gz</loc>
+    <lastmod>2020-04-13T08:52:43Z</lastmod>
+</sitemap>
+
+<sitemap>
+    <loc>https://www.eventbrite.co.uk/sitemap_xml/events01.xml.gz</loc>
+    <lastmod>2020-04-13T08:52:43Z</lastmod>
+</sitemap>
+
+<sitemap>
+    <loc>https://www.eventbrite.co.uk/sitemap_xml/events02.xml.gz</loc>
+    <lastmod>2020-04-13T08:52:43Z</lastmod>
+</sitemap>
+
+<sitemap>
+    <loc>https://www.eventbrite.co.uk/sitemap_xml/events03.xml.gz</loc>
+    <lastmod>2020-04-13T08:52:43Z</lastmod>
+</sitemap>
+
+<sitemap>
+    <loc>https://www.eventbrite.co.uk/sitemap_xml/events04.xml.gz</loc>
+    <lastmod>2020-04-13T08:52:43Z</lastmod>
+</sitemap>
+
+<sitemap>
+    <loc>https://www.eventbrite.co.uk/sitemap_xml/events05.xml.gz</loc>
+    <lastmod>2020-04-13T08:52:43Z</lastmod>
+</sitemap>
+
+<sitemap>
+    <loc>https://www.eventbrite.co.uk/sitemap_xml/events06.xml.gz</loc>
+    <lastmod>2020-04-13T08:52:43Z</lastmod>
+</sitemap>
+
+<sitemap>
+    <loc>https://www.eventbrite.co.uk/sitemap_xml/organizers00.xml.gz</loc>
+    <lastmod>2020-04-13T08:52:43Z</lastmod>
+</sitemap>
+
+<sitemap>
+    <loc>https://www.eventbrite.co.uk/sitemap_xml/organizers01.xml.gz</loc>
+    <lastmod>2020-04-13T08:52:43Z</lastmod>
+</sitemap>
+
+<sitemap>
+    <loc>https://www.eventbrite.co.uk/sitemap_xml/landing_pages00.xml.gz</loc>
+    <lastmod>2020-04-13T08:52:43Z</lastmod>
+</sitemap>
+</sitemapindex>

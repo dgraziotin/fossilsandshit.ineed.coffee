@@ -1,0 +1,10 @@
+User-agent: yandex
+User-agent: bingbot
+User-agent: msnbot
+Disallow:
+Sitemap: https://www.chronicle.com/public/sitemap/chronicle-sitemap-index.xml
+Crawl-delay: 20
+
+User-agent: *
+Disallow:
+Sitemap: https://www.chronicle.com/public/sitemap/chronicle-sitemap-index.xml

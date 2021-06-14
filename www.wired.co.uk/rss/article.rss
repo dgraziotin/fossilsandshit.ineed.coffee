@@ -1,0 +1,999 @@
+<rss xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:merlin="https://code.condenast.co.uk/static/rss.dtd.xml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+    <channel>
+        <title>WIRED UK</title>
+        <link>https://www.wired.co.uk/</link>
+        <description>Future Science, Culture &amp;amp; Technology News and Reviews</description>
+        <language>en-GB</language>
+        <webMaster>condenet.technical@condenast.co.uk (Webmaster)</webMaster>
+        <copyright>Condé Nast Britain 2017</copyright>
+            <lastBuildDate>Tue, 14 Apr 2020 14:35:49 +0000</lastBuildDate>
+            <image>
+                    <url>https://wi-images.condecdn.net/image/placeholder/crop/600/landscape</url>
+                    <title>WIRED UK</title>
+                    <link>https://www.wired.co.uk/</link>
+            </image>
+                <icon>https://wi-images.condecdn.net/image/placeholder/crop/600/square</icon>
+        <atom:link href="" rel="self"/>
+                <webfeeds:cover image="https://wi-images.condecdn.net/image/placeholder/crop/600/landscape" />
+        <webfeeds:related layout="card" target="browser"/>
+            <item>
+                    <description>The British unicorn’s simulation technology can build video games. Can it help us understand the coronavirus crisis?</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/1aP2a5aVDM7</guid>
+                <link>https://www.wired.co.uk/article/improbable-coronavirus-modelling</link>
+                <pubDate>Tue, 14 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Tue, 14 Apr 2020 05:00:00 +0000</published>
+                <updated>Tue, 14 Apr 2020 14:26:04 +0000</updated>
+                <title>Improbable’s simulation tech could help us build better pandemic models</title>
+                    <dc:creator>Gian Volpicelli</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/5wEKDrW1Bkl/crop/1620/landscape/f/gettyimages-1215716545.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/5wEKDrW1Bkl/crop/405/landscape/f/gettyimages-1215716545.jpg" width="405"/>
+                </media:group>
+                    <category>Artificial Intelligence</category>
+                    <category>Politics</category>
+                    <category>Health</category>
+                        <merlin:image orientation="landscape">5wEKDrW1Bkl</merlin:image>
+                    <merlin:teaser>The British unicorn’s simulation technology can build video games. Can it help us understand the coronavirus crisis?</merlin:teaser>
+                    <merlin:intro>The British unicorn’s simulation technology can build video games. Can it help us understand the coronavirus crisis?</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>French economist Thomas Piketty says inequality is a political choice. The solution? Wealth taxes well beyond anything dreamed up by Bernie Sanders</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/31e5oenB2Gl</guid>
+                <link>https://www.wired.co.uk/article/thomas-piketty-capital-ideology</link>
+                <pubDate>Tue, 14 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Tue, 14 Apr 2020 05:00:00 +0000</published>
+                <updated>Tue, 14 Apr 2020 11:10:39 +0000</updated>
+                <title>This economist has a radical plan to solve wealth inequality</title>
+                    <dc:creator>Simon Kuper</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/X4wq7vPywZg/crop/1620/landscape/f/0520ftpiketty01-alt-hero.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/X4wq7vPywZg/crop/405/landscape/f/0520ftpiketty01-alt-hero.jpg" width="405"/>
+                </media:group>
+                    <category>Long Reads</category>
+                    <category>Politics</category>
+                    <category>Economics</category>
+                        <merlin:image orientation="landscape">X4wq7vPywZg</merlin:image>
+                    <merlin:teaser>French economist Thomas Piketty says inequality is a political choice. The solution? Wealth taxes well beyond anything dreamed up by Bernie Sanders</merlin:teaser>
+                    <merlin:intro>French economist Thomas Piketty says inequality is a political choice. The solution? Wealth taxes well beyond anything dreamed up by Bernie Sanders</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>The stress of living under lockdown is playing havoc with our sleep, and things could stay that way for a long time</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/bnAznOkd1zO</guid>
+                <link>https://www.wired.co.uk/article/coronavirus-sleep</link>
+                <pubDate>Tue, 14 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Tue, 14 Apr 2020 05:00:00 +0000</published>
+                <updated>Tue, 14 Apr 2020 05:01:04 +0000</updated>
+                <title>Coronavirus is totally screwing up our sleep – here’s how to fix that</title>
+                    <dc:creator>Eleanor Morgan</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/VQedJle313j/crop/1620/landscape/f/sleep-corona.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/VQedJle313j/crop/405/landscape/f/sleep-corona.jpg" width="405"/>
+                </media:group>
+                    <category>Health</category>
+                    <category>Science</category>
+                        <merlin:image orientation="landscape">VQedJle313j</merlin:image>
+                    <merlin:teaser>The stress of living under lockdown is playing havoc with our sleep, and things could stay that way for a long time</merlin:teaser>
+                    <merlin:intro>The stress of living under lockdown is playing havoc with our sleep, and things could stay that way for a long time</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>When the live sport stopped, the gambling industry pivoted to esports – but virtual tournaments set up during lockdown are attracting the attention of match-fixers</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/0L5r1k2gOK7</guid>
+                <link>https://www.wired.co.uk/article/coronavirus-fifa-match-fixing</link>
+                <pubDate>Mon, 13 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Mon, 13 Apr 2020 05:00:00 +0000</published>
+                <updated>Mon, 13 Apr 2020 05:00:22 +0000</updated>
+                <title>With sport on lockdown, match-fixers are targeting esports stars</title>
+                    <dc:creator>James Walker</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/obMQ3Y3EzNa/crop/1620/landscape/f/aaaasancho_gameplay_hero_hires_wm_16x9.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/obMQ3Y3EzNa/crop/405/landscape/f/aaaasancho_gameplay_hero_hires_wm_16x9.jpg" width="405"/>
+                </media:group>
+                    <category>Gaming</category>
+                    <category>Culture</category>
+                    <category>Sport</category>
+                        <merlin:image orientation="landscape">obMQ3Y3EzNa</merlin:image>
+                    <merlin:teaser>When the live sport stopped, the gambling industry pivoted to esports – but virtual tournaments set up during lockdown are attracting the attention of match-fixers</merlin:teaser>
+                    <merlin:intro>When the live sport stopped, the gambling industry pivoted to esports – but virtual tournaments set up during lockdown are attracting the attention of match-fixers</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>Pick up an Android or Amazon tablet to build into your lockdown education and entertainment schedules</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/q4ZRQbZG9MY</guid>
+                <link>https://www.wired.co.uk/article/best-budget-tablet</link>
+                <pubDate>Mon, 13 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Mon, 13 Apr 2020 05:00:00 +0000</published>
+                <updated>Mon, 13 Apr 2020 05:00:37 +0000</updated>
+                <title>The best budget tablets to buy right now</title>
+                    <dc:creator>WIRED</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/5O9Aj54p4y5/crop/1620/landscape/f/1a-1.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/5O9Aj54p4y5/crop/405/landscape/f/1a-1.jpg" width="405"/>
+                </media:group>
+                    <category>WIRED Recommends</category>
+                    <category>Gear</category>
+                    <category>Tablets</category>
+                        <merlin:image orientation="landscape">5O9Aj54p4y5</merlin:image>
+                    <merlin:teaser>Pick up an Android or Amazon tablet to build into your lockdown education and entertainment schedules</merlin:teaser>
+                    <merlin:intro>Pick up an Android or Amazon tablet to build into your lockdown education and entertainment schedules</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>Decentralised tracing apps that use Bluetooth can stop people’s personal information being abused – here’s how</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/QN3lyddKpmp</guid>
+                <link>https://www.wired.co.uk/article/coronavirus-tracing-apps-privacy</link>
+                <pubDate>Mon, 13 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Mon, 13 Apr 2020 05:00:00 +0000</published>
+                <updated>Mon, 13 Apr 2020 05:00:47 +0000</updated>
+                <title>Coronavirus tracing apps don’t have to kill privacy to be effective</title>
+                    <dc:creator>Nicole Kobie</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/6eoazo5aJJA/crop/1620/landscape/f/corona-privacy.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/6eoazo5aJJA/crop/405/landscape/f/corona-privacy.jpg" width="405"/>
+                </media:group>
+                    <category>Digital Society with Vontobel</category>
+                    <category>Security</category>
+                    <category>Privacy</category>
+                        <merlin:image orientation="landscape">6eoazo5aJJA</merlin:image>
+                    <merlin:teaser>Decentralised tracing apps that use Bluetooth can stop people’s personal information being abused – here’s how</merlin:teaser>
+                    <merlin:intro>Decentralised tracing apps that use Bluetooth can stop people’s personal information being abused – here’s how</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>Government restrictions are a breeze if you’ve got a four-bedroom house and a garden. But millions aren’t so lucky, and our awful housing is exacerbating self-isolation</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/V8GpLQbK58e</guid>
+                <link>https://www.wired.co.uk/article/coronavirus-architecture-isolation-home-design</link>
+                <pubDate>Mon, 13 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Mon, 13 Apr 2020 05:00:00 +0000</published>
+                <updated>Tue, 14 Apr 2020 14:35:49 +0000</updated>
+                <title>Our terrible housing stock is making lockdown life even worse</title>
+                    <dc:creator>Sophie Charara</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/9b9GAxyaP9g/crop/1620/landscape/f/wfh-floorplan-1.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/9b9GAxyaP9g/crop/405/landscape/f/wfh-floorplan-1.jpg" width="405"/>
+                </media:group>
+                    <category>Design</category>
+                    <category>Culture</category>
+                        <merlin:image orientation="landscape">9b9GAxyaP9g</merlin:image>
+                    <merlin:teaser>Government restrictions are a breeze if you’ve got a four-bedroom house and a garden. But millions aren’t so lucky, and our awful housing is exacerbating self-isolation</merlin:teaser>
+                    <merlin:intro>Government restrictions are a breeze if you’ve got a four-bedroom house and a garden. But millions aren’t so lucky, and our awful housing is exacerbating self-isolation</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>With the world in lockdown people are turning to all manner of ways to alleviate the boredom, including cutting their own hair. We asked a professional for their advice. You’re not going to like it</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/be8o6LZbJ6y</guid>
+                <link>https://www.wired.co.uk/article/cut-your-own-hair</link>
+                <pubDate>Sun, 12 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Sun, 12 Apr 2020 05:00:00 +0000</published>
+                <updated>Sun, 12 Apr 2020 05:00:25 +0000</updated>
+                <title>So you really want to cut your own hair. Well, here’s how</title>
+                    <dc:creator>Jeremy White</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/Zaj0JjzYMEb/crop/1620/landscape/f/wired-buzz.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/Zaj0JjzYMEb/crop/405/landscape/f/wired-buzz.jpg" width="405"/>
+                </media:group>
+                    <category>Fashion</category>
+                    <category>Gear</category>
+                        <merlin:image orientation="landscape">Zaj0JjzYMEb</merlin:image>
+                    <merlin:teaser>With the world in lockdown people are turning to all manner of ways to alleviate the boredom, including cutting their own hair. We asked a professional for their advice. You’re not going to like it</merlin:teaser>
+                    <merlin:intro>With the world in lockdown people are turning to all manner of ways to alleviate the boredom, including cutting their own hair. We asked a professional for their advice. You’re not going to like it</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>Lockdown stress and changing sleep patterns have led to a rise in unusual and vivid dreams – but that could be a good thing</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/JbWkbNJ68aR</guid>
+                <link>https://www.wired.co.uk/article/coronavirus-dreams-sleep</link>
+                <pubDate>Sun, 12 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Sun, 12 Apr 2020 05:00:00 +0000</published>
+                <updated>Sun, 12 Apr 2020 05:00:35 +0000</updated>
+                <title>Coronavirus has created an epidemic of weird dreams</title>
+                    <dc:creator>Will Pritchard</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/egZx4KqdQqq/crop/1620/landscape/f/gettyimages-1217564409.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/egZx4KqdQqq/crop/405/landscape/f/gettyimages-1217564409.jpg" width="405"/>
+                </media:group>
+                    <category>Neuroscience</category>
+                    <category>Culture</category>
+                        <merlin:image orientation="landscape">egZx4KqdQqq</merlin:image>
+                    <merlin:teaser>Lockdown stress and changing sleep patterns have led to a rise in unusual and vivid dreams – but that could be a good thing</merlin:teaser>
+                    <merlin:intro>Lockdown stress and changing sleep patterns have led to a rise in unusual and vivid dreams – but that could be a good thing</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>WIRED Recommends the best breadmakers for fresh loaves and homemade pizza</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/Qg7Kgd7KaQX</guid>
+                <link>https://www.wired.co.uk/article/best-breadmaker</link>
+                <pubDate>Sun, 12 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Sun, 12 Apr 2020 05:00:00 +0000</published>
+                <updated>Sun, 12 Apr 2020 05:00:49 +0000</updated>
+                <title>The best breadmakers for all your lockdown stress baking needs</title>
+                    <dc:creator>WIRED</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/DOVxe1WZ43Y/crop/1620/landscape/f/hero.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/DOVxe1WZ43Y/crop/405/landscape/f/hero.jpg" width="405"/>
+                </media:group>
+                    <category>WIRED Recommends</category>
+                    <category>Gear</category>
+                    <category>Smart Home</category>
+                        <merlin:image orientation="landscape">DOVxe1WZ43Y</merlin:image>
+                    <merlin:teaser>WIRED Recommends the best breadmakers for fresh loaves and homemade pizza</merlin:teaser>
+                    <merlin:intro>WIRED Recommends the best breadmakers for fresh loaves and homemade pizza - without leaving the house</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>There&#x27;s been an unlikely effect of the coronavirus lockdown. We&#x27;ve gone booze mad! Sales for some wine merchants are up by 1,000 per cent. Here are the best places still delivering to get superb, calming libations to see you through the days ahead</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/JkG875xGr9Q</guid>
+                <link>https://www.wired.co.uk/article/lockdown-alcohol</link>
+                <pubDate>Sat, 11 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Sat, 11 Apr 2020 05:00:00 +0000</published>
+                <updated>Sat, 11 Apr 2020 05:00:25 +0000</updated>
+                <title>Where to get the best wine, spirits and beer during lockdown</title>
+                    <dc:creator>Guy Woodward</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/EdnN5bypvr0/crop/1620/landscape" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/EdnN5bypvr0/crop/405/landscape" width="405"/>
+                </media:group>
+                    <category>Retail</category>
+                    <category>Gear</category>
+                        <merlin:image orientation="landscape">EdnN5bypvr0</merlin:image>
+                    <merlin:teaser>There&#x27;s been an unlikely effect of the coronavirus lockdown. We&#x27;ve gone booze mad! Sales for some wine merchants are up by 1,000 per cent. Here are the best places still delivering to get superb, calming libations to see you through the days ahead</merlin:teaser>
+                    <merlin:intro>There&#x27;s been an unlikely effect of the coronavirus lockdown. We&#x27;ve gone booze mad! Sales for some wine merchants are up by 1,000 per cent. Here are the best places still delivering to get superb, calming libations to see you through the days ahead</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>All the resistance training, foam rollers and wearables you need to build a home workout set-up</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/Jp9MYezjnb0</guid>
+                <link>https://www.wired.co.uk/article/best-home-fitness-tech</link>
+                <pubDate>Sat, 11 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Sat, 11 Apr 2020 05:00:00 +0000</published>
+                <updated>Sat, 11 Apr 2020 05:00:42 +0000</updated>
+                <title>The home fitness gear to actually keep you fit during lockdown</title>
+                    <dc:creator>Kieran Alger</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/5MGlM1Q2p3X/crop/1620/landscape/f/11.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/5MGlM1Q2p3X/crop/405/landscape/f/11.jpg" width="405"/>
+                </media:group>
+                    <category>Sport</category>
+                    <category>Gear</category>
+                    <category>Wearables</category>
+                        <merlin:image orientation="landscape">5MGlM1Q2p3X</merlin:image>
+                    <merlin:teaser>All the resistance training, foam rollers and wearables you need to build a home workout set-up</merlin:teaser>
+                    <merlin:intro>All the resistance training, foam rollers and wearables you need to build a home workout set-up</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>Police forces are being overwhelmed with reports of lockdown breaches. We need to be very careful with what this leads to</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/NjGo1d6OG2E</guid>
+                <link>https://www.wired.co.uk/article/coronavirus-lockdown-report-neighbours</link>
+                <pubDate>Sat, 11 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Sat, 11 Apr 2020 05:00:00 +0000</published>
+                <updated>Sun, 12 Apr 2020 19:26:57 +0000</updated>
+                <title>Thinking of reporting someone’s lockdown behaviour? Think again</title>
+                    <dc:creator>Matt Burgess</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/0brYlaYEr6z/crop/1620/landscape/f/gettyimages-1216564276.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/0brYlaYEr6z/crop/405/landscape/f/gettyimages-1216564276.jpg" width="405"/>
+                </media:group>
+                    <category>Policing</category>
+                    <category>Security</category>
+                        <merlin:image orientation="landscape">0brYlaYEr6z</merlin:image>
+                    <merlin:teaser>Police forces are being overwhelmed with reports of lockdown breaches. We need to be very careful with what this leads to</merlin:teaser>
+                    <merlin:intro>Police forces are being overwhelmed with reports of lockdown breaches. We need to be very careful with what this leads to</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>Coronaviruses are known to affect domestic cats so it came as no surprise that tigers and lions could get them too. But there is no proof yet that pets can transmit the disease to humans</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/OANp7geloZN</guid>
+                <link>https://www.wired.co.uk/article/coronavirus-zoo-tiger-cat-outbreak</link>
+                <pubDate>Sat, 11 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Sat, 11 Apr 2020 05:00:00 +0000</published>
+                <updated>Sat, 11 Apr 2020 12:36:55 +0000</updated>
+                <title>How zoos are trying to contain possible coronavirus outbreaks</title>
+                    <dc:creator>Sabrina Weiss</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/lW0P2kxarWq/crop/1620/landscape/f/gettyimages-979342140.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/lW0P2kxarWq/crop/405/landscape/f/gettyimages-979342140.jpg" width="405"/>
+                </media:group>
+                    <category>Animals</category>
+                    <category>Science</category>
+                    <category>Health</category>
+                        <merlin:image orientation="landscape">lW0P2kxarWq</merlin:image>
+                    <merlin:teaser>Coronaviruses are known to affect domestic cats so it came as no surprise that tigers and lions could get them too. But there is no proof yet that pets can transmit the disease to humans</merlin:teaser>
+                    <merlin:intro>Coronaviruses are known to affect domestic cats so it came as no surprise that tigers and lions could get them too. But there is no proof yet that pets can transmit the disease to humans</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>The UK government is considering issuing immunity passports to people who can prove they are immune to Covid-19, but the idea is fraught with problems</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/5YW46LklWaN</guid>
+                <link>https://www.wired.co.uk/article/coronavirus-immunity-passports</link>
+                <pubDate>Fri, 10 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Fri, 10 Apr 2020 05:00:00 +0000</published>
+                <updated>Fri, 10 Apr 2020 05:00:27 +0000</updated>
+                <title>Immunity passports aren’t a good way out of the coronavirus crisis</title>
+                    <dc:creator>Will Bedingfield</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/WAVPXbE5Mkw/crop/1620/landscape/f/gettyimages-1217043891.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/WAVPXbE5Mkw/crop/405/landscape/f/gettyimages-1217043891.jpg" width="405"/>
+                </media:group>
+                    <category>Health</category>
+                    <category>Science</category>
+                        <merlin:image orientation="landscape">WAVPXbE5Mkw</merlin:image>
+                    <merlin:teaser>The UK government is considering issuing immunity passports to people who can prove they are immune to Covid-19, but the idea is fraught with problems</merlin:teaser>
+                    <merlin:intro>The UK government is considering issuing immunity passports to people who can prove they are immune to Covid-19, but the idea is fraught with problems</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>Although you can&#x27;t actually leave the house this weekend, you can still experience the outside world through a variety of live-streamed cultural activities</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/mJmOVYPxVb4</guid>
+                <link>https://www.wired.co.uk/article/easter-weekend-lockdown-what-to-do</link>
+                <pubDate>Fri, 10 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Fri, 10 Apr 2020 05:00:00 +0000</published>
+                <updated>Fri, 10 Apr 2020 05:00:42 +0000</updated>
+                <title>Where to ‘go out’ and have fun this lockdown Easter weekend</title>
+                    <dc:creator>Maria Mellor</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/Zr4VxRym57a/crop/1620/landscape/f/49697196078_b677e0269d_o.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/Zr4VxRym57a/crop/405/landscape/f/49697196078_b677e0269d_o.jpg" width="405"/>
+                </media:group>
+                    <category>Internet Culture</category>
+                    <category>Culture</category>
+                    <category>Theatre</category>
+                        <merlin:image orientation="landscape">Zr4VxRym57a</merlin:image>
+                    <merlin:teaser>Although you can&#x27;t actually leave the house this weekend, you can still experience the outside world through a variety of live-streamed cultural activities</merlin:teaser>
+                    <merlin:intro>Although you can&#x27;t actually leave the house this weekend, you can still experience the outside world through a variety of live-streamed cultural activities</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>Ahead of the long weekend, we&#x27;ve picked out the most-absorbing, entertaining, immersive games to get lost in during self-isolation. Stay home, stay safe, play these</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/NKkXoAONDYd</guid>
+                <link>https://www.wired.co.uk/article/video-games-self-isolating</link>
+                <pubDate>Fri, 10 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Fri, 10 Apr 2020 05:00:00 +0000</published>
+                <updated>Fri, 10 Apr 2020 09:21:21 +0000</updated>
+                <title>These games will get you through the long weekend lockdown</title>
+                    <dc:creator>Will Bedingfield, James Temperton, Andy Vandervell and Amit Katwala</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/JY8Qa5PvZm5/crop/1620/landscape/f/NMS5.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/JY8Qa5PvZm5/crop/405/landscape/f/NMS5.jpg" width="405"/>
+                </media:group>
+                    <category>Gaming</category>
+                    <category>Culture</category>
+                        <merlin:image orientation="landscape">JY8Qa5PvZm5</merlin:image>
+                    <merlin:teaser>Ahead of the long weekend, we&#x27;ve picked out the most-absorbing, entertaining, immersive games to get lost in during self-isolation. Stay home, stay safe, play these</merlin:teaser>
+                    <merlin:intro>Ahead of the long weekend, we&#x27;ve picked out the most-absorbing, entertaining, immersive games to get lost in during self-isolation. Stay home, stay safe, play these</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>How to bake without flour or eggs; cook bread without any kneading required; make your own pasta and do just about anything in your kitchen with what you’ve already got in your cupboards</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/yQzBQawyPlk</guid>
+                <link>https://www.wired.co.uk/article/kitchen-hacks-for-lockdown-baking</link>
+                <pubDate>Fri, 10 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Fri, 10 Apr 2020 05:00:00 +0000</published>
+                <updated>Fri, 10 Apr 2020 05:01:03 +0000</updated>
+                <title>No eggs? No worries with this list of ingenious kitchen hacks</title>
+                    <dc:creator>Jeremy White and Alex Lee</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/oGqY1MOKk6N/crop/1620/landscape/f/wired-food-hack.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/oGqY1MOKk6N/crop/405/landscape/f/wired-food-hack.jpg" width="405"/>
+                </media:group>
+                    <category>Food</category>
+                    <category>Gear</category>
+                        <merlin:image orientation="landscape">oGqY1MOKk6N</merlin:image>
+                    <merlin:teaser>How to bake without flour or eggs; cook bread without any kneading required; make your own pasta and do just about anything in your kitchen with what you’ve already got in your cupboards</merlin:teaser>
+                    <merlin:intro>How to bake without flour or eggs; cook bread without any kneading required; make your own pasta and do just about anything in your kitchen with what you’ve already got in your cupboards</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/omV0MXjPgR2</guid>
+                <link>https://www.wired.co.uk/article/subscriber-offer-eds-letter</link>
+                <pubDate>Thu, 09 Apr 2020 17:58:09 +0000</pubDate>
+                <published>Thu, 09 Apr 2020 17:58:09 +0000</published>
+                <updated>Tue, 14 Apr 2020 11:51:17 +0000</updated>
+                <title>In these difficult times, WIRED is looking to the future. Please join us</title>
+                    <dc:creator>Greg Williams</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/J7DMNqP4yqY/crop/1620/landscape/f/wired-future.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/J7DMNqP4yqY/crop/405/landscape/f/wired-future.jpg" width="405"/>
+                </media:group>
+                    <category>Media</category>
+                    <category>Business</category>
+                        <merlin:image orientation="landscape">J7DMNqP4yqY</merlin:image>
+                    <merlin:intro>The world is facing unprecedented social and economic change – our mission is to help you understand and navigate what’s coming next</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>The UK government has high hopes for antibody tests that will tell us who may be immune to coronavirus. But no test has proved itself yet, and they are wrought with other problems</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/roADqKlaDL6</guid>
+                <link>https://www.wired.co.uk/article/coronavirus-antibody-tests-uk-accuracy</link>
+                <pubDate>Thu, 09 Apr 2020 11:51:50 +0000</pubDate>
+                <published>Thu, 09 Apr 2020 11:51:50 +0000</published>
+                <updated>Thu, 09 Apr 2020 12:57:18 +0000</updated>
+                <title>We shouldn’t pin our hopes on a coronavirus antibody test</title>
+                    <dc:creator>Will Bedingfield</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/BJY1VjmA05W/crop/1620/landscape/f/wired-antibody.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/BJY1VjmA05W/crop/405/landscape/f/wired-antibody.jpg" width="405"/>
+                </media:group>
+                    <category>Health</category>
+                    <category>Coronavirus</category>
+                        <merlin:image orientation="landscape">BJY1VjmA05W</merlin:image>
+                    <merlin:teaser>The UK government has high hopes for antibody tests that will tell us who may be immune to coronavirus. But no test has proved itself yet, and they are wrought with other problems</merlin:teaser>
+                    <merlin:intro>The UK government has high hopes for antibody tests that will tell us who may be immune to coronavirus. But no test has proved itself yet, and they are wrought with other problems</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>How the 5G coronavirus conspiracy tore through the web, the UK’s worrying police state creep and how a volunteer army is stitching to fix the UK’s scrubs shortage</description>
+                <guid isPermaLink="false">https://podcast-assets.wired.co.uk/wireduk463-090420.mp3</guid>
+                <link>https://podcast-assets.wired.co.uk/wireduk463-090420.mp3</link>
+                <pubDate>Thu, 09 Apr 2020 11:44:25 +0000</pubDate>
+                <published>Thu, 09 Apr 2020 11:44:25 +0000</published>
+                <updated>Thu, 09 Apr 2020 11:44:25 +0000</updated>
+                <title>How the 5G coronavirus conspiracy tore through the web</title>
+                    <dc:creator>WIRED</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/RdBbnpVG6G3/crop/1620/landscape/f/5g-wired.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/RdBbnpVG6G3/crop/405/landscape/f/5g-wired.jpg" width="405"/>
+                </media:group>
+                    <category>Podcast</category>
+                        <itunes:summary>How the 5G coronavirus conspiracy tore through the web, the UK’s worrying police state creep and how a volunteer army is stitching to fix the UK’s scrubs shortage</itunes:summary>
+                            <enclosure length="0" type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast-assets.wired.co.uk/wireduk463-090420.mp3"/>
+                            <itunes:duration>01:01:00</itunes:duration>
+                        <itunes:keywords>Podcast</itunes:keywords>
+                        <itunes:subtitle>How the 5G coronavirus conspiracy tore through the web, the UK’s worrying police state creep and how a volunteer army is stitching to fix the UK’s scrubs shortage</itunes:subtitle>
+                        <merlin:image orientation="landscape">RdBbnpVG6G3</merlin:image>
+                    <merlin:teaser>How the 5G coronavirus conspiracy tore through the web, the UK’s worrying police state creep and how a volunteer army is stitching to fix the UK’s scrubs shortage</merlin:teaser>
+                    <merlin:intro>How the 5G coronavirus conspiracy tore through the web, the UK’s worrying police state creep and how a volunteer army is stitching to fix the UK’s scrubs shortage</merlin:intro>
+                <merlin:type>Podcast</merlin:type>
+            </item>            <item>
+                    <description>Takeshi Ando has a vision to improve people’s well-being using the power of robotics and empathy</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/Pw6Zp0APldw</guid>
+                <link>https://www.wired.co.uk/article/panasonics-aug-lab-wants-to-use-robotics-to-enrich-peoples-lives</link>
+                <pubDate>Thu, 09 Apr 2020 10:20:52 +0000</pubDate>
+                <published>Thu, 09 Apr 2020 10:20:52 +0000</published>
+                <updated>Thu, 09 Apr 2020 12:21:17 +0000</updated>
+                <title>Panasonic’s Aug Lab wants to use robotics to enrich people’s lives</title>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/ww7gnqBEkjP/crop/1620/landscape/f/wiredxpanasonic-1.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/ww7gnqBEkjP/crop/405/landscape/f/wiredxpanasonic-1.jpg" width="405"/>
+                </media:group>
+                    <category>Promotion</category>
+                    <category>Panasonic</category>
+                        <merlin:image orientation="landscape">ww7gnqBEkjP</merlin:image>
+                    <merlin:sponsor>Panasonic</merlin:sponsor>
+                    <merlin:teaser>Takeshi Ando has a vision to improve people’s well-being using the power of robotics and empathy</merlin:teaser>
+                    <merlin:intro>Takeshi Ando has a vision to improve people’s well-being using the power of robotics and empathy</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>As the global battle for AI dominance and quantum supremacy steps up, it’s possible that we’ll find ourselves in a world that has become less flat and less connected than it is now</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/a7Z65qYwWOm</guid>
+                <link>https://www.wired.co.uk/article/big-tech-geopolitics</link>
+                <pubDate>Thu, 09 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Thu, 09 Apr 2020 05:00:00 +0000</published>
+                <updated>Thu, 09 Apr 2020 15:21:39 +0000</updated>
+                <title>Big tech is now a geopolitical force – and that should worry us all</title>
+                    <dc:creator>Greg Williams</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/LZb8oYn2QxP/crop/1620/landscape/f/0520fredsletter01a.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/LZb8oYn2QxP/crop/405/landscape/f/0520fredsletter01a.jpg" width="405"/>
+                </media:group>
+                    <category>Regulation</category>
+                    <category>Politics</category>
+                        <merlin:image orientation="landscape">LZb8oYn2QxP</merlin:image>
+                    <merlin:teaser>As the global battle for AI dominance and quantum supremacy steps up, it’s possible that we’ll find ourselves in a world that has become less flat and less connected than it is now</merlin:teaser>
+                    <merlin:intro>As the global battle for AI dominance and quantum supremacy steps up, it’s possible that we’ll find ourselves in a world that has become less flat and less connected than it is now</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>Apple used to be about changing the world one magic box at a time. Now it’s fighting to conquer TV drama, healthcare, money, news and much else besides</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/yJzJeL8VAdm</guid>
+                <link>https://www.wired.co.uk/article/future-of-apple</link>
+                <pubDate>Thu, 09 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Thu, 09 Apr 2020 05:00:00 +0000</published>
+                <updated>Thu, 09 Apr 2020 11:14:33 +0000</updated>
+                <title>Has Apple finally bitten off way more than it can chew?</title>
+                    <dc:creator>John Arlidge</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/aAN1ennzBWA/crop/1620/landscape/f/0520ftapple01.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/aAN1ennzBWA/crop/405/landscape/f/0520ftapple01.jpg" width="405"/>
+                </media:group>
+                    <category>Apple</category>
+                    <category>Business</category>
+                        <merlin:image orientation="landscape">aAN1ennzBWA</merlin:image>
+                    <merlin:teaser>Apple used to be about changing the world one magic box at a time. Now it’s fighting to conquer TV drama, healthcare, money, news and much else besides</merlin:teaser>
+                    <merlin:intro>Apple used to be about changing the world one magic box at a time. Now it’s fighting to conquer TV drama, healthcare, money, news and much else besides</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>From new tech to missing tech, size issues and design cues, here are five things we’ve learned about PS5 from the DualSense controller reveal</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/qa5Mnpp1QmZ</guid>
+                <link>https://www.wired.co.uk/article/ps5-dual-sense-controller</link>
+                <pubDate>Wed, 08 Apr 2020 15:35:50 +0000</pubDate>
+                <published>Wed, 08 Apr 2020 15:35:50 +0000</published>
+                <updated>Wed, 08 Apr 2020 15:36:09 +0000</updated>
+                <title>The PS5 DualSense controller reveals a lot about the PS5 itself</title>
+                    <dc:creator>Matt Kamen</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/wxBj59AOJZ6/crop/1620/landscape/f/ps-wired-2.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/wxBj59AOJZ6/crop/405/landscape/f/ps-wired-2.jpg" width="405"/>
+                </media:group>
+                    <category>Gaming</category>
+                    <category>Gear</category>
+                    <category>Sony</category>
+                        <merlin:image orientation="landscape">wxBj59AOJZ6</merlin:image>
+                    <merlin:teaser>From new tech to missing tech, size issues and design cues, here are five things we’ve learned about PS5 from the DualSense controller reveal</merlin:teaser>
+                    <merlin:intro>From new tech to missing tech, size issues and design cues, here are five things we’ve learned about PS5 from the DualSense controller reveal</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>Over a billion people around the world are going to suffer financially as the coronavirus sends the job market into a tailspin</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/Renb34LaBA9</guid>
+                <link>https://www.wired.co.uk/article/coronavirus-jobs-market</link>
+                <pubDate>Wed, 08 Apr 2020 10:52:20 +0000</pubDate>
+                <published>Wed, 08 Apr 2020 10:52:20 +0000</published>
+                <updated>Wed, 08 Apr 2020 10:52:44 +0000</updated>
+                <title>Coronavirus broke the jobs market. The data hints at a far bigger crisis</title>
+                    <dc:creator>Alex Lee</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/zVamor15JJo/crop/1620/landscape/f/gettyimages-1214497056.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/zVamor15JJo/crop/405/landscape/f/gettyimages-1214497056.jpg" width="405"/>
+                </media:group>
+                    <category>Economics</category>
+                    <category>Business</category>
+                        <merlin:image orientation="landscape">zVamor15JJo</merlin:image>
+                    <merlin:teaser>Over a billion people around the world are going to suffer financially as the coronavirus sends the job market into a tailspin</merlin:teaser>
+                    <merlin:intro>Over a billion people around the world are going to suffer financially as the coronavirus sends the job market into a tailspin</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>As the peak of the coronavirus pandemic approaches, the government is scrambling to acquire thousands of ventilators. But time – and maths – aren’t on its side</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/81g2j2KdBG8</guid>
+                <link>https://www.wired.co.uk/article/uk-coronavirus-ventilators</link>
+                <pubDate>Wed, 08 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Wed, 08 Apr 2020 05:00:00 +0000</published>
+                <updated>Wed, 08 Apr 2020 05:00:27 +0000</updated>
+                <title>The UK needs more ventilators and fast. But the maths doesn’t add up</title>
+                    <dc:creator>Alex Lee</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/1EGQYXXYGZQ/crop/1620/landscape/f/gettyimages-1208224252.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/1EGQYXXYGZQ/crop/405/landscape/f/gettyimages-1208224252.jpg" width="405"/>
+                </media:group>
+                    <category>Health</category>
+                    <category>Politics</category>
+                        <merlin:image orientation="landscape">1EGQYXXYGZQ</merlin:image>
+                    <merlin:teaser>As the peak of the coronavirus pandemic approaches, the government is scrambling to acquire thousands of ventilators. But time – and maths – aren’t on its side</merlin:teaser>
+                    <merlin:intro>As the peak of the coronavirus pandemic approaches, the government is scrambling to acquire thousands of ventilators. But time – and maths – aren’t on its side</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>Singapore, along with Hong Kong, South Korea, and Taiwan, thought it had flattened the curve. Then travellers from the US and Europe began reimporting the virus</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/mKBbQRjwYXj</guid>
+                <link>https://www.wired.co.uk/article/asia-coronavirus-second-wave</link>
+                <pubDate>Wed, 08 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Wed, 08 Apr 2020 05:00:00 +0000</published>
+                <updated>Tue, 07 Apr 2020 17:07:22 +0000</updated>
+                <title>Singapore had coronavirus under control. Then the second wave hit</title>
+                    <dc:creator>Adam Rogers</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/EA4E6718oxd/crop/1620/landscape/f/gettyimages-1208943867.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/EA4E6718oxd/crop/405/landscape/f/gettyimages-1208943867.jpg" width="405"/>
+                </media:group>
+                    <category>Health</category>
+                    <category>Science</category>
+                        <merlin:image orientation="landscape">EA4E6718oxd</merlin:image>
+                    <merlin:teaser>Singapore, along with Hong Kong, South Korea, and Taiwan, thought it had flattened the curve. Then travellers from the US and Europe began reimporting the virus</merlin:teaser>
+                    <merlin:intro>Singapore, along with Hong Kong, South Korea, and Taiwan, thought it had flattened the curve. Then travellers from the US and Europe began reimporting the virus</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>The government is considering plans to use the contact-tracing app to boost social distancing</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/6GJ76vk057v</guid>
+                <link>https://www.wired.co.uk/article/nhs-coronavirus-tracking-app</link>
+                <pubDate>Tue, 07 Apr 2020 16:10:37 +0000</pubDate>
+                <published>Tue, 07 Apr 2020 16:10:37 +0000</published>
+                <updated>Tue, 07 Apr 2020 19:28:08 +0000</updated>
+                <title>The NHS coronavirus app could track how long you spend outside</title>
+                    <dc:creator>Gian Volpicelli</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/6RAoBQ6Bakw/crop/1620/landscape/f/wired-nhsx.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/6RAoBQ6Bakw/crop/405/landscape/f/wired-nhsx.jpg" width="405"/>
+                </media:group>
+                    <category>Privacy</category>
+                    <category>Politics</category>
+                    <category>Health</category>
+                        <merlin:image orientation="landscape">6RAoBQ6Bakw</merlin:image>
+                    <merlin:teaser>The government is considering plans to use the contact-tracing app to boost social distancing</merlin:teaser>
+                    <merlin:intro>The government is considering plans to use the contact-tracing app to boost social distancing</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>With the world in lockdown, social games such as Nintendo&#x27;s Animal Crossing are enjoying huge success – in Hong Kong, protestors are using it to get their pro-democracy message heard</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/9ZBbJGmjMNk</guid>
+                <link>https://www.wired.co.uk/article/animal-crossing-hong-kong-protests-coronavirus</link>
+                <pubDate>Tue, 07 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Tue, 07 Apr 2020 05:00:00 +0000</published>
+                <updated>Tue, 07 Apr 2020 05:00:24 +0000</updated>
+                <title>On lockdown, Hong Kong activists are protesting in Animal Crossing</title>
+                    <dc:creator>Max Bernhard</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/YQjMn4n2OpQ/crop/1020/landscape/f/joshua.jpg" width="1020"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/YQjMn4n2OpQ/crop/405/landscape/f/joshua.jpg" width="405"/>
+                </media:group>
+                    <category>Gaming</category>
+                    <category>Culture</category>
+                        <merlin:image orientation="landscape">YQjMn4n2OpQ</merlin:image>
+                    <merlin:teaser>With the world in lockdown, social games such as Nintendo&#x27;s Animal Crossing are enjoying huge success – in Hong Kong, protestors are using it to get their pro-democracy message heard</merlin:teaser>
+                    <merlin:intro>With the world in lockdown, social games such as Nintendo&#x27;s Animal Crossing are enjoying huge success – in Hong Kong, protestors are using it to get their pro-democracy message heard</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/r3p5wDr0mJg</guid>
+                <link>https://www.wired.co.uk/article/5g-coronavirus-conspiracy-theory</link>
+                <pubDate>Mon, 06 Apr 2020 15:59:38 +0000</pubDate>
+                <published>Mon, 06 Apr 2020 15:59:38 +0000</published>
+                <updated>Thu, 09 Apr 2020 13:25:48 +0000</updated>
+                <title>How the 5G coronavirus conspiracy theory tore through the internet</title>
+                    <dc:creator>James Temperton</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/RdBbnpVG6G3/crop/1620/landscape/f/5g-wired.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/RdBbnpVG6G3/crop/405/landscape/f/5g-wired.jpg" width="405"/>
+                </media:group>
+                    <category>Facebook</category>
+                    <category>Politics</category>
+                    <category>YouTube</category>
+                    <category>Media</category>
+                        <merlin:image orientation="landscape">RdBbnpVG6G3</merlin:image>
+                    <merlin:intro>From an interview with an obscure Belgian doctor to apparent arson attacks in the UK, the conspiracy theory that 5G is somehow linked to the coronavirus pandemic has spread unlike any other</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>The NHS is preparing to hand out thousands of Facebook Portals to care homes in a bid to combat lockdown loneliness</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/56O1mmLEpel</guid>
+                <link>https://www.wired.co.uk/article/facebook-portals-in-uk-carehomes</link>
+                <pubDate>Mon, 06 Apr 2020 14:45:37 +0000</pubDate>
+                <published>Mon, 06 Apr 2020 14:45:37 +0000</published>
+                <updated>Thu, 09 Apr 2020 08:49:18 +0000</updated>
+                <title>Facebook plans to install Portals in thousands of UK care homes</title>
+                    <dc:creator>Gian Volpicelli</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/3aElJY9YRY1/crop/1620/landscape/f/portal_3_family.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/3aElJY9YRY1/crop/405/landscape/f/portal_3_family.jpg" width="405"/>
+                </media:group>
+                    <category>Facebook</category>
+                    <category>Politics</category>
+                    <category>Health</category>
+                    <category>Privacy</category>
+                        <merlin:image orientation="landscape">3aElJY9YRY1</merlin:image>
+                    <merlin:teaser>The NHS is preparing to hand out thousands of Facebook Portals to care homes in a bid to combat lockdown loneliness</merlin:teaser>
+                    <merlin:intro>The NHS is preparing to hand out thousands of Facebook Portals to care homes in a bid to combat lockdown loneliness</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>Just one per cent of Sweden’s GDP circulates as cash. As debates over the need for cash rage along lines of age, wealth and location, the country is looking to create a digital currency</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/G1Ro7a0NqXO</guid>
+                <link>https://www.wired.co.uk/article/sweden-cashless-society</link>
+                <pubDate>Mon, 06 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Mon, 06 Apr 2020 05:00:00 +0000</published>
+                <updated>Thu, 09 Apr 2020 15:30:53 +0000</updated>
+                <title>Sweden’s cashless society dream isn’t all it’s cracked up to be</title>
+                    <dc:creator>Morgan Meaker</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/lpaPwN0NoWN/crop/1620/landscape/f/wired-sweden-2.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/lpaPwN0NoWN/crop/405/landscape/f/wired-sweden-2.jpg" width="405"/>
+                </media:group>
+                    <category>Digital Society with Vontobel</category>
+                    <category>Business</category>
+                        <merlin:image orientation="landscape">lpaPwN0NoWN</merlin:image>
+                    <merlin:teaser>Just one per cent of Sweden’s GDP circulates as cash. As debates over the need for cash rage along lines of age, wealth and location, the country is looking to create a digital currency</merlin:teaser>
+                    <merlin:intro>Just one per cent of Sweden’s GDP circulates as cash. As debates over the need for cash rage along lines of age, wealth and location, the country is looking to create a digital currency</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>Most children either get very mild coronavirus symptoms or none at all. It could be down to how their immune systems work</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/JNavdNMVAqX</guid>
+                <link>https://www.wired.co.uk/article/coronavirus-children</link>
+                <pubDate>Mon, 06 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Mon, 06 Apr 2020 05:00:00 +0000</published>
+                <updated>Mon, 06 Apr 2020 10:28:02 +0000</updated>
+                <title>Why does coronavirus seem to affect children less severely?</title>
+                    <dc:creator>Sabrina Weiss</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/PlqdJZNALlL/crop/1620/landscape/f/gettyimaaaages-1207965068.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/PlqdJZNALlL/crop/405/landscape/f/gettyimaaaages-1207965068.jpg" width="405"/>
+                </media:group>
+                    <category>Health</category>
+                    <category>Science</category>
+                        <merlin:image orientation="landscape">PlqdJZNALlL</merlin:image>
+                    <merlin:teaser>Most children either get very mild coronavirus symptoms or none at all. It could be down to how their immune systems work</merlin:teaser>
+                    <merlin:intro>Most children either get very mild coronavirus symptoms or none at all. It could be down to how their immune systems work</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>The most hyped startup in the world is hanging by a thread. But WeWork’s blitzscaling strategy was always going to end in tears</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/YgVj73QoPWV</guid>
+                <link>https://www.wired.co.uk/article/wework-coronavirus-collapse</link>
+                <pubDate>Mon, 06 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Mon, 06 Apr 2020 05:00:00 +0000</published>
+                <updated>Fri, 03 Apr 2020 17:00:03 +0000</updated>
+                <title>Don’t blame coronavirus for WeWork’s collapse, blame WeWork</title>
+                    <dc:creator>Emanuele Midolo</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/b6vG6xvn2b6/crop/1620/landscape/f/wired-uk-wework-alt.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/b6vG6xvn2b6/crop/405/landscape/f/wired-uk-wework-alt.jpg" width="405"/>
+                </media:group>
+                    <category>WIRED Opinion</category>
+                    <category>Business</category>
+                        <merlin:image orientation="landscape">b6vG6xvn2b6</merlin:image>
+                    <merlin:teaser>The most hyped startup in the world is hanging by a thread. But WeWork’s blitzscaling strategy was always going to end in tears</merlin:teaser>
+                    <merlin:intro>The most hyped startup in the world is hanging by a thread. But WeWork’s blitzscaling strategy was always going to end in tears</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>No Touch Bar, no tricks and a Magic Keyboard that’s attached to the rest of the computer? We’d still buy one</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/2EG62nK2rab</guid>
+                <link>https://www.wired.co.uk/article/macbook-air-2020-review</link>
+                <pubDate>Sun, 05 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Sun, 05 Apr 2020 05:00:00 +0000</published>
+                <updated>Sun, 05 Apr 2020 05:00:23 +0000</updated>
+                <title>Apple&#x27;s new MacBook Air proves boring can still be great</title>
+                    <dc:creator>WIRED</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/47rMV7QndZr/crop/1620/landscape/f/4.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/47rMV7QndZr/crop/405/landscape/f/4.jpg" width="405"/>
+                </media:group>
+                    <category>Apple</category>
+                    <category>Gear</category>
+                    <category>Laptops</category>
+                        <merlin:image orientation="landscape">47rMV7QndZr</merlin:image>
+                    <merlin:teaser>No Touch Bar, no tricks and a Magic Keyboard that’s attached to the rest of the computer? We’d still buy one</merlin:teaser>
+                    <merlin:intro>No Touch Bar, no tricks and a Magic Keyboard that’s attached to the rest of the computer? We’d still buy one</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>Netflix&#x27;s Tiger King has made Joe Exotic a star – you can buy unofficial stickers, socks and even a burger. But is it right to celebrate a convicted felon in this way? And what does it say about our obsession with true crime?</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/EY82y8aZmY0</guid>
+                <link>https://www.wired.co.uk/article/netflix-tiger-king-true-crime-merchandise</link>
+                <pubDate>Sun, 05 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Sun, 05 Apr 2020 05:00:00 +0000</published>
+                <updated>Fri, 03 Apr 2020 16:20:08 +0000</updated>
+                <title>Tiger King merch shows the deep flaw of &#x27;true crime&#x27; entertainment</title>
+                    <dc:creator>Amelia Tait</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/r07gYWGdAqy/crop/1620/landscape/f/tiger-king.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/r07gYWGdAqy/crop/405/landscape/f/tiger-king.jpg" width="405"/>
+                </media:group>
+                    <category>TV</category>
+                    <category>Culture</category>
+                    <category>Netflix</category>
+                        <merlin:image orientation="landscape">r07gYWGdAqy</merlin:image>
+                    <merlin:teaser>Netflix&#x27;s Tiger King has made Joe Exotic a star – you can buy unofficial stickers, socks and even a burger. But is it right to celebrate a convicted felon in this way? And what does it say about our obsession with true crime?</merlin:teaser>
+                    <merlin:intro>Netflix&#x27;s Tiger King has made Joe Exotic a star – you can buy unofficial stickers, socks and even a burger. But is it right to celebrate a convicted felon in this way? And what does it say about our obsession with true crime?</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>With clever signage, strict admission policies and carefully curated playlists, supermarkets are cooling the hysteria in the toilet roll aisle</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/Ly3jwrMgJda</guid>
+                <link>https://www.wired.co.uk/article/coronavirus-supermarket-music</link>
+                <pubDate>Sun, 05 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Sun, 05 Apr 2020 05:00:00 +0000</published>
+                <updated>Mon, 06 Apr 2020 10:40:56 +0000</updated>
+                <title>Shops are changing their muzak to trick shoppers into calming down</title>
+                    <dc:creator>Will Pritchard</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/KBnm8pMWx1j/crop/1620/landscape/f/wired-shopping.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/KBnm8pMWx1j/crop/405/landscape/f/wired-shopping.jpg" width="405"/>
+                </media:group>
+                    <category>Food</category>
+                    <category>Culture</category>
+                    <category>Psychology</category>
+                        <merlin:image orientation="landscape">KBnm8pMWx1j</merlin:image>
+                    <merlin:teaser>With clever signage, strict admission policies and carefully curated playlists, supermarkets are cooling the hysteria in the toilet roll aisle</merlin:teaser>
+                    <merlin:intro>With clever signage, strict admission policies and carefully curated playlists, supermarkets are cooling the hysteria in the toilet roll aisle</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>Indulge your inner dark side with our selection of Darth-worthy stealth gear guaranteed to get you back in black</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/MXmeRbMBrY3</guid>
+                <link>https://www.wired.co.uk/article/black-design-gear-products</link>
+                <pubDate>Sun, 05 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Sun, 05 Apr 2020 05:00:00 +0000</published>
+                <updated>Sun, 05 Apr 2020 05:00:56 +0000</updated>
+                <title>Vader go! The best black gear you can buy right now</title>
+                    <dc:creator>Jeremy White and Chris Haslam</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/OVvWQG34nQm/crop/1620/landscape/f/hero.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/OVvWQG34nQm/crop/405/landscape/f/hero.jpg" width="405"/>
+                </media:group>
+                    <category>Cars</category>
+                    <category>Gear</category>
+                    <category>Watches</category>
+                    <category>Headphones</category>
+                        <merlin:image orientation="landscape">OVvWQG34nQm</merlin:image>
+                    <merlin:teaser>Indulge your inner dark side with our selection of Darth-worthy stealth gear guaranteed to get you back in black</merlin:teaser>
+                    <merlin:intro>Indulge your inner dark side with our selection of Darth-worthy stealth gear guaranteed to get you back in black</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>We&#x27;ve ranked every single Pixar movie from Toy Story to Onward</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/9odvpLWngVq</guid>
+                <link>https://www.wired.co.uk/article/best-pixar-movies</link>
+                <pubDate>Sat, 04 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Sat, 04 Apr 2020 05:00:00 +0000</published>
+                <updated>Sat, 04 Apr 2020 05:00:22 +0000</updated>
+                <title>Every Pixar movie on Disney+ UK, ranked from worst to best</title>
+                    <dc:creator>WIRED</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/wEPgZMqYNjd/crop/1620/landscape/f/Finding-Dory-RGB-k207_26epub.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/wEPgZMqYNjd/crop/405/landscape/f/Finding-Dory-RGB-k207_26epub.jpg" width="405"/>
+                </media:group>
+                    <category>Film</category>
+                    <category>Culture</category>
+                        <merlin:image orientation="landscape">wEPgZMqYNjd</merlin:image>
+                    <merlin:teaser>We&#x27;ve ranked every single Pixar movie from Toy Story to Onward</merlin:teaser>
+                    <merlin:intro>We&#x27;ve ranked every single Pixar movie from Toy Story to Onward</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>No scrubs? No problem – an army of volunteer and professional sewers are distributing homemade scrubs to hospitals all over the country</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/l47z0eo73Ql</guid>
+                <link>https://www.wired.co.uk/article/coronavirus-nhs-scrubs-volunteers</link>
+                <pubDate>Sat, 04 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Sat, 04 Apr 2020 05:00:00 +0000</published>
+                <updated>Sat, 04 Apr 2020 05:00:38 +0000</updated>
+                <title>A volunteer army is stitching to fix the coronavirus scrubs shortage</title>
+                    <dc:creator>Victoria Turk</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/OPMmEbY57e0/crop/1620/landscape/f/home-made-scrub-1.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/OPMmEbY57e0/crop/405/landscape/f/home-made-scrub-1.jpg" width="405"/>
+                </media:group>
+                    <category>Fashion</category>
+                    <category>Culture</category>
+                        <merlin:image orientation="landscape">OPMmEbY57e0</merlin:image>
+                    <merlin:teaser>No scrubs? No problem – an army of volunteer and professional sewers are distributing homemade scrubs to hospitals all over the country</merlin:teaser>
+                    <merlin:intro>No scrubs? No problem – an army of volunteer and professional sewers are distributing homemade scrubs to hospitals all over the country</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>The photo mode in Red Dead Redemption 2 has become a playground for frustrated street photographers – and in some ways, it’s better than taking pictures in real life</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/NENazVzB6yZ</guid>
+                <link>https://www.wired.co.uk/article/coronavirus-read-dead-redemption-2-photo-mode</link>
+                <pubDate>Sat, 04 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Sat, 04 Apr 2020 05:00:00 +0000</published>
+                <updated>Sat, 04 Apr 2020 05:00:48 +0000</updated>
+                <title>Self-isolating photographers are making Red Dead Redemption 2 art</title>
+                    <dc:creator>Cian Maher</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/4leRVaaVYwV/crop/1440/landscape/f/street08.jpg" width="1440"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/4leRVaaVYwV/crop/405/landscape/f/street08.jpg" width="405"/>
+                </media:group>
+                    <category>Gaming</category>
+                    <category>Culture</category>
+                    <category>Art</category>
+                        <merlin:image orientation="landscape">4leRVaaVYwV</merlin:image>
+                    <merlin:teaser>The photo mode in Red Dead Redemption 2 has become a playground for frustrated street photographers – and in some ways, it’s better than taking pictures in real life</merlin:teaser>
+                    <merlin:intro>The photo mode in Red Dead Redemption 2 has become a playground for frustrated street photographers – and in some ways, it’s better than taking pictures in real life</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>Governments are starting to tell citizens to wear face masks, but we still don&#x27;t know if they really help cut down the transmission of viruses in non-medical settings</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/O9qQLzvjjk0</guid>
+                <link>https://www.wired.co.uk/article/n95-face-mask-coronavirus</link>
+                <pubDate>Sat, 04 Apr 2020 05:00:00 +0000</pubDate>
+                <published>Sat, 04 Apr 2020 05:00:00 +0000</published>
+                <updated>Wed, 08 Apr 2020 11:29:10 +0000</updated>
+                <title>Should you be wearing a face mask? Scientists still aren&#x27;t sure</title>
+                    <dc:creator>Nicole Kobie</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/0GjDr6lXRj6/crop/1620/landscape/f/facemask.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/0GjDr6lXRj6/crop/405/landscape/f/facemask.jpg" width="405"/>
+                </media:group>
+                    <category>Health</category>
+                    <category>Science</category>
+                        <merlin:image orientation="landscape">0GjDr6lXRj6</merlin:image>
+                    <merlin:teaser>Governments are starting to tell citizens to wear face masks, but we still don&#x27;t know if they really help cut down the transmission of viruses in non-medical settings</merlin:teaser>
+                    <merlin:intro>Governments are starting to tell citizens to wear face masks, but we still don&#x27;t know if they really help cut down the transmission of viruses in non-medical settings</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>The next year under coronavirus, the takeaway food conundrum and we delve into the zoom privacy fears</description>
+                <guid isPermaLink="false">https://podcast-assets.wired.co.uk/wireduk462-030420.mp3</guid>
+                <link>https://podcast-assets.wired.co.uk/wireduk462-030420.mp3</link>
+                <pubDate>Fri, 03 Apr 2020 14:10:56 +0000</pubDate>
+                <published>Fri, 03 Apr 2020 14:10:56 +0000</published>
+                <updated>Fri, 03 Apr 2020 14:10:56 +0000</updated>
+                <title>The next year under coronavirus</title>
+                    <dc:creator>WIRED</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/YwDmelQmBwV/crop/1020/landscape/f/gettyimages-1213275398.jpg" width="1020"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/YwDmelQmBwV/crop/405/landscape/f/gettyimages-1213275398.jpg" width="405"/>
+                </media:group>
+                    <category>Podcast</category>
+                        <itunes:summary>The next year under coronavirus, the takeaway food conundrum and we delve into the zoom privacy fears</itunes:summary>
+                            <enclosure length="0" type="audio/mpeg" url="https://www.podtrac.com/pts/redirect.mp3/podcast-assets.wired.co.uk/wireduk462-030420.mp3"/>
+                            <itunes:duration>00:44:00</itunes:duration>
+                        <itunes:keywords>Podcast</itunes:keywords>
+                        <itunes:subtitle>The next year under coronavirus, the takeaway food conundrum and we delve into the zoom privacy fears</itunes:subtitle>
+                        <merlin:image orientation="landscape">YwDmelQmBwV</merlin:image>
+                    <merlin:teaser>The next year under coronavirus, the takeaway food conundrum and we delve into the zoom privacy fears</merlin:teaser>
+                    <merlin:intro>The next year under coronavirus, the takeaway food conundrum and we delve into the zoom privacy fears</merlin:intro>
+                <merlin:type>Podcast</merlin:type>
+            </item>            <item>
+                    <description>Self-isolating couples are purchasing sex toys and condoms by the bucketload, and activity on dating apps is shooting up too – but will all this extra activity create a post-pandemic baby boom?</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/5QK7xaaMLgX</guid>
+                <link>https://www.wired.co.uk/article/coronavirus-pandemic-sex-toys</link>
+                <pubDate>Fri, 03 Apr 2020 06:00:00 +0000</pubDate>
+                <published>Fri, 03 Apr 2020 06:00:00 +0000</published>
+                <updated>Mon, 06 Apr 2020 09:50:50 +0000</updated>
+                <title>Coronavirus has created a sex toy boom. A baby boom may not follow</title>
+                    <dc:creator>Maria Mellor</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/lg5PWe3rgMa/crop/1620/landscape/f/covid-love.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/lg5PWe3rgMa/crop/405/landscape/f/covid-love.jpg" width="405"/>
+                </media:group>
+                    <category>Sex</category>
+                    <category>Culture</category>
+                        <merlin:image orientation="landscape">lg5PWe3rgMa</merlin:image>
+                    <merlin:teaser>Self-isolating couples are purchasing sex toys and condoms by the bucketload, and activity on dating apps is shooting up too – but will all this extra activity create a post-pandemic baby boom?</merlin:teaser>
+                    <merlin:intro>Self-isolating couples are purchasing sex toys and condoms by the bucketload, and activity on dating apps is shooting up too – but will all this extra activity create a post-pandemic baby boom?</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>Your iPhone made in Shenzen – good. Your face mask also made in Shenzen – bad</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/k32LbQ7nqxA</guid>
+                <link>https://www.wired.co.uk/article/china-coronavirus-trump-geopolitics</link>
+                <pubDate>Fri, 03 Apr 2020 06:00:00 +0000</pubDate>
+                <published>Fri, 03 Apr 2020 06:00:00 +0000</published>
+                <updated>Fri, 03 Apr 2020 06:00:30 +0000</updated>
+                <title>The coronavirus pandemic will break globalisation</title>
+                    <dc:creator>Greg Williams</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/qbq680z3m9G/crop/1620/landscape/f/china-super-1.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/qbq680z3m9G/crop/405/landscape/f/china-super-1.jpg" width="405"/>
+                </media:group>
+                    <category>Health</category>
+                    <category>Politics</category>
+                    <category>China</category>
+                        <merlin:image orientation="landscape">qbq680z3m9G</merlin:image>
+                    <merlin:teaser>Your iPhone made in Shenzen – good. Your face mask also made in Shenzen – bad</merlin:teaser>
+                    <merlin:intro>Your iPhone made in Shenzen – good. Your face mask also made in Shenzen – bad</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>Outbreak modelling has been a crucial part of shaping the government’s Covid-19 response, but every model is riddled with uncertainties</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/KOYbpE6dElp</guid>
+                <link>https://www.wired.co.uk/article/coronavirus-modelling-uk-lockdown</link>
+                <pubDate>Fri, 03 Apr 2020 06:00:00 +0000</pubDate>
+                <published>Fri, 03 Apr 2020 06:00:00 +0000</published>
+                <updated>Fri, 03 Apr 2020 07:39:23 +0000</updated>
+                <title>Why modelling can’t tell us when the UK’s lockdown will end</title>
+                    <dc:creator>Sabrina Weiss</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/PxRr7aMdZwb/crop/1620/landscape/f/wired-covid-lock.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/PxRr7aMdZwb/crop/405/landscape/f/wired-covid-lock.jpg" width="405"/>
+                </media:group>
+                    <category>Health</category>
+                    <category>Science</category>
+                        <merlin:image orientation="landscape">PxRr7aMdZwb</merlin:image>
+                    <merlin:teaser>Outbreak modelling has been a crucial part of shaping the government’s Covid-19 response, but every model is riddled with uncertainties</merlin:teaser>
+                    <merlin:intro>Outbreak modelling has been a crucial part of shaping the government’s Covid-19 response, but every model is riddled with uncertainties</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>It&#x27;s time to lock down your indoor cycling training regime. We&#x27;ve tried out the best turbo trainers for power, accuracy, smart tech and accessories so you can pick the (static) ride that best suits your style</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/Qb2XDErpBk7</guid>
+                <link>https://www.wired.co.uk/article/best-turbo-trainer</link>
+                <pubDate>Thu, 02 Apr 2020 10:03:08 +0000</pubDate>
+                <published>Thu, 02 Apr 2020 10:03:08 +0000</published>
+                <updated>Thu, 02 Apr 2020 12:03:33 +0000</updated>
+                <title>The best turbo trainers for indoor cycling during lockdown</title>
+                    <dc:creator>WIRED</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/vOvkJEVB8Ey/crop/1620/landscape/f/b-2020-wired-recommends-april.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/vOvkJEVB8Ey/crop/405/landscape/f/b-2020-wired-recommends-april.jpg" width="405"/>
+                </media:group>
+                    <category>WIRED Recommends</category>
+                    <category>Gear</category>
+                    <category>Bikes</category>
+                    <category>Health</category>
+                        <merlin:image orientation="landscape">vOvkJEVB8Ey</merlin:image>
+                    <merlin:teaser>It&#x27;s time to lock down your indoor cycling training regime. We&#x27;ve tried out the best turbo trainers for power, accuracy, smart tech and accessories so you can pick the (static) ride that best suits your style</merlin:teaser>
+                    <merlin:intro>It&#x27;s time to lock down your indoor cycling training regime. We&#x27;ve tried out the best turbo trainers for power, accuracy, smart tech and accessories so you can pick the (static) ride that best suits your style</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>The idea that we should give everyone free money is back in vogue in the age of Covid-19. Here&#x27;s why</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/nX9j7q3RNGq</guid>
+                <link>https://www.wired.co.uk/article/can-universal-basic-income-fix-the-coronavirus-crisis</link>
+                <pubDate>Thu, 02 Apr 2020 07:19:13 +0000</pubDate>
+                <published>Thu, 02 Apr 2020 07:19:13 +0000</published>
+                <updated>Fri, 03 Apr 2020 14:42:11 +0000</updated>
+                <title>Can Universal Basic Income fix the coronavirus crisis?</title>
+                    <dc:creator>Gian Volpicelli</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/APMDBDd1AZj/crop/1620/landscape/f/wired-uk-corona-thumbnail.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/APMDBDd1AZj/crop/405/landscape/f/wired-uk-corona-thumbnail.jpg" width="405"/>
+                </media:group>
+                    <category>Health</category>
+                    <category>Politics</category>
+                    <category>Government</category>
+                        <merlin:image orientation="landscape">APMDBDd1AZj</merlin:image>
+                    <merlin:teaser>The idea that we should give everyone free money is back in vogue in the age of Covid-19. Here&#x27;s why</merlin:teaser>
+                    <merlin:intro>The idea that we should give everyone free money is back in vogue in the age of Covid-19. Here&#x27;s why</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>            <item>
+                    <description>The coronavirus lockdown has left renters and prospective buyers in the lurch and the housing market in total turmoil</description>
+                <guid isPermaLink="false">https://www.wired.co.uk/article/uid/3XGWaALo0gE</guid>
+                <link>https://www.wired.co.uk/article/coronavirus-uk-housing-market</link>
+                <pubDate>Thu, 02 Apr 2020 06:00:00 +0000</pubDate>
+                <published>Thu, 02 Apr 2020 06:00:00 +0000</published>
+                <updated>Thu, 02 Apr 2020 06:00:29 +0000</updated>
+                <title>The coronavirus crisis has totally broken the UK&#x27;s housing market</title>
+                    <dc:creator>Jack Needham</dc:creator>
+                <media:group>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/RqQyDyyvWLA/crop/1620/landscape/f/gettyimages-976197692.jpg" width="1620"/>
+                        <media:content medium="image" type="image/jpeg" url="https://wi-images.condecdn.net/image/RqQyDyyvWLA/crop/405/landscape/f/gettyimages-976197692.jpg" width="405"/>
+                </media:group>
+                    <category>Economics</category>
+                    <category>Business</category>
+                        <merlin:image orientation="landscape">RqQyDyyvWLA</merlin:image>
+                    <merlin:teaser>The coronavirus lockdown has left renters and prospective buyers in the lurch and the housing market in total turmoil</merlin:teaser>
+                    <merlin:intro>The coronavirus lockdown has left renters and prospective buyers in the lurch and the housing market in total turmoil</merlin:intro>
+                <merlin:type>Article</merlin:type>
+            </item>    </channel>
+</rss>

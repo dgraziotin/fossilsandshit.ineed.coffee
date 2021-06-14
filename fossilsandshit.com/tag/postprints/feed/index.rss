@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Postprints &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/postprints/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Wed, 29 May 2019 10:57:36 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>New study: An overview of Open Access publishing in palaeontology</title>
+		<link>http://fossilsandshit.com/new-study-an-overview-of-open-access-publishing-in-palaeontology/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=new-study-an-overview-of-open-access-publishing-in-palaeontology</link>
+					<comments>http://fossilsandshit.com/new-study-an-overview-of-open-access-publishing-in-palaeontology/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Wed, 29 May 2019 10:57:36 +0000</pubDate>
+				<category><![CDATA[Open Science]]></category>
+		<category><![CDATA[Palaeontology]]></category>
+		<category><![CDATA[impact factor]]></category>
+		<category><![CDATA[Open Access]]></category>
+		<category><![CDATA[palaeontology]]></category>
+		<category><![CDATA[Postprints]]></category>
+		<category><![CDATA[Preprints]]></category>
+		<category><![CDATA[publishing]]></category>
+		<category><![CDATA[SNIP]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3621</guid>
+
+					<description><![CDATA[<p>Today, Dean Lomax and I published a new study that attempts to provide an overview of the state of Open Access journals and publishing in the field of palaeontology. I don&#8217;t want to repeat what we found too much, so check this Twitter thread for a summary of the main discoveries. Please do get in [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/new-study-an-overview-of-open-access-publishing-in-palaeontology/">New study: An overview of Open Access publishing in palaeontology</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/new-study-an-overview-of-open-access-publishing-in-palaeontology/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3621</post-id>	</item>
+		<item>
+		<title>PaleorXiv: Post-launch update</title>
+		<link>http://fossilsandshit.com/paleorxiv-post-launch-update/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=paleorxiv-post-launch-update</link>
+					<comments>http://fossilsandshit.com/paleorxiv-post-launch-update/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Wed, 11 Oct 2017 11:08:41 +0000</pubDate>
+				<category><![CDATA[Palaeontology]]></category>
+		<category><![CDATA[ASAPbio]]></category>
+		<category><![CDATA[PaleorXiv]]></category>
+		<category><![CDATA[Postprints]]></category>
+		<category><![CDATA[Preprints]]></category>
+		<category><![CDATA[publishing]]></category>
+		<category><![CDATA[Scholarly Communication]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=2678</guid>
+
+					<description><![CDATA[<p>Initial success It&#8217;s been almost 2 months since paleorXiv launched! Since then, 35 papers have been published on the platform. We maintain a database of them all here. We have also created a Code of Conduct and a Diversity Statement, developed with the help of the wider community. These are to help foster paleorXiv as a welcoming community [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/paleorxiv-post-launch-update/">PaleorXiv: Post-launch update</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/paleorxiv-post-launch-update/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2678</post-id>	</item>
+		<item>
+		<title>Infographic: How to make 100% of your research Open Access for free</title>
+		<link>http://fossilsandshit.com/infographic-make-100-research-open-access-free/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=infographic-make-100-research-open-access-free</link>
+					<comments>http://fossilsandshit.com/infographic-make-100-research-open-access-free/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Tue, 20 Jun 2017 17:27:21 +0000</pubDate>
+				<category><![CDATA[Open Science]]></category>
+		<category><![CDATA[ASAPbio]]></category>
+		<category><![CDATA[DOAJ]]></category>
+		<category><![CDATA[Green Open Access]]></category>
+		<category><![CDATA[Open Access]]></category>
+		<category><![CDATA[Postprints]]></category>
+		<category><![CDATA[Preprints]]></category>
+		<category><![CDATA[Sherpa Romeo]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=2548</guid>
+
+					<description><![CDATA[<p>Last week, I unveiled Open Access graphic 3.0. However, it was still pretty terrible, seeing as I have absolutely no creative design skills at all. Luckily, my girlfriend, and the other part of &#8216;Team Open&#8217;, Lisa Matthias, does. She made this wonderful infographic below, which is free for anyone to re-use and share as they [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/infographic-make-100-research-open-access-free/">Infographic: How to make 100% of your research Open Access for free</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/infographic-make-100-research-open-access-free/feed/</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2548</post-id>	</item>
+	</channel>
+</rss>

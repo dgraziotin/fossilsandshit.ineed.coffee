@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>extinct life &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/extinct-life/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Sun, 18 Dec 2011 00:10:50 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>An Introduction to Fossil Preservation</title>
+		<link>http://fossilsandshit.com/an-introduction-to-fossil-preservation/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=an-introduction-to-fossil-preservation</link>
+					<comments>http://fossilsandshit.com/an-introduction-to-fossil-preservation/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Sun, 18 Dec 2011 00:10:50 +0000</pubDate>
+				<category><![CDATA[Ecology]]></category>
+		<category><![CDATA[Evolution]]></category>
+		<category><![CDATA[Geology]]></category>
+		<category><![CDATA[Palaeontology]]></category>
+		<category><![CDATA[Taphonomy]]></category>
+		<category><![CDATA[body fossils]]></category>
+		<category><![CDATA[dead organisms]]></category>
+		<category><![CDATA[Death]]></category>
+		<category><![CDATA[extinct life]]></category>
+		<category><![CDATA[fossil preservation]]></category>
+		<category><![CDATA[Fossils]]></category>
+		<category><![CDATA[palaeontology]]></category>
+		<category><![CDATA[sediment chemistry]]></category>
+		<category><![CDATA[trace fossils]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=79</guid>
+
+					<description><![CDATA[<p>Recently, the UKAFH invited me to write an article for them on fossil preservation. What kind of palaeontologist would possibly decline! [excluding inverts &#8211; they don&#8217;t count] This is just a nice basic guide to taphonomic processes, designed for people with limited knowledge of geology or palaeontology. Feedback, as always, is welcome! 🙂 &#160; &#160; [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/an-introduction-to-fossil-preservation/">An Introduction to Fossil Preservation</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/an-introduction-to-fossil-preservation/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">79</post-id>	</item>
+	</channel>
+</rss>

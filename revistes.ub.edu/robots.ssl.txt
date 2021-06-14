@@ -1,0 +1,22 @@
+User-agent: *
+
+Disallow:/tools
+
+User-Agent: *
+Disallow:/cache
+
+User-agent: *
+crawl-delay: 10
+
+User-agent: SemrushBot
+Disallow: /
+User-agent: SemrushBot-SA
+Disallow: /
+User-agent: SemrushBot/1.2~b
+Disallow: /
+User-agent: BLEXBot
+Disallow: /
+User-agent: SemrushBot/1.2~bl
+Disallow: /
+
+Sitemap: http://revistes.ub.edu/index.php/index/sitemap

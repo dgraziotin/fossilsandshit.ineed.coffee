@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /images/
+Disallow: /js/
+Disallow: /scripts/
+Disallow: /styles/
+Disallow: /wp-admin/
+Disallow: /wordpress/
+Disallow: /blog/
+Disallow: /old/
+Disallow: /test/
+Disallow: /wp/
+Disallow: /bitrix/
+Allow: /dosya1/site.html

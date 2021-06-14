@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>enantiornithine &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/enantiornithine/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Sat, 01 Dec 2018 11:23:11 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Palaeontology and Open Science roundup: November, 2018</title>
+		<link>http://fossilsandshit.com/palaeontology-and-open-science-roundup-november-2018/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=palaeontology-and-open-science-roundup-november-2018</link>
+					<comments>http://fossilsandshit.com/palaeontology-and-open-science-roundup-november-2018/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Sat, 01 Dec 2018 11:23:11 +0000</pubDate>
+				<category><![CDATA[Open Science]]></category>
+		<category><![CDATA[Palaeontology]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Avisauridae]]></category>
+		<category><![CDATA[Cretaceous]]></category>
+		<category><![CDATA[Dinosaurs]]></category>
+		<category><![CDATA[Education International]]></category>
+		<category><![CDATA[Elsevier]]></category>
+		<category><![CDATA[enantiornithine]]></category>
+		<category><![CDATA[EOSC]]></category>
+		<category><![CDATA[Extinction]]></category>
+		<category><![CDATA[Gates Foundation]]></category>
+		<category><![CDATA[Hadrosaurs]]></category>
+		<category><![CDATA[Mass Extinction]]></category>
+		<category><![CDATA[Open Science MOOC]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[Paleontology]]></category>
+		<category><![CDATA[Permian]]></category>
+		<category><![CDATA[Plan_S]]></category>
+		<category><![CDATA[Triassic]]></category>
+		<category><![CDATA[Wellcome Trust]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3393</guid>
+
+					<description><![CDATA[<p>Welcome to your usual roundup of interesting stuff that happened in the last month from the worlds of Open Science and Palaeontology! Enjoy, and let me know if I’ve missed anything out. Previous time. Palaeontology News Nikolov: Osteohistology of the hadrosauroid (Dinosauria: Ornithopoda) from Labirinta cave, Bulgaria: An example of insular dwarfism or simply young giant? Lowery [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/palaeontology-and-open-science-roundup-november-2018/">Palaeontology and Open Science roundup: November, 2018</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/palaeontology-and-open-science-roundup-november-2018/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3393</post-id>	</item>
+	</channel>
+</rss>

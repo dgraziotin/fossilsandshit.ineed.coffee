@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Disgraceful &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/disgraceful/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Wed, 22 Aug 2012 14:44:57 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Permanent, Full-Time Managerial Position. Lunch and Tube Travel as Salary.</title>
+		<link>http://fossilsandshit.com/permanent-full-time-managerial-position-lunch-and-tube-travel-as-salary/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=permanent-full-time-managerial-position-lunch-and-tube-travel-as-salary</link>
+					<comments>http://fossilsandshit.com/permanent-full-time-managerial-position-lunch-and-tube-travel-as-salary/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Wed, 22 Aug 2012 14:44:57 +0000</pubDate>
+				<category><![CDATA[PhD]]></category>
+		<category><![CDATA[Disgraceful]]></category>
+		<category><![CDATA[economy]]></category>
+		<category><![CDATA[GB Mag]]></category>
+		<category><![CDATA[unpaid internship]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=326</guid>
+
+					<description><![CDATA[<p>There was quite a stir earlier this month when UCL advertised an unpaid internship, the full series of responses of can be found here. Now it&#8217;s happened again with BG Mag, but for an editorial/managerial position. The pay? Lunch and travel for Zones 1-3, for a permanent full-time position. Full details are here, and screenshotted below [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/permanent-full-time-managerial-position-lunch-and-tube-travel-as-salary/">Permanent, Full-Time Managerial Position. Lunch and Tube Travel as Salary.</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/permanent-full-time-managerial-position-lunch-and-tube-travel-as-salary/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">326</post-id>	</item>
+	</channel>
+</rss>

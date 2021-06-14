@@ -1,0 +1,14 @@
+# /robots.txt
+
+User-agent: *
+Disallow: /_notes
+Disallow: /direct3dviews/tnterrors
+Disallow: /downloads
+Disallow: /mail
+Disallow: /mime
+Disallow: /nextfest
+Disallow: /np
+Disallow: /pear
+Disallow: /swfs
+Disallow: /waldies
+Disallow: /gsk

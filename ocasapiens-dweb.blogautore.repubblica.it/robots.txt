@@ -1,0 +1,4 @@
+User-agent: *
+Allow: 		/ 
+Disallow: 		/2014/10/29/omeopatia-sperimentale/ 
+Disallow: 		/2014/08/15/ingegneria-piezo-elettro-sindonologica 

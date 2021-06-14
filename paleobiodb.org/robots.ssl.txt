@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /paleodb/data/
+Disallow: /public/data/
+Disallow: /public/maps/
+Disallow: /public/confidence/
+Disallow: /nofollow/
+Disallow: /cgi-bin/bridge.pl?action=displayDownloadTaxonomy
+Disallow: /cgi-bin/bridge.pl?action=displayMapOfCollection
+Disallow: /data1.1/
+Disallow: /data1.2/
+Sitemap: https://paleobiodb.org/public/sitemaps/sitemap_index.xml

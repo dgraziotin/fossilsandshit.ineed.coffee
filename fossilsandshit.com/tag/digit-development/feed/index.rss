@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Digit Development &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/digit-development/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Thu, 27 Jun 2013 12:17:43 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>How did birds get their wings?</title>
+		<link>http://fossilsandshit.com/how-did-birds-get-their-wings/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-did-birds-get-their-wings</link>
+					<comments>http://fossilsandshit.com/how-did-birds-get-their-wings/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Thu, 27 Jun 2013 12:17:43 +0000</pubDate>
+				<category><![CDATA[Evolution]]></category>
+		<category><![CDATA[Fossils]]></category>
+		<category><![CDATA[Homology]]></category>
+		<category><![CDATA[Palaeontology]]></category>
+		<category><![CDATA[Birds]]></category>
+		<category><![CDATA[Developmental Biology]]></category>
+		<category><![CDATA[Digit Development]]></category>
+		<category><![CDATA[Dinosaurs]]></category>
+		<category><![CDATA[Frameshift Hypothesis]]></category>
+		<category><![CDATA[Genetics]]></category>
+		<category><![CDATA[Genomics]]></category>
+		<category><![CDATA[Homeosis]]></category>
+		<category><![CDATA[Ontogeny]]></category>
+		<category><![CDATA[Phylogeny]]></category>
+		<category><![CDATA[Tetanurans]]></category>
+		<category><![CDATA[Wing Development]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=576</guid>
+
+					<description><![CDATA[<p>This was originally posted at: http://blogs.egu.eu/palaeoblog/?p=680 How many fingers do you have? Hopefully, 5. Do you think that’s the normal condition for all animals? Do you think that’s air you’re breathing right now? … OK, so I watched the Matrix last night, but still, do you think all tetrapods (dudes with 4 feet, including you, and [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/how-did-birds-get-their-wings/">How did birds get their wings?</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/how-did-birds-get-their-wings/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">576</post-id>	</item>
+	</channel>
+</rss>

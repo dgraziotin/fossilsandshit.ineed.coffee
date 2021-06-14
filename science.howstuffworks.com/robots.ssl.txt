@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /framed.htm
+Disallow: /editor/
+Allow: /*?page
+Allow: /*?photo
+Allow: /*?utm
+Disallow: /*?
+User-agent: Mediapartners-Google
+Disallow:
+
+Sitemap: https://science.howstuffworks.com/science-sitemap-index.xml

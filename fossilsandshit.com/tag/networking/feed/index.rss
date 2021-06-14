@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Networking &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/networking/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Thu, 29 Oct 2015 14:44:29 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Networking at academic conferences</title>
+		<link>http://fossilsandshit.com/networking-at-academic-conferences/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=networking-at-academic-conferences</link>
+					<comments>http://fossilsandshit.com/networking-at-academic-conferences/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Thu, 29 Oct 2015 14:44:29 +0000</pubDate>
+				<category><![CDATA[PhD]]></category>
+		<category><![CDATA[Science Communication]]></category>
+		<category><![CDATA[Academia]]></category>
+		<category><![CDATA[Conferences]]></category>
+		<category><![CDATA[Nature Jobs]]></category>
+		<category><![CDATA[Networking]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=746</guid>
+
+					<description><![CDATA[<p>For junior academics, networking at conferences is both a great opportunity and a terrifying prospect! They offer unparalleled chances to enhance and develop your career, but one false move and you could be doomed for all eternity! Well, not quite, but there are still certain unwritten rules that might help you out a little bit. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/networking-at-academic-conferences/">Networking at academic conferences</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/networking-at-academic-conferences/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">746</post-id>	</item>
+	</channel>
+</rss>

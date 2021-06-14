@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Application for a Mozilla Science Fellow	</title>
+	<atom:link href="http://fossilsandshit.com/application-for-a-mozilla-science-fellow/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com/application-for-a-mozilla-science-fellow/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=application-for-a-mozilla-science-fellow</link>
+	<description></description>
+	<lastBuildDate>Fri, 27 Jan 2017 15:07:05 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>
+		By: Peter Cock		</title>
+		<link>http://fossilsandshit.com/application-for-a-mozilla-science-fellow/#comment-2451</link>
+
+		<dc:creator><![CDATA[Peter Cock]]></dc:creator>
+		<pubDate>Fri, 27 Jan 2017 15:07:05 +0000</pubDate>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=1433#comment-2451</guid>
+
+					<description><![CDATA[You set a great example sharing your Mozilla Science Fellowship 2016 application online, which I have belatedly followed: http://blastedbio.blogspot.com/2017/01/mozilla-science-fellowship-application.html]]></description>
+			<content:encoded><![CDATA[<p>You set a great example sharing your Mozilla Science Fellowship 2016 application online, which I have belatedly followed: <a href="http://blastedbio.blogspot.com/2017/01/mozilla-science-fellowship-application.html" rel="nofollow ugc">http://blastedbio.blogspot.com/2017/01/mozilla-science-fellowship-application.html</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

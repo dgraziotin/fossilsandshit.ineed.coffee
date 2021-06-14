@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /api/
+Disallow: /documents/
+Disallow: /people/
+Disallow: /search
+Disallow: /users/
+Disallow: /widget/

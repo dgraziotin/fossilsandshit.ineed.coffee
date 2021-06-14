@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Paleobiology Database &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/paleobiology-database/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 19 Feb 2018 12:05:33 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>What if most things we currently know about dinosaurs are going to change?</title>
+		<link>http://fossilsandshit.com/things-currently-know-dinosaurs-going-change/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=things-currently-know-dinosaurs-going-change</link>
+					<comments>http://fossilsandshit.com/things-currently-know-dinosaurs-going-change/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Mon, 19 Feb 2018 11:44:19 +0000</pubDate>
+				<category><![CDATA[Evolution]]></category>
+		<category><![CDATA[Fossils]]></category>
+		<category><![CDATA[Palaeontology]]></category>
+		<category><![CDATA[Bias]]></category>
+		<category><![CDATA[Dinosaurs]]></category>
+		<category><![CDATA[Diversity]]></category>
+		<category><![CDATA[Fossil Record]]></category>
+		<category><![CDATA[Paleobiology Database]]></category>
+		<category><![CDATA[Publication History]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=2826</guid>
+
+					<description><![CDATA[<p>Everything we know about dinosaurs comes from their fossil record, and how we as humans document and interpret that. As such, our understanding of their evolution is based on what is known at any given point in time, and subject to change as new discoveries are made. As any science should be! Alessandro Chiarenza, Matt [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/things-currently-know-dinosaurs-going-change/">What if most things we currently know about dinosaurs are going to change?</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/things-currently-know-dinosaurs-going-change/feed/</wfw:commentRss>
+			<slash:comments>15</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2826</post-id>	</item>
+		<item>
+		<title>How to interact with the whole fossil record</title>
+		<link>http://fossilsandshit.com/how-to-interact-with-the-whole-fossil-record/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-interact-with-the-whole-fossil-record</link>
+					<comments>http://fossilsandshit.com/how-to-interact-with-the-whole-fossil-record/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Wed, 31 May 2017 02:29:21 +0000</pubDate>
+				<category><![CDATA[Fossils]]></category>
+		<category><![CDATA[Open Science]]></category>
+		<category><![CDATA[Palaeontology]]></category>
+		<category><![CDATA[Diversity]]></category>
+		<category><![CDATA[Jostein Starrfelt]]></category>
+		<category><![CDATA[Open Data]]></category>
+		<category><![CDATA[Paleobiology Database]]></category>
+		<category><![CDATA[TRiPS]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=2398</guid>
+
+					<description><![CDATA[<p>The Paleobiology Database (PBDB) is a public, digital archive of the fossil record. Based on countless hours of work from more than 400 scientists around the world, it now contains more than 1.3 million individual fossil occurrences from around the world in a single database that is accessible by everyone. That&#8217;s pretty awesome. What&#8217;s even more [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/how-to-interact-with-the-whole-fossil-record/">How to interact with the whole fossil record</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/how-to-interact-with-the-whole-fossil-record/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2398</post-id>	</item>
+	</channel>
+</rss>

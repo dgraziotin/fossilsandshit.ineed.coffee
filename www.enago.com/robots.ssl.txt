@@ -1,0 +1,84 @@
+
+User-agent: *
+
+Allow: /
+Allow: /academy/
+
+
+# Paths (no clean URLs)
+
+Disallow: /secure/maruzen/
+
+Disallow: /index_y.htm
+
+Disallow: /index_g.htm
+
+Disallow: /students/
+
+Disallow: /tags.htm
+
+Disallow: /newsletter/
+
+Disallow: /english-tips/
+
+Disallow: /australia/
+
+Disallow: /academy1/
+
+Disallow: /latinamerica/handout.pdf
+
+Disallow: /academy/dealing-with-journal-rejection/
+
+Disallow: /academy/academic-publishing-writing-submission-and-successful-publication/
+
+Disallow: /academy/category/slideshare/
+
+Disallow: /academy/category/tips/
+
+Disallow: /academy/testimonials/
+
+Disallow: /academy/wpsisac_slider-category/
+
+Disallow: /academy/tips/
+
+Disallow: /academy/downloads/certificates/
+
+Disallow: /ru/
+Disallow: /secure/
+Disallow: /ssl/
+Disallow: /blog/
+Disallow: /academy/tags/
+Disallow: /academy/calendar/
+Disallow: /academy/wp-content/
+Disallow: /academy/page/
+Disallow: /academy/login-page/
+
+Allow: /academy/wp-content/bs-booster-cache/7341e02fea0a35c2ff4fb6cac73996bb.js?ver=4.9.10
+Allow: /academy/wp-content/plugins/addthis-all/frontend/build/addthis_wordpress_public.min.css?ver=4.9.10
+Allow: /academy/wp-content/plugins/anspress-question-answer/templates/css/fonts.css?ver=4.0.5
+Allow: /academy/wp-content/plugins/anspress-question-answer/templates/css/main.css?ver=4.0.5
+Allow: /academy/wp-content/plugins/anspress-question-answer/templates/css/overrides.css?v=4.0.5&ver=4.0.5
+Allow: /academy/wp-content/plugins/better-adsmanager/css/bam.min.css
+Allow: /academy/wp-content/plugins/better-adsmanager/js/advertising.min.js?ver=1.17.0
+Allow: /academy/wp-content/plugins/better-playlist/css/better-playlist.min.css
+Allow: /academy/wp-content/plugins/better-reviews/css/better-reviews.min.css
+Allow: /academy/wp-content/plugins/better-social-counter/css/style.min.css
+Allow: /academy/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.1
+Allow: /academy/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.1
+Allow: /academy/wp-content/plugins/download-manager/assets/css/front.css?ver=4.9.10
+Allow: /academy/wp-content/plugins/download-manager/assets/js/chosen.jquery.min.js?ver=4.9.10
+Allow: /academy/wp-content/plugins/download-manager/assets/js/front.js?ver=4.9.10
+Allow: /academy/wp-content/plugins/live-search-custom-fields-lite/assets/app.js?ver=4.9.10
+Allow: /academy/wp-content/plugins/live-search-custom-fields-lite/assets/css/base.css?ver=4.9.10
+Allow: /academy/wp-content/plugins/live-search-custom-fields-lite/assets/css/bootstrap/bootstrap.min.css?ver=4.9.10
+Allow: /academy/wp-content/plugins/live-search-custom-fields-lite/assets/css/jquery-ui.min.css?ver=1
+Allow: /academy/wp-content/plugins/live-search-custom-fields-lite/assets/js/angular/angular.1.3.16.js?ver=4.9.10
+Allow: /academy/wp-content/plugins/live-search-custom-fields-lite/assets/js/angular/angular_animate.js?ver=4.9.10
+
+
+Sitemap: https://www.enago.com/sitemap.xml
+
+Sitemap: https://www.enago.com/news-sitemap.xml
+
+Sitemap: https://www.enago.com/images-sitemap.xml
+Sitemap: https://www.enago.com/academy/sitemap_index.xml

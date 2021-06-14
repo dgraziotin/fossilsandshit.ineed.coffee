@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /stash/downloads/async_request/
+Crawl-Delay: 5
+
+Disallow: /search
+Disallow: /stash/sessions
+Disallow: /stash/downloads/download_resource/
+Disallow: /stash/downloads/file_stream/

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Ornithomimosauria &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/ornithomimosauria/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 03 Dec 2012 22:05:37 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Eat your greens, and you&#039;ll grow up to be a big dinosaur</title>
+		<link>http://fossilsandshit.com/eat-your-greens-and-youll-grow-up-to-be-a-big-dinosaur/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=eat-your-greens-and-youll-grow-up-to-be-a-big-dinosaur</link>
+					<comments>http://fossilsandshit.com/eat-your-greens-and-youll-grow-up-to-be-a-big-dinosaur/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Mon, 03 Dec 2012 22:05:37 +0000</pubDate>
+				<category><![CDATA[Ecology]]></category>
+		<category><![CDATA[Evolution]]></category>
+		<category><![CDATA[Fossils]]></category>
+		<category><![CDATA[Palaeontology]]></category>
+		<category><![CDATA[Diet]]></category>
+		<category><![CDATA[Dinosaurs]]></category>
+		<category><![CDATA[Lawyers]]></category>
+		<category><![CDATA[Macroevolution]]></category>
+		<category><![CDATA[Ornithomimosauria]]></category>
+		<category><![CDATA[Oviraptosauria]]></category>
+		<category><![CDATA[Therizinosauria]]></category>
+		<category><![CDATA[theropod dinosaurs]]></category>
+		<category><![CDATA[Theropods]]></category>
+		<category><![CDATA[tyrannosaurus rex]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=380</guid>
+
+					<description><![CDATA[<p>What comes to your mind when someone says &#8216;theropod dinosaurs&#8217; to you? Does the mind conjour images of Tyrannosaurus rex noshing on lawyers, packs of voracious Deinonychus ambushing unsuspecting ornithopods, or perhaps you&#8217;re quite progressive and thought about flocks of birds migrating south for the winter. Sticking strictly to the Mesozoic (before 65.5 million years [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/eat-your-greens-and-youll-grow-up-to-be-a-big-dinosaur/">Eat your greens, and you&#039;ll grow up to be a big dinosaur</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/eat-your-greens-and-youll-grow-up-to-be-a-big-dinosaur/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">380</post-id>	</item>
+	</channel>
+</rss>

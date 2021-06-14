@@ -1,0 +1,7 @@
+Sitemap: https://sfdora.org/sitemap.xml
+Sitemap: https://sfdora.org/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+User-agent: Twitterbot
+Disallow:

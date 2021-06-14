@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Egyptians &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/egyptians/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Fri, 26 Jan 2018 12:24:41 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>34 million year old carnivore named after the Egyptian god of the Underworld &#124; PLOS Paleo Community</title>
+		<link>http://fossilsandshit.com/34-million-year-old-carnivore-named-after-the-egyptian-god-of-the-underworld/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=34-million-year-old-carnivore-named-after-the-egyptian-god-of-the-underworld</link>
+					<comments>http://fossilsandshit.com/34-million-year-old-carnivore-named-after-the-egyptian-god-of-the-underworld/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Fri, 26 Jan 2018 12:24:41 +0000</pubDate>
+				<category><![CDATA[Fossils]]></category>
+		<category><![CDATA[Anubis]]></category>
+		<category><![CDATA[Egyptians]]></category>
+		<category><![CDATA[Hyaenodonts]]></category>
+		<category><![CDATA[Mammals]]></category>
+		<category><![CDATA[palaeontology]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=2804</guid>
+
+					<description><![CDATA[<p>Naming a new species is a wonderful thing to do. It&#8217;s a statement that you&#8217;ve discovered an entirely new organism to science, and naming it is a personal touch about how you perceive the importance of it. Last year, researchers named a 34 million year old canine-like fossil from Egypt, with an exquisitely preserved skull. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/34-million-year-old-carnivore-named-after-the-egyptian-god-of-the-underworld/">34 million year old carnivore named after the Egyptian god of the Underworld | PLOS Paleo Community</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/34-million-year-old-carnivore-named-after-the-egyptian-god-of-the-underworld/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2804</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /edit/
+Allow: /site/assets/
+Sitemap: https://www.oktoberfest.de/sitemap.xml

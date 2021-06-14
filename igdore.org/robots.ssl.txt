@@ -1,0 +1,5 @@
+Sitemap: https://igdore.org/sitemap.xml
+Sitemap: https://igdore.org/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Earth Science &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/earth-science/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Wed, 08 Apr 2020 08:37:05 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Converting adversity into productivity</title>
+		<link>http://fossilsandshit.com/converting-adversity-into-productivity/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=converting-adversity-into-productivity</link>
+					<comments>http://fossilsandshit.com/converting-adversity-into-productivity/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2020 08:36:57 +0000</pubDate>
+				<category><![CDATA[Journey To Nowhere]]></category>
+		<category><![CDATA[Open Science]]></category>
+		<category><![CDATA[Communities]]></category>
+		<category><![CDATA[Dinosaurs]]></category>
+		<category><![CDATA[Earth Science]]></category>
+		<category><![CDATA[Environmental Science]]></category>
+		<category><![CDATA[Geochemistry]]></category>
+		<category><![CDATA[Geoscience]]></category>
+		<category><![CDATA[journals]]></category>
+		<category><![CDATA[Open Access]]></category>
+		<category><![CDATA[Open Scholarship]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[palaeontology]]></category>
+		<category><![CDATA[peer review]]></category>
+		<category><![CDATA[Preprints]]></category>
+		<category><![CDATA[Revolution]]></category>
+		<category><![CDATA[Scholarly Communication]]></category>
+		<category><![CDATA[Scholarly Publishing]]></category>
+		<category><![CDATA[Sustainable Development Goals]]></category>
+		<category><![CDATA[UNESCO]]></category>
+		<category><![CDATA[United Nations]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=4013</guid>
+
+					<description><![CDATA[<p>So, 2020 has been off to an interesting start. The &#8220;OpenCon saga&#8221; pretty much crippled me professionally. I have spent the last 5 months in isolation mode to recover physically and emotionally from that. Thankfully, while this rather vicious and intentional attempt to harm me was quite successful, it also provided me with a brilliant [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/converting-adversity-into-productivity/">Converting adversity into productivity</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/converting-adversity-into-productivity/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4013</post-id>	</item>
+		<item>
+		<title>Plotting for the Earth. Sciences.</title>
+		<link>http://fossilsandshit.com/plotting-for-the-earth-sciences/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=plotting-for-the-earth-sciences</link>
+					<comments>http://fossilsandshit.com/plotting-for-the-earth-sciences/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Sat, 07 Sep 2013 16:17:23 +0000</pubDate>
+				<category><![CDATA[Geology]]></category>
+		<category><![CDATA[Science Communication]]></category>
+		<category><![CDATA[communicating science]]></category>
+		<category><![CDATA[Communication]]></category>
+		<category><![CDATA[Earth Science]]></category>
+		<category><![CDATA[Geoscience]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[science communication]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=594</guid>
+
+					<description><![CDATA[<p>This was originally posted at: http://www.nature.com/scitable/blog/earthbound/plotting_for_the_earth_sciences So a cool paper came out a while back about using plots when attempting to construct stories as a mode of communicating in Earth Science. I cannot, as always, emphasise my frustration when someone writes an article that’s supposed to be broadly educational, and sticks it behind a paywall. In [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/plotting-for-the-earth-sciences/">Plotting for the Earth. Sciences.</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/plotting-for-the-earth-sciences/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">594</post-id>	</item>
+	</channel>
+</rss>

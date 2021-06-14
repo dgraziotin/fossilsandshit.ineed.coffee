@@ -1,0 +1,5 @@
+Sitemap: https://philippehua.com/sitemap.xml
+Sitemap: https://philippehua.com/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

@@ -1,0 +1,7 @@
+# [siehe /tib/srv/webPages/conf.d/server-localPages/robots.txt]
+########################################################
+# Allgemein
+########################################################
+
+User-agent: *
+Allow: /

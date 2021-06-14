@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Solitude &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/solitude/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Fri, 24 Jan 2020 05:15:29 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>A new tattoo, a new chapter in life</title>
+		<link>http://fossilsandshit.com/a-new-tattoo-a-new-chapter-in-life/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=a-new-tattoo-a-new-chapter-in-life</link>
+					<comments>http://fossilsandshit.com/a-new-tattoo-a-new-chapter-in-life/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Fri, 24 Jan 2020 05:09:10 +0000</pubDate>
+				<category><![CDATA[Journey To Nowhere]]></category>
+		<category><![CDATA[Compassion]]></category>
+		<category><![CDATA[Courage]]></category>
+		<category><![CDATA[Life]]></category>
+		<category><![CDATA[Love]]></category>
+		<category><![CDATA[Solitude]]></category>
+		<category><![CDATA[Tattoo]]></category>
+		<category><![CDATA[Trauma]]></category>
+		<category><![CDATA[Wolf]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3823</guid>
+
+					<description><![CDATA[<p>For the last decade or so, I have dedicated virtually all of my life to a number of different individuals, causes, or organisations. I always placed the needs of others before my own, even when I knew it was bad for me. I was in almost back-to-back long-term relationships, forming strong emotional attachments with people [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/a-new-tattoo-a-new-chapter-in-life/">A new tattoo, a new chapter in life</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/a-new-tattoo-a-new-chapter-in-life/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3823</post-id>	</item>
+	</channel>
+</rss>

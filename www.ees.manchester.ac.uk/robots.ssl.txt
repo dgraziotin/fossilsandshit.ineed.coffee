@@ -1,0 +1,10 @@
+User-agent: manchester-gsa-crawler
+Disallow:
+
+User-agent: Swiftbot
+Disallow:
+
+User-agent: *
+Disallow:
+
+Sitemap: https://www.ees.manchester.ac.uk/sitemap-en.xml

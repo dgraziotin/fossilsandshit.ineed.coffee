@@ -1,0 +1,24 @@
+User-agent: *
+
+Disallow: /wp-admin/
+Disallow: /login/
+Disallow: /wp-login.php
+Disallow: /no-admin-ajax/
+Disallow: /?s=
+
+
+Allow: *.jpg
+Allow: *.jpeg
+Allow: *.png
+Allow: *.svg
+Allow: *.js
+Allow: *.css
+Allow: */admin-ajax.php
+Allow: */comments-plus/
+Allow: *.ttf
+Allow: *.woff
+Allow: *.gif
+
+
+Host: https://blockgeeks.com
+Sitemap: https://blockgeeks.com/sitemap_index.xml

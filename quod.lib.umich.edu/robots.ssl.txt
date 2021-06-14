@@ -1,0 +1,38 @@
+User-agent: Slurp
+Crawl-delay: 5
+Disallow:/cache
+
+User-agent: Googlebot
+Crawl-delay: 5
+Disallow:/cache
+
+User-agent: msnbot
+Crawl-delay: 10
+Disallow:/cache
+
+User-agent: ia_archiver
+Crawl-delay: 5
+Disallow:/cache
+
+User-agent: archive.org_bot
+Crawl-delay: 5
+Disallow:/cache
+
+User-agent: librabot
+Crawl-delay: 5
+Disallow:/cache
+
+User-agent: ArchiveGridCrawler
+Crawl-delay: 5
+Disallow:/cache
+
+User-agent: Twitterbot
+Disallow:/cache
+
+sitemap: http://quod.lib.umich.edu/sitemap.xml.gz
+
+User-agent: *
+Crawl-delay: 5
+Disallow: /cgi
+
+

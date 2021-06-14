@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://theconversation.com/why-ghanas-smallholders-arent-excited-by-the-latest-green-revolution-134804</loc>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>The Conversation AFRICA</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2020-04-13T07:41:15Z</news:publication_date>
+      <news:title>Why Ghana's smallholders aren't excited by the latest 'Green Revolution'</news:title>
+      <news:keywords>Agriculture, Food security, Farming, Agribusiness, Crops, Fertiliser, Seeds, Green technology, Ghana, Smallholder farming, Soil Degradation</news:keywords>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.theconversation.com/files/325723/original/file-20200406-74220-fb7sv2.jpg?ixlib=rb-1.1.0&amp;q=45&amp;auto=format&amp;w=496&amp;fit=clip</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://theconversation.com/debunking-9-popular-myths-doing-the-rounds-in-africa-about-the-coronavirus-135580</loc>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>The Conversation AFRICA</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2020-04-13T07:40:06Z</news:publication_date>
+      <news:title>Debunking 9 popular myths doing the rounds in Africa about the coronavirus</news:title>
+      <news:keywords>Public health, Alcohol, Malaria, Nigeria, Vitamin C, Kenya, Coronavirus, Viruses, World Health Organization (WHO), Ghana, Myths, Tea, Pepper, respiratory viruses, Misinformation, Fake news, Quacks, Global perspectives, black tea, Melanin, Flu shot, Coronavirus 2020, COVID-19, SARS-CoV-2, Lockdown, Neem</news:keywords>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.theconversation.com/files/326510/original/file-20200408-153819-1etgmdt.jpg?ixlib=rb-1.1.0&amp;q=45&amp;auto=format&amp;w=496&amp;fit=clip</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://theconversation.com/zimbabwes-shattered-economy-poses-a-serious-challenge-to-fighting-covid-19-135066</loc>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>The Conversation AFRICA</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2020-04-12T14:04:15Z</news:publication_date>
+      <news:title>Zimbabwe's shattered economy poses a serious challenge to fighting COVID-19</news:title>
+      <news:keywords>Migration, IMF, Unemployment, Poverty, Sanctions, land reform, Hyperinflation, African business, informal economy, Global perspectives, Emmerson Mnangagwa, Zimbabwe crisis, stimulus package, COVID-19, COVID-19 stimulus packages</news:keywords>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.theconversation.com/files/326155/original/file-20200407-85423-12r0p9p.jpg?ixlib=rb-1.1.0&amp;q=45&amp;auto=format&amp;w=496&amp;fit=clip</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://theconversation.com/lockdowns-threaten-childrens-nutrition-why-extra-care-is-needed-135837</loc>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>The Conversation AFRICA</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2020-04-13T07:40:25Z</news:publication_date>
+      <news:title>Lockdowns threaten childrens' nutrition: why extra care is needed</news:title>
+      <news:keywords>Coronavirus, Child health, Childhood stunting, Child grant, Food sector, COVID-19</news:keywords>
+    </news:news>
+    <image:image>
+      <image:loc>https://images.theconversation.com/files/326450/original/file-20200408-179188-1ujfo5b.jpg?ixlib=rb-1.1.0&amp;q=45&amp;auto=format&amp;w=496&amp;fit=clip</image:loc>
+    </image:image>
+  </url>
+</urlset>

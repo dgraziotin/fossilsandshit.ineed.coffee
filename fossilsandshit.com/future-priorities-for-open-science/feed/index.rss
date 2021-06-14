@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Future priorities for Open Science	</title>
+	<atom:link href="http://fossilsandshit.com/future-priorities-for-open-science/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com/future-priorities-for-open-science/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=future-priorities-for-open-science</link>
+	<description></description>
+	<lastBuildDate>Thu, 27 Feb 2020 08:01:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>
+		By: protohedgehog		</title>
+		<link>http://fossilsandshit.com/future-priorities-for-open-science/#comment-6534</link>
+
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Thu, 27 Feb 2020 08:01:00 +0000</pubDate>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3820#comment-6534</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;http://fossilsandshit.com/future-priorities-for-open-science/#comment-6532&quot;&gt;Jay Patel&lt;/a&gt;.
+
+Great comment, thanks Jay! In short, yes, I agree! Open access does not imply open accessibility :)]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="http://fossilsandshit.com/future-priorities-for-open-science/#comment-6532">Jay Patel</a>.</p>
+<p>Great comment, thanks Jay! In short, yes, I agree! Open access does not imply open accessibility 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Jay Patel		</title>
+		<link>http://fossilsandshit.com/future-priorities-for-open-science/#comment-6532</link>
+
+		<dc:creator><![CDATA[Jay Patel]]></dc:creator>
+		<pubDate>Thu, 27 Feb 2020 07:39:30 +0000</pubDate>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3820#comment-6532</guid>
+
+					<description><![CDATA[Great suggestions here! I would add that open science as a construct should be broadened so that it includes science communication much more. A great deal of emphasis is placed on publishing more open-access papers, but we often don&#039;t consider that many people (outside of healthcare and very technical settings) are uninterested in poring over scientific papers. But if these OA papers were written to be &quot;cognitively open&quot; or learnable, then it would take scientific communication/literacy into a Golden Age. I have a few ideas about how to go about this...]]></description>
+			<content:encoded><![CDATA[<p>Great suggestions here! I would add that open science as a construct should be broadened so that it includes science communication much more. A great deal of emphasis is placed on publishing more open-access papers, but we often don&#8217;t consider that many people (outside of healthcare and very technical settings) are uninterested in poring over scientific papers. But if these OA papers were written to be &#8220;cognitively open&#8221; or learnable, then it would take scientific communication/literacy into a Golden Age. I have a few ideas about how to go about this&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

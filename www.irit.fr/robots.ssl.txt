@@ -1,0 +1,40 @@
+User-agent: *
+Disallow: /GOFAR
+Disallow: /intranet
+Disallow: /PUBLIC
+Disallow: /survey
+Disallow: /sympa
+Disallow: /intranet
+Disallow: /CESAME
+Disallow: /ESACIMC/telech
+Disallow: /DANCE2010
+Disallow: /ETFA2011
+Disallow: /labo
+Disallow: /LN_IRIT
+Disallow: /MANIFS
+Disallow: /MBorillo
+Disallow: /NatSim
+Disallow: /padd2003
+Disallow: /passerelles
+Disallow: /PMDE2011
+Disallow: /Praxis
+Disallow: /rjcihm04
+Disallow: /redmine
+Disallow: /RTP
+Disallow: /RTS01
+Disallow: /satrimmap
+Disallow: /SDC2006
+Disallow: /SIIM
+Disallow: /SOSbook
+Disallow: /Verisync
+Disallow: /wiki
+Disallow: /stage-3e
+
+User-Agent: W3C-checklink
+Disallow:
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: TurnitinBot
+Disallow: /

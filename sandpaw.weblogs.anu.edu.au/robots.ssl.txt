@@ -1,0 +1,12 @@
+#User-agent: *
+#Disallow:
+
+# vebidoobot not behaving
+User-agent: vebidoobot
+Disallow: /
+
+User-agent: *
+Crawl-delay: 60
+Request-rate: 1/30        # maximum rate is one page every 5 seconds
+Visit-time: 1700-1945     # only visit between 6:00 AM and 8:45 AM UT (GMT) +11:00
+

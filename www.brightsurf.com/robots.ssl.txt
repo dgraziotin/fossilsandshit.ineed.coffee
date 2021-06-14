@@ -1,0 +1,75 @@
+
+###############################
+#
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: athenusbot
+Disallow: /
+
+User-agent: Exabot
+Disallow: /
+
+User-agent: psbot
+Disallow: /
+
+User-agent: FindLinks
+Disallow: /
+
+User-agent: Gaisbot
+Disallow: /
+
+User-agent: NextGenSearchBot
+Disallow: /
+
+User-agent: Gigabot
+Disallow: /
+
+User-agent: BecomeBot
+Disallow: /
+
+User-agent: OutfoxBot
+Disallow: /
+
+User-agent: e-SocietyRobot
+Disallow: /
+
+User-agent: FAST
+Disallow: /
+
+User-agent: ZyBorg
+Disallow: /
+
+User-agent: grub-client
+Disallow: /
+
+User-agent: fast
+Disallow: /
+
+User-agent: NaverBot
+Disallow: /
+
+User-agent: baiduspider
+Disallow: /
+
+User-agent: LNSpiderguy
+Disallow: /
+
+User-agent: QuepasaCreep
+Disallow: /
+
+User-agent: VoilaBot
+Disallow: /
+
+User-agent: TurnitinBot
+Disallow: /
+
+User-agent: dotbot
+Disallow: / 
+
+# 
+#
+###############################

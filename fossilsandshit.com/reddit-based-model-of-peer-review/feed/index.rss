@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: 20: A Reddit-based model of Peer Review	</title>
+	<atom:link href="http://fossilsandshit.com/reddit-based-model-of-peer-review/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com/reddit-based-model-of-peer-review/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=reddit-based-model-of-peer-review</link>
+	<description></description>
+	<lastBuildDate>Wed, 01 Aug 2018 04:55:15 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>
+		By: 22: A Stack Exchange/Overflow-style model - Green Tea and Velociraptors		</title>
+		<link>http://fossilsandshit.com/reddit-based-model-of-peer-review/#comment-3007</link>
+
+		<dc:creator><![CDATA[22: A Stack Exchange/Overflow-style model - Green Tea and Velociraptors]]></dc:creator>
+		<pubDate>Wed, 01 Aug 2018 04:55:15 +0000</pubDate>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3195#comment-3007</guid>
+
+					<description><![CDATA[[&#8230;] A Reddit-based model [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] A Reddit-based model [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Fossil Friday Roundup: June 29, 2018 &#124; PLOS Paleo Community		</title>
+		<link>http://fossilsandshit.com/reddit-based-model-of-peer-review/#comment-2973</link>
+
+		<dc:creator><![CDATA[Fossil Friday Roundup: June 29, 2018 &#124; PLOS Paleo Community]]></dc:creator>
+		<pubDate>Sat, 30 Jun 2018 00:29:12 +0000</pubDate>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3195#comment-2973</guid>
+
+					<description><![CDATA[[&#8230;] 20: A Reddit-based model of Peer Review (Green Tea and Velociraptors) [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] 20: A Reddit-based model of Peer Review (Green Tea and Velociraptors) [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: protohedgehog		</title>
+		<link>http://fossilsandshit.com/reddit-based-model-of-peer-review/#comment-2972</link>
+
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Thu, 28 Jun 2018 15:14:57 +0000</pubDate>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3195#comment-2972</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;http://fossilsandshit.com/reddit-based-model-of-peer-review/#comment-2971&quot;&gt;D. Colin&lt;/a&gt;.
+
+Oh, wow, thanks for the update! I guess this was after we wrote the paper, but still interesting to know! :)]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="http://fossilsandshit.com/reddit-based-model-of-peer-review/#comment-2971">D. Colin</a>.</p>
+<p>Oh, wow, thanks for the update! I guess this was after we wrote the paper, but still interesting to know! 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: D. Colin		</title>
+		<link>http://fossilsandshit.com/reddit-based-model-of-peer-review/#comment-2971</link>
+
+		<dc:creator><![CDATA[D. Colin]]></dc:creator>
+		<pubDate>Thu, 28 Jun 2018 14:34:54 +0000</pubDate>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3195#comment-2971</guid>
+
+					<description><![CDATA[Reddit isn&#039;t Open Source anymore. (source : https://www.reddit.com/r/changelog/comments/6xfyfg/an_update_on_the_state_of_the_redditreddit_and/)]]></description>
+			<content:encoded><![CDATA[<p>Reddit isn&#8217;t Open Source anymore. (source : <a href="https://www.reddit.com/r/changelog/comments/6xfyfg/an_update_on_the_state_of_the_redditreddit_and/" rel="nofollow ugc">https://www.reddit.com/r/changelog/comments/6xfyfg/an_update_on_the_state_of_the_redditreddit_and/</a>)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,3 @@
+# erlaube allen Robots den kompletten Zugriff
+User-agent: *
+Disallow: 

@@ -1,0 +1,8 @@
+User-agent: *
+
+Disallow: /_vti_bin/
+Disallow: /htmlsites/
+
+
+
+Sitemap: http://www.zalf.de:80/sitemap.xml

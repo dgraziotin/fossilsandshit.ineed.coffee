@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/wp-content/plugins/xml-sitemap-feed/assets/styles/sitemap-index.xsl?ver=5.2.6"?>
+<!-- generated-on="2020-04-14T16:07:12+00:00" -->
+<!-- generator="XML Sitemap & Google News for WordPress" -->
+<!-- generator-url="https://status301.net/wordpress-plugins/xml-sitemap-feed/" -->
+<!-- generator-version="5.2.6" -->
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+		http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd">
+	<sitemap>
+		<loc>http://tech-camp.net/sitemap-home.xml</loc>
+		<lastmod>2020-01-21T06:29:13+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://tech-camp.net/sitemap-posttype-post.2020.xml</loc>
+		<lastmod>2020-01-21T06:29:13+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://tech-camp.net/sitemap-posttype-post.2019.xml</loc>
+		<lastmod>2019-12-28T05:45:14+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://tech-camp.net/sitemap-posttype-page.xml</loc>
+		<lastmod>2019-10-25T05:00:29+00:00</lastmod>
+	</sitemap>
+</sitemapindex>

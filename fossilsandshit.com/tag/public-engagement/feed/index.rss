@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Public Engagement &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/public-engagement/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Wed, 19 Dec 2012 13:54:43 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Virtual Palaeontology &#8211; taking science communication to the next level</title>
+		<link>http://fossilsandshit.com/virtual-palaeontology-taking-science-communication-to-the-next-level/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=virtual-palaeontology-taking-science-communication-to-the-next-level</link>
+					<comments>http://fossilsandshit.com/virtual-palaeontology-taking-science-communication-to-the-next-level/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Wed, 19 Dec 2012 13:54:43 +0000</pubDate>
+				<category><![CDATA[Evolution]]></category>
+		<category><![CDATA[Fossils]]></category>
+		<category><![CDATA[Palaeontology]]></category>
+		<category><![CDATA[Science Communication]]></category>
+		<category><![CDATA[British Geological Survey]]></category>
+		<category><![CDATA[Digital Palaeontology]]></category>
+		<category><![CDATA[Dinosaurs]]></category>
+		<category><![CDATA[Imran Rahman]]></category>
+		<category><![CDATA[Public Engagement]]></category>
+		<category><![CDATA[Russell Garwood]]></category>
+		<category><![CDATA[science communication]]></category>
+		<category><![CDATA[Virtual Palaeontology]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=382</guid>
+
+					<description><![CDATA[<p>I recently wrote a small series about how geoscientists can become more effective communicators of scientific knowledge to the general public, and the pitfalls and issues associated with this. The overall strategy revolved around using the right type of language, along with a context and narrative to create relevant stories, but above all this, to [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/virtual-palaeontology-taking-science-communication-to-the-next-level/">Virtual Palaeontology &#8211; taking science communication to the next level</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/virtual-palaeontology-taking-science-communication-to-the-next-level/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">382</post-id>	</item>
+	</channel>
+</rss>

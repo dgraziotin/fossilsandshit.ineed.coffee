@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://phytokeys.pensoft.net/sitemap/sitemap-index.xml
+	

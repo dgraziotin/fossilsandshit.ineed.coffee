@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>PLOS Paleo &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/plos-paleo/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Wed, 17 May 2017 18:22:32 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Other stuff wot I wrote</title>
+		<link>http://fossilsandshit.com/stuff-wot-wrote/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=stuff-wot-wrote</link>
+					<comments>http://fossilsandshit.com/stuff-wot-wrote/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Wed, 17 May 2017 18:22:32 +0000</pubDate>
+				<category><![CDATA[Science Communication]]></category>
+		<category><![CDATA[peer review]]></category>
+		<category><![CDATA[PLOS Paleo]]></category>
+		<category><![CDATA[science communication]]></category>
+		<category><![CDATA[ScienceOpen]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=2336</guid>
+
+					<description><![CDATA[<p>As I&#8217;m sure many of you are aware, this is not the only platform I write on. This is my own personal blog, which explains the perpetually low quality of the ramblings on here. I also write a lot for ScienceOpen, and also the PLOS Paleo Community. The former of these includes a lot of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/stuff-wot-wrote/">Other stuff wot I wrote</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/stuff-wot-wrote/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2336</post-id>	</item>
+	</channel>
+</rss>

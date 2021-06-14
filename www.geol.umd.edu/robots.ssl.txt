@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /~jfarquha/
+Disallow: /gradstudentvisits/
+Disallow: /gradstudentapplications/
+Disallow: /facultysearch/
+Disallow: /home/cv/
+Disallow: /images/

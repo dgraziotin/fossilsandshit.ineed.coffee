@@ -1,0 +1,39 @@
+User-Agent: *
+Disallow: /ask/
+Disallow: /ask? 
+Disallow: /search/
+Disallow: /search?
+Disallow: /feed/
+Disallow: /feeds?
+Disallow: /login/
+Disallow: /login?
+Disallow: /logout/
+Disallow: /logout?
+Disallow: /unanswered/
+Disallow: /unanswered?
+Disallow: /revisions/
+Disallow: /revisions
+Disallow: /register/
+Disallow: /register
+Disallow: /register?
+Disallow: /add-author-page/
+Disallow: /add-author-page?
+Disallow: /user-admin/
+Disallow: /user-admin?
+Disallow: /query/
+Disallow: /query?
+
+Allow: /
+
+#
+# beware, the sections below WILL NOT INHERIT from the above!
+# http://www.google.com/support/webmasters/bin/answer.py?hl=en&answer=40360
+# 
+
+#
+# Yahoo Pipes is for feeds not web pages.
+#
+User-agent: Yahoo Pipes 1.0
+Disallow: / 
+
+Sitemap: /sitemap.xml

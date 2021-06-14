@@ -1,0 +1,9 @@
+User-agent: Twitterbot
+Disallow:
+
+User-agent: *
+Disallow: /winners
+
+Disallow: /events/filter
+Disallow: /tags
+Disallow: /events/events-archive/

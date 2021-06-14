@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <sitemap>
+  <loc>https://www.codecademy.com/sitemap_static.xml</loc>
+</sitemap>
+<sitemap>
+  <loc>https://www.codecademy.com/sitemap_catalog.xml</loc>
+</sitemap>
+<sitemap>
+  <loc>https://www.codecademy.com/sitemap_article.xml</loc>
+</sitemap>
+<sitemap>
+  <loc>https://www.codecademy.com/sitemap_module.xml</loc>
+</sitemap>
+<sitemap>
+  <loc>https://www.codecademy.com/sitemap_skills_v2.xml</loc>
+</sitemap>
+<sitemap>
+  <loc>https://www.codecademy.com/sitemap_paths.xml</loc>
+</sitemap>
+<sitemap>
+  <loc>https://www.codecademy.com/sitemap_references.xml</loc>
+</sitemap>
+
+</sitemapindex>

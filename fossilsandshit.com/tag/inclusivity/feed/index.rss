@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Inclusivity &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/inclusivity/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Wed, 12 Sep 2018 07:02:38 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Interview: Jon Tennant, author of &#8216;The State of the Art of Peer Review&#8217; &#8211; FEMS</title>
+		<link>http://fossilsandshit.com/interview-the-state-of-the-art-of-peer-review/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=interview-the-state-of-the-art-of-peer-review</link>
+					<comments>http://fossilsandshit.com/interview-the-state-of-the-art-of-peer-review/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Wed, 12 Sep 2018 07:02:38 +0000</pubDate>
+				<category><![CDATA[Peer Review]]></category>
+		<category><![CDATA[Diversity]]></category>
+		<category><![CDATA[FEMS]]></category>
+		<category><![CDATA[Inclusivity]]></category>
+		<category><![CDATA[peer review]]></category>
+		<category><![CDATA[Peer Review Week]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3338</guid>
+
+					<description><![CDATA[<p>&#8220;As an extension to this, we need to make sure that we aren’t just paying ‘inclusivity’ lip service, and only applying it in a superficial manner. For example, simply getting a diverse group of people to participate in something like peer review for the sake of a box-ticking exercise. If we want to truly promote [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/interview-the-state-of-the-art-of-peer-review/">Interview: Jon Tennant, author of &#8216;The State of the Art of Peer Review&#8217; &#8211; FEMS</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/interview-the-state-of-the-art-of-peer-review/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3338</post-id>	</item>
+		<item>
+		<title>Open Science has an image and behaviour problem</title>
+		<link>http://fossilsandshit.com/open-science-image-problem/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=open-science-image-problem</link>
+					<comments>http://fossilsandshit.com/open-science-image-problem/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Sun, 04 Jun 2017 22:14:29 +0000</pubDate>
+				<category><![CDATA[Open Science]]></category>
+		<category><![CDATA[Community Engagement]]></category>
+		<category><![CDATA[Inclusivity]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=2507</guid>
+
+					<description><![CDATA[<p>This is not the first time this sort of thing has happened on Twitter. A direct series of insults towards researchers for expressing their view on a matter relating to &#8216;Open Science&#8217;. Any other idiots out there that feel like exposing themselves today? pic.twitter.com/i3GdToGSdR &#8212; Jordan Anaya (@OmnesResNetwork) May 13, 2017 Yeah, that&#8217;s not helping. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/open-science-image-problem/">Open Science has an image and behaviour problem</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/open-science-image-problem/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2507</post-id>	</item>
+	</channel>
+</rss>

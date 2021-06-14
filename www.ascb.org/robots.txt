@@ -1,0 +1,7 @@
+User-agent: *
+Crawl-delay: 1.00
+Disallow: /wp-content/uploads/
+Disallow: /wp-login.php
+Disallow: /*.pdf$
+Disallow: /*.Pdf$
+Disallow: /*.PDF$

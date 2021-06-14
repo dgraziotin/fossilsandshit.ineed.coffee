@@ -1,0 +1,6 @@
+#Government of Canada / Gouvernement du Canada
+#Block AEM folders for CRA
+User-agent: *
+Disallow: /content/dam/cra-arc/formspubs/pub/
+Disallow: /en/revenue-agency/web-services-test/
+Disallow: /fr/agence-revenu/test-web-services/

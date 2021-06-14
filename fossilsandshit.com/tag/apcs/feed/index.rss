@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>APCs &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/apcs/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Tue, 24 Apr 2018 02:19:11 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Why the term &#8216;Article Processing Charge&#8217; (APC) is misleading</title>
+		<link>http://fossilsandshit.com/the-term-article-processing-charge-is-misleading/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-term-article-processing-charge-is-misleading</link>
+					<comments>http://fossilsandshit.com/the-term-article-processing-charge-is-misleading/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Mon, 23 Apr 2018 06:27:40 +0000</pubDate>
+				<category><![CDATA[Open Science]]></category>
+		<category><![CDATA[APCs]]></category>
+		<category><![CDATA[Article Processing Charges]]></category>
+		<category><![CDATA[Gold Open Access]]></category>
+		<category><![CDATA[Open Access]]></category>
+		<category><![CDATA[publishing]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3015</guid>
+
+					<description><![CDATA[<p>The term &#8216;article processing charge&#8217;, or APC, is ubiquitous in discussions about Open Access. It refers to the author-facing charge levied by many publishers in order to make an article freely available on their website. Now, putting aside the fact that this system actively discriminates against less-wealthy authors and institutes, I think that the term [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/the-term-article-processing-charge-is-misleading/">Why the term &#8216;Article Processing Charge&#8217; (APC) is misleading</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/the-term-article-processing-charge-is-misleading/feed/</wfw:commentRss>
+			<slash:comments>18</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3015</post-id>	</item>
+	</channel>
+</rss>

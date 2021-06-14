@@ -1,0 +1,5 @@
+Sitemap: https://bibliometriaobarbarie.com/sitemap.xml
+Sitemap: https://bibliometriaobarbarie.com/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Journalism &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/journalism/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Wed, 29 Aug 2018 17:14:29 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Preprints do not promote confusion or distortion in the public understanding of science</title>
+		<link>http://fossilsandshit.com/preprints-do-not-promote-confusion-or-distortion-in-the-public-understanding-of-science/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=preprints-do-not-promote-confusion-or-distortion-in-the-public-understanding-of-science</link>
+					<comments>http://fossilsandshit.com/preprints-do-not-promote-confusion-or-distortion-in-the-public-understanding-of-science/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Wed, 29 Aug 2018 17:10:17 +0000</pubDate>
+				<category><![CDATA[Open Science]]></category>
+		<category><![CDATA[Peer Review]]></category>
+		<category><![CDATA[ASAPbio]]></category>
+		<category><![CDATA[Journalism]]></category>
+		<category><![CDATA[peer review]]></category>
+		<category><![CDATA[Preprints]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3303</guid>
+
+					<description><![CDATA[<p>Today, Corina Logan, Laurent Gatto and I have a short correspondence published in Nature. This is a response to an article criticising the relationship between preprints and scientific journalism. Our piece is just one of many, and we have included a list below the full response below. We welcome wider discussion on this issue! Original [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/preprints-do-not-promote-confusion-or-distortion-in-the-public-understanding-of-science/">Preprints do not promote confusion or distortion in the public understanding of science</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/preprints-do-not-promote-confusion-or-distortion-in-the-public-understanding-of-science/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3303</post-id>	</item>
+		<item>
+		<title>Spice up your science with these 10 simple steps</title>
+		<link>http://fossilsandshit.com/spice-up-your-science-with-these-10-simple-steps/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=spice-up-your-science-with-these-10-simple-steps</link>
+					<comments>http://fossilsandshit.com/spice-up-your-science-with-these-10-simple-steps/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Mon, 12 May 2014 12:29:33 +0000</pubDate>
+				<category><![CDATA[Science Communication]]></category>
+		<category><![CDATA[Akshat Rathi]]></category>
+		<category><![CDATA[Blogging]]></category>
+		<category><![CDATA[Conversation UK]]></category>
+		<category><![CDATA[Journalism]]></category>
+		<category><![CDATA[science communication]]></category>
+		<category><![CDATA[Science Writing]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=661</guid>
+
+					<description><![CDATA[<p>This was originally posted at http://blogs.egu.eu/palaeoblog/?p=1168 What an awful title, eh. Well, you can avoid making this mistake! A recent Guardian post by Conversation UK&#8217;s Akshat Rathi (he&#8217;s popular on the blog today!) discusses some of the common mistakes in popular science writing and how best to avoid them. It&#8217;s fairly general, and by no means [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/spice-up-your-science-with-these-10-simple-steps/">Spice up your science with these 10 simple steps</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/spice-up-your-science-with-these-10-simple-steps/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">661</post-id>	</item>
+	</channel>
+</rss>

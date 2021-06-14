@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Libson Council &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/libson-council/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Fri, 06 Jul 2018 11:58:04 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Response to President Paul Hofheinz of The Lisbon Council regarding Elsevier and the Open Science Monitor</title>
+		<link>http://fossilsandshit.com/response-to-president-paul-hofheinz-of-the-lisbon-council-regarding-elsevier-and-the-open-science-monitor/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=response-to-president-paul-hofheinz-of-the-lisbon-council-regarding-elsevier-and-the-open-science-monitor</link>
+					<comments>http://fossilsandshit.com/response-to-president-paul-hofheinz-of-the-lisbon-council-regarding-elsevier-and-the-open-science-monitor/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Fri, 06 Jul 2018 11:54:54 +0000</pubDate>
+				<category><![CDATA[Open Science]]></category>
+		<category><![CDATA[Elsevier]]></category>
+		<category><![CDATA[European Commission]]></category>
+		<category><![CDATA[Libson Council]]></category>
+		<category><![CDATA[Open Science Monitor]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3220</guid>
+
+					<description><![CDATA[<p>What a mess. The story so far: On June 29, I posted this opinion piece in The Guardian expressing deep concerns with Elsevier as the sole contractor for the new European Commission (EC) Open Science Monitor. On July 2, Elsevier followed this up with a response on their website, which has also received some comments [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/response-to-president-paul-hofheinz-of-the-lisbon-council-regarding-elsevier-and-the-open-science-monitor/">Response to President Paul Hofheinz of The Lisbon Council regarding Elsevier and the Open Science Monitor</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/response-to-president-paul-hofheinz-of-the-lisbon-council-regarding-elsevier-and-the-open-science-monitor/feed/</wfw:commentRss>
+			<slash:comments>10</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3220</post-id>	</item>
+	</channel>
+</rss>

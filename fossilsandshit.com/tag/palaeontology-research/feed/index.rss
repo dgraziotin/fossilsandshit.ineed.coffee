@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>palaeontology research &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/palaeontology-research/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Fri, 09 Mar 2012 04:23:40 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>A glitch in the [publishing] matrix?</title>
+		<link>http://fossilsandshit.com/a-glitch-in-the-publishing-matrix/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=a-glitch-in-the-publishing-matrix</link>
+					<comments>http://fossilsandshit.com/a-glitch-in-the-publishing-matrix/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Fri, 09 Mar 2012 04:23:40 +0000</pubDate>
+				<category><![CDATA[Fossils]]></category>
+		<category><![CDATA[Palaeontology]]></category>
+		<category><![CDATA[cretaceous research]]></category>
+		<category><![CDATA[Dinosaurs]]></category>
+		<category><![CDATA[Elsevier]]></category>
+		<category><![CDATA[Ichnology]]></category>
+		<category><![CDATA[marine reptiles]]></category>
+		<category><![CDATA[mesozoic vertebrates]]></category>
+		<category><![CDATA[Neo]]></category>
+		<category><![CDATA[Open Access]]></category>
+		<category><![CDATA[Ornithischians]]></category>
+		<category><![CDATA[palaeontology research]]></category>
+		<category><![CDATA[Pliosaurs]]></category>
+		<category><![CDATA[Pterosaurs]]></category>
+		<category><![CDATA[Reptiles]]></category>
+		<category><![CDATA[Sauropods]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[The Matrix]]></category>
+		<category><![CDATA[Theropods]]></category>
+		<category><![CDATA[Tyrannosaurus]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=199</guid>
+
+					<description><![CDATA[<p>Cretaceous Research is a journal published by the notorious for-profit publisher Elsevier (see articles on this blog). Tonight however, they have blessed us with a wealth of new research through their RSS feed (albeit, paywalled for the 99%), a lot including everyone&#8217;s favourite vertebrates, the dinosaurs. This is an inordinate amount of publications for K-Research [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/a-glitch-in-the-publishing-matrix/">A glitch in the [publishing] matrix?</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/a-glitch-in-the-publishing-matrix/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">285</post-id>	</item>
+	</channel>
+</rss>

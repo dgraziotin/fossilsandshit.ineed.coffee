@@ -1,0 +1,23 @@
+# Statics
+
+User-agent: *
+Allow: /s/
+Allow: /original/
+Disallow: /
+
+User-agent: Googlebot
+Allow: /s/
+Allow: /original/
+Allow: /full/
+Allow: /thumb400/
+Allow: /thumb800/
+Disallow: /
+Crawl-delay: 180
+
+User-agent: Twitterbot
+Allow: /s/
+Allow: /original/
+Allow: /full/
+Allow: /thumb400/
+Allow: /thumb800/
+Disallow: /

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: 23: A GitHub-style model of peer review	</title>
+	<atom:link href="http://fossilsandshit.com/github-peer-review/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com/github-peer-review/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=github-peer-review</link>
+	<description></description>
+	<lastBuildDate>Mon, 30 Mar 2020 05:38:02 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>
+		By: Fossil Friday Roundup: August 10, 2018		</title>
+		<link>http://fossilsandshit.com/github-peer-review/#comment-7792</link>
+
+		<dc:creator><![CDATA[Fossil Friday Roundup: August 10, 2018]]></dc:creator>
+		<pubDate>Mon, 30 Mar 2020 05:38:02 +0000</pubDate>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3277#comment-7792</guid>
+
+					<description><![CDATA[[&#8230;] 23: A GitHub-style model of peer review (GTV) [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] 23: A GitHub-style model of peer review (GTV) [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Fossil Friday Roundup: August 10, 2018 &#124; PLOS Blogs Network		</title>
+		<link>http://fossilsandshit.com/github-peer-review/#comment-3010</link>
+
+		<dc:creator><![CDATA[Fossil Friday Roundup: August 10, 2018 &#124; PLOS Blogs Network]]></dc:creator>
+		<pubDate>Fri, 10 Aug 2018 15:32:02 +0000</pubDate>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3277#comment-3010</guid>
+
+					<description><![CDATA[[&#8230;] A GitHub-style model of peer review (GTV) Implicit bias in STEM (Time [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] A GitHub-style model of peer review (GTV) Implicit bias in STEM (Time [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Fossil Friday Roundup: August 10, 2018 &#124; PLOS Paleo Community		</title>
+		<link>http://fossilsandshit.com/github-peer-review/#comment-3009</link>
+
+		<dc:creator><![CDATA[Fossil Friday Roundup: August 10, 2018 &#124; PLOS Paleo Community]]></dc:creator>
+		<pubDate>Fri, 10 Aug 2018 14:03:10 +0000</pubDate>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3277#comment-3009</guid>
+
+					<description><![CDATA[[&#8230;] 23: A GitHub-style model of peer review (GTV) [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] 23: A GitHub-style model of peer review (GTV) [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

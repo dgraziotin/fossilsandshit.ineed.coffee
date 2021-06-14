@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/wp-content/plugins/xml-sitemap-feed/assets/styles/sitemap-index.xsl?ver=5.2.7"?>
+<!-- generated-on="2020-04-14T16:19:01+00:00" -->
+<!-- generator="XML Sitemap & Google News for WordPress" -->
+<!-- generator-url="https://status301.net/wordpress-plugins/xml-sitemap-feed/" -->
+<!-- generator-version="5.2.7" -->
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+		http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd">
+	<sitemap>
+		<loc>https://openworking.tudl.tudelft.nl/sitemap-home.xml</loc>
+		<lastmod>2019-07-02T17:55:31+01:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://openworking.tudl.tudelft.nl/sitemap-posttype-post.2019.xml</loc>
+		<lastmod>2019-07-02T19:41:52+01:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://openworking.tudl.tudelft.nl/sitemap-posttype-post.2018.xml</loc>
+		<lastmod>2019-01-23T13:47:07+01:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://openworking.tudl.tudelft.nl/sitemap-posttype-post.2017.xml</loc>
+		<lastmod>2018-02-20T16:48:20+01:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://openworking.tudl.tudelft.nl/sitemap-posttype-post.2016.xml</loc>
+		<lastmod>2016-12-20T08:54:14+01:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://openworking.tudl.tudelft.nl/sitemap-posttype-page.xml</loc>
+		<lastmod>2019-07-02T18:36:54+01:00</lastmod>
+	</sitemap>
+</sitemapindex>

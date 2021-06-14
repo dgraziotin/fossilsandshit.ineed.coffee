@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /walker/
+Disallow: /mammals/
+Disallow: /walkers_mammals_of_the_world/
+Disallow: /guide/
+Disallow: /groden/
+Disallow: /hopkins_guide_to_literary_theory/
+Disallow: /cgi-bin/shop.cgi
+

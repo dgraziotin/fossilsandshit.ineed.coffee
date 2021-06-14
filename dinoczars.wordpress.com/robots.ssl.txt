@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+# This file was generated on Mon, 13 Apr 2020 19:13:10 +0000

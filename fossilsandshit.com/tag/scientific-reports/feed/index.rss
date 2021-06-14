@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Scientific Reports &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/scientific-reports/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Fri, 10 Feb 2017 12:51:55 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Is PLOS ONE losing favour with palaeontologists?</title>
+		<link>http://fossilsandshit.com/is-plos-one-losing-favour-with-palaeontologists/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=is-plos-one-losing-favour-with-palaeontologists</link>
+					<comments>http://fossilsandshit.com/is-plos-one-losing-favour-with-palaeontologists/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Fri, 10 Feb 2017 06:59:43 +0000</pubDate>
+				<category><![CDATA[Open Science]]></category>
+		<category><![CDATA[Nature]]></category>
+		<category><![CDATA[Nature Communications]]></category>
+		<category><![CDATA[Open Access]]></category>
+		<category><![CDATA[PeerJ]]></category>
+		<category><![CDATA[PLOS ONE]]></category>
+		<category><![CDATA[Scientific Reports]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=2233</guid>
+
+					<description><![CDATA[<p>Is PLOS ONE falling out of favour with Palaeontologists? By looking at a simple plot of publications through time, it would seem that the zenith of PLOS ONE has been reached after a surge in increase as it dominated the market, but is now in sharp decline. There have been a couple of such blips, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/is-plos-one-losing-favour-with-palaeontologists/">Is PLOS ONE losing favour with palaeontologists?</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/is-plos-one-losing-favour-with-palaeontologists/feed/</wfw:commentRss>
+			<slash:comments>14</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2233</post-id>	</item>
+	</channel>
+</rss>

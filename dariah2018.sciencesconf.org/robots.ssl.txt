@@ -1,0 +1,33 @@
+User-Agent: *
+Disallow: /js/
+Disallow: /css/
+
+Disallow: /administrate*
+Disallow: /azurcolloque*
+Disallow: /book*
+Disallow: /file*
+Disallow: /mail*
+Disallow: /myspace*
+Disallow: /payment*
+Disallow: /resouce*
+Disallow: /user*
+Disallow: /error
+
+User-agent: SemanticScholarBot
+Crawl-delay: 10
+User-agent: MegaIndex.ru
+Disallow: /
+User-agent: megaindex.com
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: SemrushBot-SA
+Disallow: /
+User-agent: Seekport Crawler
+Disallow: /
+User-agent: ltx71 - (http://ltx71.com/)
+Disallow: /
+User-agent: AhrefsBot
+
+#Sitemap du site
+#Sitemap: https://dariah2018.sciencesconf.org/data/sitemap/sitemap.xml

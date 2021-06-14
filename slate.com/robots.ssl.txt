@@ -1,0 +1,15 @@
+
+      User-agent: Mediapartners-Google
+      Disallow:
+
+      User-agent: TruliaBot
+      Disallow: /
+
+      User-agent: *
+      Disallow: /search.html
+
+      User-agent: *
+      Disallow: /comments/*
+
+      User-agent: Mediapartners-Google*
+      Disallow:

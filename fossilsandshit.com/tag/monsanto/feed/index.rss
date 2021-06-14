@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>monsanto &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/monsanto/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Fri, 02 Aug 2019 18:04:17 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Why we shouldn’t take peer review as the ‘gold standard’</title>
+		<link>http://fossilsandshit.com/why-we-shouldnt-take-peer-review-as-the-gold-standard/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-we-shouldnt-take-peer-review-as-the-gold-standard</link>
+					<comments>http://fossilsandshit.com/why-we-shouldnt-take-peer-review-as-the-gold-standard/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Fri, 02 Aug 2019 18:03:07 +0000</pubDate>
+				<category><![CDATA[Peer Review]]></category>
+		<category><![CDATA[Bias]]></category>
+		<category><![CDATA[Concussion]]></category>
+		<category><![CDATA[Conflicts of interest]]></category>
+		<category><![CDATA[Energy and Environment]]></category>
+		<category><![CDATA[Fake news]]></category>
+		<category><![CDATA[Ghost writing]]></category>
+		<category><![CDATA[Gold standard]]></category>
+		<category><![CDATA[Harvard]]></category>
+		<category><![CDATA[Mild Traumatic Brain Injury]]></category>
+		<category><![CDATA[monsanto]]></category>
+		<category><![CDATA[New York Times]]></category>
+		<category><![CDATA[NFL]]></category>
+		<category><![CDATA[Open Peer Review]]></category>
+		<category><![CDATA[Open Science]]></category>
+		<category><![CDATA[peer review]]></category>
+		<category><![CDATA[Scholarly Publishing]]></category>
+		<category><![CDATA[Trump]]></category>
+		<category><![CDATA[Washington Post]]></category>
+		<category><![CDATA[Willie Soon]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3661</guid>
+
+					<description><![CDATA[<p>A new article in the Washington Post is out now, co-written by Paul Thacker and I. It is based off one of the &#8216;myths&#8217; from our latest research paper. Here&#8217;s a snippet, enjoy! In July, India’s government dismissed a research paper finding that the country’s economic growth had been overestimated, saying the paper had not [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/why-we-shouldnt-take-peer-review-as-the-gold-standard/">Why we shouldn’t take peer review as the ‘gold standard’</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/why-we-shouldnt-take-peer-review-as-the-gold-standard/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3661</post-id>	</item>
+	</channel>
+</rss>

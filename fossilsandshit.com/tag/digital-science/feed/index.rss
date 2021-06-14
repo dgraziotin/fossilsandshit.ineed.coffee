@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Digital Science &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/digital-science/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Sun, 04 Dec 2016 15:45:18 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>OpenCon Berlin &#8211; Great success!</title>
+		<link>http://fossilsandshit.com/opencon-berlin-great-success/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=opencon-berlin-great-success</link>
+					<comments>http://fossilsandshit.com/opencon-berlin-great-success/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Sun, 04 Dec 2016 15:45:18 +0000</pubDate>
+				<category><![CDATA[Journey To Nowhere]]></category>
+		<category><![CDATA[Open Science]]></category>
+		<category><![CDATA[Berlin]]></category>
+		<category><![CDATA[Digital Science]]></category>
+		<category><![CDATA[Julia Reda]]></category>
+		<category><![CDATA[Open Access]]></category>
+		<category><![CDATA[Open Data]]></category>
+		<category><![CDATA[Open Education]]></category>
+		<category><![CDATA[OpenAIRE]]></category>
+		<category><![CDATA[OpenCon]]></category>
+		<category><![CDATA[ScienceOpen]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=2173</guid>
+
+					<description><![CDATA[<p>Right on the back of OpenCon in DC and my open science talk with the Ministry of Education in Slovenia was our AMAZING OpenCon satellite event in Berlin! We kicked off day one with an epic hackathon, a &#8216;reproducibility hack&#8216; led by Anna Krystalli and Julien Colomb, and with the backing of the PaperHive and Overleaf [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/opencon-berlin-great-success/">OpenCon Berlin &#8211; Great success!</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/opencon-berlin-great-success/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2173</post-id>	</item>
+	</channel>
+</rss>

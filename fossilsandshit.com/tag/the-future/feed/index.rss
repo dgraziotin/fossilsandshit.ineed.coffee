@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>The Future &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/the-future/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Sat, 17 Mar 2012 21:51:25 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Dinosaurs: Then and Now</title>
+		<link>http://fossilsandshit.com/dinosaurs-then-and-now/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=dinosaurs-then-and-now</link>
+					<comments>http://fossilsandshit.com/dinosaurs-then-and-now/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Sat, 17 Mar 2012 21:51:25 +0000</pubDate>
+				<category><![CDATA[Evolution]]></category>
+		<category><![CDATA[Fossils]]></category>
+		<category><![CDATA[Palaeontology]]></category>
+		<category><![CDATA[Biomechanics]]></category>
+		<category><![CDATA[Cetiosaurus]]></category>
+		<category><![CDATA[Digital Modelling]]></category>
+		<category><![CDATA[Dinosaurs]]></category>
+		<category><![CDATA[Gideon Mantell]]></category>
+		<category><![CDATA[Iguanodon]]></category>
+		<category><![CDATA[Megalosaurus]]></category>
+		<category><![CDATA[Muscles]]></category>
+		<category><![CDATA[The Future]]></category>
+		<category><![CDATA[William Buckland]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=203</guid>
+
+					<description><![CDATA[<p>When people discuss innovation and cutting-edge research in science, Palaeontology, and specifically dinosaurs, will hardly be the first thing that springs to mind, especially in  times of the Large Hadron Collider, nanotechnology, and stem cell research. But in terms of actual progress, considering that dinosaurs have only existed in science and the eyes of the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/dinosaurs-then-and-now/">Dinosaurs: Then and Now</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/dinosaurs-then-and-now/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">286</post-id>	</item>
+	</channel>
+</rss>

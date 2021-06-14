@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Germany &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/germany/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Tue, 24 Jul 2018 07:19:29 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Palaeontology and Open Science roundup: July 23rd, 2018</title>
+		<link>http://fossilsandshit.com/palaeontology-and-open-science-roundup-july-23rd-2018/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=palaeontology-and-open-science-roundup-july-23rd-2018</link>
+					<comments>http://fossilsandshit.com/palaeontology-and-open-science-roundup-july-23rd-2018/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Tue, 24 Jul 2018 07:19:00 +0000</pubDate>
+				<category><![CDATA[Open Science]]></category>
+		<category><![CDATA[Palaeontology]]></category>
+		<category><![CDATA[Amber]]></category>
+		<category><![CDATA[Ankylosaurs]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Elsevier]]></category>
+		<category><![CDATA[Eureka]]></category>
+		<category><![CDATA[Germany]]></category>
+		<category><![CDATA[palaeontology]]></category>
+		<category><![CDATA[Snakes]]></category>
+		<category><![CDATA[Sweden]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3234</guid>
+
+					<description><![CDATA[<p>Welcome to your usual weekly roundup of interesting stuff that happened in the last week! Enjoy, and let me know if I’ve missed anything out. Previous week. Palaeontology News Xing et al: A mid-Cretaceous embryonic-to-neonate snake in amber from Myanmar. Wiersma and Irmis: A new southern Laramidian ankylosaurid, Akainacephalus johnsoni gen. et sp. nov., from the upper Campanian [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/palaeontology-and-open-science-roundup-july-23rd-2018/">Palaeontology and Open Science roundup: July 23rd, 2018</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/palaeontology-and-open-science-roundup-july-23rd-2018/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3234</post-id>	</item>
+	</channel>
+</rss>

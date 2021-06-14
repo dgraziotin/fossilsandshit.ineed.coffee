@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /
+User-agent: Baiduspider
+Disallow: *
+User-agent: R6_CommentReader
+Disallow: *
+User-agent: SISTRIX Crawler
+Disallow: *
+User-agent: Exabot
+Disallow: *
+User-agent: FlipboardProxy
+Disallow: *
+User-agent: Q_BlogBot
+Disallow: *
+User-agent: QT_BlogBot
+Disallow: *
+User-agent: YandexBot
+Disallow: *
+User-agent: NKBot
+Disallow: *
+# for Google GDN (Not Crawl)
+User-agent: Mediapartners-Google
+Allow: /

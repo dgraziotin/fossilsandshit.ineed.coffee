@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Open cookie &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/open-cookie/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 16 Jan 2017 04:07:49 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>When publishing is like shopping for cookies</title>
+		<link>http://fossilsandshit.com/when-publishing-is-like-shopping-for-cookies/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=when-publishing-is-like-shopping-for-cookies</link>
+					<comments>http://fossilsandshit.com/when-publishing-is-like-shopping-for-cookies/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Mon, 16 Jan 2017 04:07:49 +0000</pubDate>
+				<category><![CDATA[Open Science]]></category>
+		<category><![CDATA[Open cookie]]></category>
+		<category><![CDATA[publishing]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Science]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=2189</guid>
+
+					<description><![CDATA[<p>Staying on top of the research literature is really hard. It&#8217;s even harder because most of the time, we don&#8217;t actually know what&#8217;s in a published paper until we&#8217;ve spent the time paying to access it, and reading it. That&#8217;s right &#8211; you have to pay for access to articles to even figure out if [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/when-publishing-is-like-shopping-for-cookies/">When publishing is like shopping for cookies</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/when-publishing-is-like-shopping-for-cookies/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2189</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,9 @@
+User-agent: Mediapartners-Google
+Disallow: 
+
+User-agent: *
+Disallow: /search
+Disallow: /*archive*
+Allow: /
+
+Sitemap: http://blog.thingswedontknow.com/feeds/posts/default?orderby=UPDATED

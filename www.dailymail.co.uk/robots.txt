@@ -1,0 +1,43 @@
+# Robots.txt for https://www.dailymail.co.uk/ updated 08/01/2020
+# 
+#
+# All Robots
+User-agent: *
+#
+# Begin Standard Rules
+Disallow: /*readcommentshtml*
+Disallow: /wires/*
+Disallow: /*login?redirectPath=
+Disallow: /*logout?redirectPath=
+Disallow: /*nextThread.html
+Disallow: /*previousThread.html
+Disallow: /*questionId*
+Disallow: /*selectedImage*
+Disallow: /*threadIndex=*
+Disallow: /*topGallery*
+Disallow: /ce/item.cms*
+Disallow: /guide/*
+Disallow: /home/search.html*
+Disallow: /galleries/*
+Disallow: /registration/*
+#
+# Disallow Money for Google News
+User-agent: Googlebot-News
+Disallow: /tmoney/*
+#
+# Allow Adsense
+User-agent: Mediapartners-Google 
+Disallow:
+#
+#
+User-agent: CrystalSemanticsBot
+Disallow: /
+#
+# Sitemap Files
+Sitemap: https://www.dailymail.co.uk/google-news-sitemap.xml
+Sitemap: https://www.dailymail.co.uk/sitemap-channels.xml
+Sitemap: https://www.dailymail.co.uk/sitemap-columnist.xml
+Sitemap: https://www.dailymail.co.uk/sitemap-topics.xml
+Sitemap: https://www.dailymail.co.uk/sitemap-videos-year~2020.xml
+Sitemap: https://www.dailymail.co.uk/sitemap-facts-year~2020.xml
+Sitemap: https://www.dailymail.co.uk/sitemap-articles-year~2020.xml

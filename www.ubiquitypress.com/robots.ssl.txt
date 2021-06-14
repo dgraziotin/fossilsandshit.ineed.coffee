@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /site/search
+
+Sitemap: http://www.ubiquitypress.com/sitemap.xml

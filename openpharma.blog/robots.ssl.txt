@@ -1,0 +1,5 @@
+Sitemap: https://openpharma.blog/sitemap.xml
+Sitemap: https://openpharma.blog/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

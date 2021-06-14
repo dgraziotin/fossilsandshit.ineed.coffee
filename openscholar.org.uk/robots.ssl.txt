@@ -1,0 +1,5 @@
+Sitemap: https://www.openscholar.org.uk/sitemap.xml
+Sitemap: https://www.openscholar.org.uk/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

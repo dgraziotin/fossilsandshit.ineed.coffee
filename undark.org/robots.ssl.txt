@@ -1,0 +1,5 @@
+Sitemap: https://undark.org/sitemap.xml
+Sitemap: https://undark.org/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

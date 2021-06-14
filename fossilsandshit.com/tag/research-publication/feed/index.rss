@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>research publication &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/research-publication/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 02 Jun 2014 10:42:22 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Social Media and the Seven Twitter Accounts</title>
+		<link>http://fossilsandshit.com/social-media-and-the-seven-twitter-accounts/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=social-media-and-the-seven-twitter-accounts</link>
+					<comments>http://fossilsandshit.com/social-media-and-the-seven-twitter-accounts/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Mon, 02 Jun 2014 10:42:22 +0000</pubDate>
+				<category><![CDATA[Science Communication]]></category>
+		<category><![CDATA[peer review]]></category>
+		<category><![CDATA[research publication]]></category>
+		<category><![CDATA[science communication]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[Web 2.0]]></category>
+		<category><![CDATA[Zen Faulkes]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=670</guid>
+
+					<description><![CDATA[<p>This was originally posted at: &#8220;Postpublication peer review on social media is like the mosh pit at a punk rock conference. It&#8217;s fast, uncoordinated, a lot less subtle, more in your face, and involves a few more risks.&#8217; Peer review is the cornerstone of scientific legitimacy &#8211; it is the process where research is analysed [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/social-media-and-the-seven-twitter-accounts/">Social Media and the Seven Twitter Accounts</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/social-media-and-the-seven-twitter-accounts/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">670</post-id>	</item>
+	</channel>
+</rss>

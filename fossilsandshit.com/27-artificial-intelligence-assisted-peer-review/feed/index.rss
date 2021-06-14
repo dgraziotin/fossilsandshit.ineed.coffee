@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: 27: Artificial Intelligence-assisted peer review	</title>
+	<atom:link href="http://fossilsandshit.com/27-artificial-intelligence-assisted-peer-review/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com/27-artificial-intelligence-assisted-peer-review/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=27-artificial-intelligence-assisted-peer-review</link>
+	<description></description>
+	<lastBuildDate>Tue, 26 Nov 2019 07:12:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>
+		By: protohedgehog		</title>
+		<link>http://fossilsandshit.com/27-artificial-intelligence-assisted-peer-review/#comment-3222</link>
+
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Tue, 26 Nov 2019 07:12:00 +0000</pubDate>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3597#comment-3222</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;http://fossilsandshit.com/27-artificial-intelligence-assisted-peer-review/#comment-3221&quot;&gt;Dahlia&lt;/a&gt;.
+
+Thanks for your comment, Dahlia! You might be interested in the Blockchain for Peer Review project: https://www.blockchainpeerreview.org/2019/06/next-steps-for-the-blockchain-for-peer-review-initiative/ as well as this recent paper on Blockchain technology in Open Science more broadly: https://www.frontiersin.org/articles/10.3389/fbloc.2019.00016/full and then there is also the Blockchain for Science project which contains a lot of active projects in this space, some including peer review I think: https://www.blockchainforscience.com - enjoy! :)]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="http://fossilsandshit.com/27-artificial-intelligence-assisted-peer-review/#comment-3221">Dahlia</a>.</p>
+<p>Thanks for your comment, Dahlia! You might be interested in the Blockchain for Peer Review project: <a href="https://www.blockchainpeerreview.org/2019/06/next-steps-for-the-blockchain-for-peer-review-initiative/" rel="nofollow ugc">https://www.blockchainpeerreview.org/2019/06/next-steps-for-the-blockchain-for-peer-review-initiative/</a> as well as this recent paper on Blockchain technology in Open Science more broadly: <a href="https://www.frontiersin.org/articles/10.3389/fbloc.2019.00016/full" rel="nofollow ugc">https://www.frontiersin.org/articles/10.3389/fbloc.2019.00016/full</a> and then there is also the Blockchain for Science project which contains a lot of active projects in this space, some including peer review I think: <a href="https://www.blockchainforscience.com" rel="nofollow ugc">https://www.blockchainforscience.com</a> &#8211; enjoy! 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Dahlia		</title>
+		<link>http://fossilsandshit.com/27-artificial-intelligence-assisted-peer-review/#comment-3221</link>
+
+		<dc:creator><![CDATA[Dahlia]]></dc:creator>
+		<pubDate>Tue, 26 Nov 2019 06:38:34 +0000</pubDate>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3597#comment-3221</guid>
+
+					<description><![CDATA[Very cool series you have here. I found your blog by googling &quot;blockchain peer review&quot; to see if anyone else has had this idea. I was very excited to support a similar blockchain peer review project called Lunyr but unfortunately it seems that that project has been abandoned. My close to finishing a PhD and my limited experience with the peer-review process has been... eye-opening to say the least. Realising reviewers don&#039;t get paid and that it takes a long time to get a decision from a journal. It all feels very inefficient. I like the idea of using blockchain and AI to improve that.]]></description>
+			<content:encoded><![CDATA[<p>Very cool series you have here. I found your blog by googling &#8220;blockchain peer review&#8221; to see if anyone else has had this idea. I was very excited to support a similar blockchain peer review project called Lunyr but unfortunately it seems that that project has been abandoned. My close to finishing a PhD and my limited experience with the peer-review process has been&#8230; eye-opening to say the least. Realising reviewers don&#8217;t get paid and that it takes a long time to get a decision from a journal. It all feels very inefficient. I like the idea of using blockchain and AI to improve that.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

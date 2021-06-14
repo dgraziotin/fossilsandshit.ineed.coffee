@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Blattulidae &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/blattulidae/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Wed, 29 Jan 2014 12:28:52 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Your poop or mine?</title>
+		<link>http://fossilsandshit.com/your-poop-or-mine/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=your-poop-or-mine</link>
+					<comments>http://fossilsandshit.com/your-poop-or-mine/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Wed, 29 Jan 2014 12:28:52 +0000</pubDate>
+				<category><![CDATA[Ecology]]></category>
+		<category><![CDATA[Fossils]]></category>
+		<category><![CDATA[Palaeontology]]></category>
+		<category><![CDATA[Blattulidae]]></category>
+		<category><![CDATA[Cockroaches]]></category>
+		<category><![CDATA[Coprolites]]></category>
+		<category><![CDATA[Coprophages]]></category>
+		<category><![CDATA[Dinosaurs]]></category>
+		<category><![CDATA[Dung beetles]]></category>
+		<category><![CDATA[fossil]]></category>
+		<category><![CDATA[Mesozoic]]></category>
+		<category><![CDATA[Poop]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=631</guid>
+
+					<description><![CDATA[<p>This was originally posted at: http://blogs.egu.eu/palaeoblog/?p=1023 Back in the Mesozoic, lavatories probably didn’t exist. In fact, dinosaurs and other animals were probably pretty poorly mannered and just pooped wherever they felt like. But what or who cleaned up after them? In modern biomes, poop is decomposed by insects and bacteria of all breeds, and actually forms [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/your-poop-or-mine/">Your poop or mine?</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/your-poop-or-mine/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">631</post-id>	</item>
+	</channel>
+</rss>

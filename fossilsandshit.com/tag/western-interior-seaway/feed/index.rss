@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Western Interior Seaway &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/western-interior-seaway/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 13 Jan 2014 15:29:59 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Were dinosaurs the masters of social integration?</title>
+		<link>http://fossilsandshit.com/were-dinosaurs-the-masters-of-social-integration/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=were-dinosaurs-the-masters-of-social-integration</link>
+					<comments>http://fossilsandshit.com/were-dinosaurs-the-masters-of-social-integration/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2014 15:29:59 +0000</pubDate>
+				<category><![CDATA[Ecology]]></category>
+		<category><![CDATA[Evolution]]></category>
+		<category><![CDATA[Palaeontology]]></category>
+		<category><![CDATA[Zoology]]></category>
+		<category><![CDATA[Ankylosaurs]]></category>
+		<category><![CDATA[Beak]]></category>
+		<category><![CDATA[Ceratopsians]]></category>
+		<category><![CDATA[Dinosaurs]]></category>
+		<category><![CDATA[Ecological Niche]]></category>
+		<category><![CDATA[Geometric Morphometrics]]></category>
+		<category><![CDATA[Hadrosaurs]]></category>
+		<category><![CDATA[Herbivores]]></category>
+		<category><![CDATA[herbivorous dinosaurs]]></category>
+		<category><![CDATA[Jason Anderson]]></category>
+		<category><![CDATA[Jordan Mallon]]></category>
+		<category><![CDATA[Laramidia]]></category>
+		<category><![CDATA[Morphology]]></category>
+		<category><![CDATA[Niche]]></category>
+		<category><![CDATA[Nodosaurs]]></category>
+		<category><![CDATA[Pete Postlethwaite]]></category>
+		<category><![CDATA[Snout]]></category>
+		<category><![CDATA[Western Interior Seaway]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=623</guid>
+
+					<description><![CDATA[<p>This was originally posted at: http://blogs.egu.eu/palaeoblog/?p=996 Back in the Late Cretaceous, the USA was divided. Not politically, but by a vast continental sea called the Western Interior Seaway, splitting the continent into two separate landmasses. The western one of these, known as Laramidia, played host to some of the popular dinosaurs like Parasaurolophus, or ‘Elvis’ in [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/were-dinosaurs-the-masters-of-social-integration/">Were dinosaurs the masters of social integration?</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/were-dinosaurs-the-masters-of-social-integration/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">623</post-id>	</item>
+	</channel>
+</rss>

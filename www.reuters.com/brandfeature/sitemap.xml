@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.reuters.com/brandfeature/deloitte/future-of-organizations</loc>
+    <image:image>
+    <image:loc>https://reuterscustomhubs.cdn.prismic.io/reuterscustomhubs/88032c29776d676859c09bb167bc1f2d65a2342c_fb-deloitte.jpg</image:loc>
+    </image:image>
+    <lastmod>2019-06-20T19:04:23.815Z</lastmod>
+    <changefreq>always</changefreq>
+  </url>
+</urlset>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.reuters.com/brandfeature/deloitte/putting-meaning-back-into-work</loc>
+    <image:image>
+    <image:loc>https://reuterscustomhubs.cdn.prismic.io/reuterscustomhubs/b9d76756e0119f9fbbba9884bf328ed59c13547c_v2-social.png</image:loc>
+    </image:image>
+    <lastmod>2019-08-15T19:04:23.815Z</lastmod>
+    <changefreq>always</changefreq>
+  </url>
+</urlset>

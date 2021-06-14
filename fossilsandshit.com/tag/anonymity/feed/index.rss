@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Anonymity &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/anonymity/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 05 Feb 2018 10:38:50 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>13: Peer Review: Anonymity Versus Identification (III)</title>
+		<link>http://fossilsandshit.com/13-peer-review-anonymity-versus-identification-iii/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=13-peer-review-anonymity-versus-identification-iii</link>
+					<comments>http://fossilsandshit.com/13-peer-review-anonymity-versus-identification-iii/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Mon, 05 Feb 2018 10:38:50 +0000</pubDate>
+				<category><![CDATA[Open Science]]></category>
+		<category><![CDATA[Science Communication]]></category>
+		<category><![CDATA[Anonymity]]></category>
+		<category><![CDATA[Double Blind]]></category>
+		<category><![CDATA[F1000 Research]]></category>
+		<category><![CDATA[Open Peer Review]]></category>
+		<category><![CDATA[peer review]]></category>
+		<category><![CDATA[Scholarly Publishing]]></category>
+		<category><![CDATA[Single Blind]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=2809</guid>
+
+					<description><![CDATA[<p>This is adapted from our recent paper in F1000 Research, entitled “A multi-disciplinary perspective on emergent and future innovations in peer review.” Due to its rather monstrous length, I’ll be posting chunks of the text here in sequence over the next few weeks to help disseminate it in more easily digestible bites. Enjoy! This section describes [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/13-peer-review-anonymity-versus-identification-iii/">13: Peer Review: Anonymity Versus Identification (III)</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/13-peer-review-anonymity-versus-identification-iii/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2809</post-id>	</item>
+	</channel>
+</rss>

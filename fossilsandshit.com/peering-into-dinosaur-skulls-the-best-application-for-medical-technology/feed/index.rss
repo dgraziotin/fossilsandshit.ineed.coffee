@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Peering into dinosaur skulls – the best application for medical technology	</title>
+	<atom:link href="http://fossilsandshit.com/peering-into-dinosaur-skulls-the-best-application-for-medical-technology/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com/peering-into-dinosaur-skulls-the-best-application-for-medical-technology/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=peering-into-dinosaur-skulls-the-best-application-for-medical-technology</link>
+	<description></description>
+	<lastBuildDate>Wed, 21 Nov 2012 21:41:59 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>
+		By: protohedgehog		</title>
+		<link>http://fossilsandshit.com/peering-into-dinosaur-skulls-the-best-application-for-medical-technology/#comment-334</link>
+
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Wed, 21 Nov 2012 21:41:59 +0000</pubDate>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=366#comment-334</guid>
+
+					<description><![CDATA[Short answer: Dinosaurs ;)]]></description>
+			<content:encoded><![CDATA[<p>Short answer: Dinosaurs 😉</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: gravelinspector		</title>
+		<link>http://fossilsandshit.com/peering-into-dinosaur-skulls-the-best-application-for-medical-technology/#comment-333</link>
+
+		<dc:creator><![CDATA[gravelinspector]]></dc:creator>
+		<pubDate>Wed, 21 Nov 2012 21:40:53 +0000</pubDate>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=366#comment-333</guid>
+
+					<description><![CDATA[A couple of years ago I was looking at the idea of building a 3d printer - a RepRap, or something similar - with the idea of making (scale) models of fossils, endocast cavities etc. The wife vetoed the project, but I tihnk it would have worked, if I could have worked out the tool chain from MRI (or whatever; CT ...) scans to a 3d modelling language that was supported. 
+Having said that, I see a recent (last few days) flurry of lawsuits between the manufacturers of proprietary, closed-source 3d printers. Which makes me glad that I didn&#039;t jump in feet-first to just buy a machine and was planning on building my own to open standards.
+What do you think the market for such products would be - both for research and for teaching?]]></description>
+			<content:encoded><![CDATA[<p>A couple of years ago I was looking at the idea of building a 3d printer &#8211; a RepRap, or something similar &#8211; with the idea of making (scale) models of fossils, endocast cavities etc. The wife vetoed the project, but I tihnk it would have worked, if I could have worked out the tool chain from MRI (or whatever; CT &#8230;) scans to a 3d modelling language that was supported.<br />
+Having said that, I see a recent (last few days) flurry of lawsuits between the manufacturers of proprietary, closed-source 3d printers. Which makes me glad that I didn&#8217;t jump in feet-first to just buy a machine and was planning on building my own to open standards.<br />
+What do you think the market for such products would be &#8211; both for research and for teaching?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

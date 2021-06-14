@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>World Health Organisation &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/world-health-organisation/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Wed, 01 Apr 2020 04:11:31 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>UNESCO mobilizes 122 countries to promote open science and reinforced cooperation in the face of COVID-19</title>
+		<link>http://fossilsandshit.com/unesco-mobilizes-to-promote-open-science/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=unesco-mobilizes-to-promote-open-science</link>
+					<comments>http://fossilsandshit.com/unesco-mobilizes-to-promote-open-science/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Wed, 01 Apr 2020 04:11:31 +0000</pubDate>
+				<category><![CDATA[Open Science]]></category>
+		<category><![CDATA[Coronavirus]]></category>
+		<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Global Health]]></category>
+		<category><![CDATA[Innovation]]></category>
+		<category><![CDATA[Pandemic]]></category>
+		<category><![CDATA[SARS-CoV-2]]></category>
+		<category><![CDATA[Scholarly Communication]]></category>
+		<category><![CDATA[Science and Society]]></category>
+		<category><![CDATA[science communication]]></category>
+		<category><![CDATA[SDGs]]></category>
+		<category><![CDATA[Sustainable Development]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[UNESCO]]></category>
+		<category><![CDATA[United Nations]]></category>
+		<category><![CDATA[World Health Organisation]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3996</guid>
+
+					<description><![CDATA[<p>SOURCE UNESCO on 30 March hosted an online meeting of representatives of ministries in charge of science all over the world. Participants included 77 ministers, including governmental secretaries representing a total of 122 countries, as well as Mariya Gabriel, European Commissioner for Innovation, Research, Culture, Education and Youth, Sarah Anyang Agbor, African Union Commissioner for Human Resources, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/unesco-mobilizes-to-promote-open-science/">UNESCO mobilizes 122 countries to promote open science and reinforced cooperation in the face of COVID-19</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/unesco-mobilizes-to-promote-open-science/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3996</post-id>	</item>
+	</channel>
+</rss>

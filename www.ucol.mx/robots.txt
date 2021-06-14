@@ -1,0 +1,9 @@
+User-agent: *
+Disallow:/docencia/*
+Disallow:/radio/*
+Disallow:/acerca/*
+Disallow:/pregrado/*
+Disallow:/posgrado/*
+Disallow:/universidad/*
+Disallow:/becasms/*
+Disallow:/radio/

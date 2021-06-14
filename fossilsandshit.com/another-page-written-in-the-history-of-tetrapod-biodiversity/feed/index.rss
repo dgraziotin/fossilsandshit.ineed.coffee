@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Another Page Written in the History of Tetrapod Biodiversity	</title>
+	<atom:link href="http://fossilsandshit.com/another-page-written-in-the-history-of-tetrapod-biodiversity/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com/another-page-written-in-the-history-of-tetrapod-biodiversity/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=another-page-written-in-the-history-of-tetrapod-biodiversity</link>
+	<description></description>
+	<lastBuildDate>Thu, 19 Apr 2012 12:13:53 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>
+		By: protohedgehog		</title>
+		<link>http://fossilsandshit.com/another-page-written-in-the-history-of-tetrapod-biodiversity/#comment-236</link>
+
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Thu, 19 Apr 2012 12:13:53 +0000</pubDate>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=222#comment-236</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;http://fossilsandshit.com/another-page-written-in-the-history-of-tetrapod-biodiversity/#comment-235&quot;&gt;Richard Butler&lt;/a&gt;.
+
+Cheers for the comments Richard - I did think it was perhaps being a little overly-critical, but I hate writing just about results, so tend to squeeze a bit too hard sometimes!
+
+With the biomass idea, it was more in terms of the co-evolution of plants and contemporary herbivores (did increasing global plant biomass drive body size?), or something. Pretty impossible to test though, I guess.
+
+Yep, Sander et al.&#039;s work is quite thorough! I&#039;m working on looking at correspondence between snout shape (intake rate, bite size etc.) and body mass atm in ornithopods and ruminants, should hopefully have something to report there shortly too. 
+
+Cool wrt the modelling approach - you guys obviously know what you were doing! It just seemed a little odd at first to me.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="http://fossilsandshit.com/another-page-written-in-the-history-of-tetrapod-biodiversity/#comment-235">Richard Butler</a>.</p>
+<p>Cheers for the comments Richard &#8211; I did think it was perhaps being a little overly-critical, but I hate writing just about results, so tend to squeeze a bit too hard sometimes!</p>
+<p>With the biomass idea, it was more in terms of the co-evolution of plants and contemporary herbivores (did increasing global plant biomass drive body size?), or something. Pretty impossible to test though, I guess.</p>
+<p>Yep, Sander et al.&#8217;s work is quite thorough! I&#8217;m working on looking at correspondence between snout shape (intake rate, bite size etc.) and body mass atm in ornithopods and ruminants, should hopefully have something to report there shortly too. </p>
+<p>Cool wrt the modelling approach &#8211; you guys obviously know what you were doing! It just seemed a little odd at first to me.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Richard Butler		</title>
+		<link>http://fossilsandshit.com/another-page-written-in-the-history-of-tetrapod-biodiversity/#comment-235</link>
+
+		<dc:creator><![CDATA[Richard Butler]]></dc:creator>
+		<pubDate>Thu, 19 Apr 2012 06:00:58 +0000</pubDate>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=222#comment-235</guid>
+
+					<description><![CDATA[Hi Jon, 
+
+Nice post! I have a couple of quick comments on a couple of more critical points you made. 
+
+Re: external vs. intrinsic driving factors. You are correct, there are a few potentially testable additional factors out there, but we have already indirectly tested sea level (which is to a first approximation the inverse of exposed non-marine area). Palaeolatitude would obviously impact on maximum body sizes in different areas of the globe within a single time slice, but it is unclear to me how it could drive changes between two time slices given that continental drift is a relatively slow process. I don&#039;t really get the biomass suggestion either. In any case, we tested the three things that have by far most widely considered as possible controls on maximum body size, and they all fail. We then support the idea that intrinsic clade-specific biological constraints are more important in controlling maximum body size because there is a large, rapidly growing, and convincing body of literature that suggests this - nicely summarised by the Sander et al. (2010) review of dinosaur gigantism in Biological Reviews.
+
+As for the serial correlation issue, there are two points here. First, Roland carried out analyses that lack an autoregressive model (AR0 - this means they don&#039;t take serial correlation and trend into account, which can inflate correlation coefficients when comparing time series statistically) because we wanted to duplicate the results of Smith et al. (2010), who found correlations between Cenozoic mammal size and land area/temperature, but did not deal with serial correlation in their data series. Second, it is standard in these kind of model-fitting approaches to use and compare models that don&#039;t take into account serial correlation (AR0) and models that do (AR1, AR2 etc.) because we don&#039;t a priori know if serial correlation is a problem or not. The model-fitting approach checks whether models that deal with serial correlation are better than those that do not, and in this case AR1 models were always better than AR0 models. So, I think it is perfectly correct to report AR0 and AR1 results, but to note that the AR1 results are better supported than those using AR0.]]></description>
+			<content:encoded><![CDATA[<p>Hi Jon, </p>
+<p>Nice post! I have a couple of quick comments on a couple of more critical points you made. </p>
+<p>Re: external vs. intrinsic driving factors. You are correct, there are a few potentially testable additional factors out there, but we have already indirectly tested sea level (which is to a first approximation the inverse of exposed non-marine area). Palaeolatitude would obviously impact on maximum body sizes in different areas of the globe within a single time slice, but it is unclear to me how it could drive changes between two time slices given that continental drift is a relatively slow process. I don&#8217;t really get the biomass suggestion either. In any case, we tested the three things that have by far most widely considered as possible controls on maximum body size, and they all fail. We then support the idea that intrinsic clade-specific biological constraints are more important in controlling maximum body size because there is a large, rapidly growing, and convincing body of literature that suggests this &#8211; nicely summarised by the Sander et al. (2010) review of dinosaur gigantism in Biological Reviews.</p>
+<p>As for the serial correlation issue, there are two points here. First, Roland carried out analyses that lack an autoregressive model (AR0 &#8211; this means they don&#8217;t take serial correlation and trend into account, which can inflate correlation coefficients when comparing time series statistically) because we wanted to duplicate the results of Smith et al. (2010), who found correlations between Cenozoic mammal size and land area/temperature, but did not deal with serial correlation in their data series. Second, it is standard in these kind of model-fitting approaches to use and compare models that don&#8217;t take into account serial correlation (AR0) and models that do (AR1, AR2 etc.) because we don&#8217;t a priori know if serial correlation is a problem or not. The model-fitting approach checks whether models that deal with serial correlation are better than those that do not, and in this case AR1 models were always better than AR0 models. So, I think it is perfectly correct to report AR0 and AR1 results, but to note that the AR1 results are better supported than those using AR0.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Git &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/git/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Tue, 05 Mar 2019 08:55:04 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Teaching scientists how to share code &#124; Opensource.com</title>
+		<link>http://fossilsandshit.com/teaching-scientists-how-to-share-code-opensource-com/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=teaching-scientists-how-to-share-code-opensource-com</link>
+					<comments>http://fossilsandshit.com/teaching-scientists-how-to-share-code-opensource-com/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Tue, 05 Mar 2019 08:54:53 +0000</pubDate>
+				<category><![CDATA[Open Science]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[Git]]></category>
+		<category><![CDATA[Open Science MOOC]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[Software]]></category>
+		<category><![CDATA[Zenodo]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3560</guid>
+
+					<description><![CDATA[<p>Would it surprise you to learn that most of the world&#8217;s scholarly research is not owned by the people who funded it or who created it? Rather it&#8217;s owned by private corporations and locked up in proprietary systems, leading to problems around sharing, reuse, and reproducibility. The open science movement is challenging this system, aiming [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/teaching-scientists-how-to-share-code-opensource-com/">Teaching scientists how to share code | Opensource.com</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/teaching-scientists-how-to-share-code-opensource-com/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3560</post-id>	</item>
+	</channel>
+</rss>

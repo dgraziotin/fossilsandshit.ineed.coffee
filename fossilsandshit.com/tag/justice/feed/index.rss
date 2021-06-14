@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>justice &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/justice/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Thu, 05 Mar 2020 07:21:38 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>My personal “code of conduct”</title>
+		<link>http://fossilsandshit.com/my-personal-code-of-conduct/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=my-personal-code-of-conduct</link>
+					<comments>http://fossilsandshit.com/my-personal-code-of-conduct/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Thu, 05 Mar 2020 07:21:22 +0000</pubDate>
+				<category><![CDATA[Journey To Nowhere]]></category>
+		<category><![CDATA[Compassion]]></category>
+		<category><![CDATA[Courage]]></category>
+		<category><![CDATA[Forgiveness]]></category>
+		<category><![CDATA[Freedom]]></category>
+		<category><![CDATA[Gratitude]]></category>
+		<category><![CDATA[Happiness]]></category>
+		<category><![CDATA[Honesty]]></category>
+		<category><![CDATA[Integrity]]></category>
+		<category><![CDATA[justice]]></category>
+		<category><![CDATA[Kindness]]></category>
+		<category><![CDATA[Loyalty]]></category>
+		<category><![CDATA[Patience]]></category>
+		<category><![CDATA[Peace]]></category>
+		<category><![CDATA[Respect]]></category>
+		<category><![CDATA[Selflessness]]></category>
+		<category><![CDATA[Sharing]]></category>
+		<category><![CDATA[Tolerance]]></category>
+		<category><![CDATA[Truth]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3943</guid>
+
+					<description><![CDATA[<p>Codes of conduct seem to becoming increasingly popular in academic communities. I believe that a “code of conduct” is something each of us lives by every day, based on how we were raised, our experiences in life, and the morals and values that those things impart upon us. A bit of background about me (skip [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/my-personal-code-of-conduct/">My personal “code of conduct”</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/my-personal-code-of-conduct/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3943</post-id>	</item>
+		<item>
+		<title>Injustice in the British Justice System?</title>
+		<link>http://fossilsandshit.com/injustice-in-the-british-justice-system/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=injustice-in-the-british-justice-system</link>
+					<comments>http://fossilsandshit.com/injustice-in-the-british-justice-system/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Wed, 07 Dec 2011 20:17:14 +0000</pubDate>
+				<category><![CDATA[PhD]]></category>
+		<category><![CDATA[inequality]]></category>
+		<category><![CDATA[intolerance]]></category>
+		<category><![CDATA[islam]]></category>
+		<category><![CDATA[justice]]></category>
+		<category><![CDATA[legal]]></category>
+		<category><![CDATA[politics]]></category>
+		<category><![CDATA[Racism]]></category>
+		<category><![CDATA[rant]]></category>
+		<category><![CDATA[religion]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=62</guid>
+
+					<description><![CDATA[<p>Most people in the UK will hopefully be aware of the recent event covered by the BBC News, whereby a woman was arrested for having a ‘racist rant’ on a tram in London. Articles by the BBC on this story can be found on the following two links, and the video of the event filmed [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/injustice-in-the-british-justice-system/">Injustice in the British Justice System?</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/injustice-in-the-british-justice-system/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">62</post-id>	</item>
+	</channel>
+</rss>

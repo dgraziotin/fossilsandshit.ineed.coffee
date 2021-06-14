@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Your track or mine?	</title>
+	<atom:link href="http://fossilsandshit.com/your-track-or-mine/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com/your-track-or-mine/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=your-track-or-mine</link>
+	<description></description>
+	<lastBuildDate>Sun, 24 Mar 2013 17:46:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>
+		By: The Week In Science (Mar 18 &#8211; 24) &#124; Science Communication Blog Network		</title>
+		<link>http://fossilsandshit.com/your-track-or-mine/#comment-384</link>
+
+		<dc:creator><![CDATA[The Week In Science (Mar 18 &#8211; 24) &#124; Science Communication Blog Network]]></dc:creator>
+		<pubDate>Sun, 24 Mar 2013 17:46:00 +0000</pubDate>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=479#comment-384</guid>
+
+					<description><![CDATA[[...] Your track or mine? [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Your track or mine? [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Your track or mine? &#124; Science Communication Blog Network		</title>
+		<link>http://fossilsandshit.com/your-track-or-mine/#comment-383</link>
+
+		<dc:creator><![CDATA[Your track or mine? &#124; Science Communication Blog Network]]></dc:creator>
+		<pubDate>Tue, 19 Mar 2013 17:13:38 +0000</pubDate>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=479#comment-383</guid>
+
+					<description><![CDATA[[...] From &#8216;Green Tea and Velociraptors&#8217;, Mar 18, 2013 [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] From &#8216;Green Tea and Velociraptors&#8217;, Mar 18, 2013 [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: gravelinspector-Aidan		</title>
+		<link>http://fossilsandshit.com/your-track-or-mine/#comment-382</link>
+
+		<dc:creator><![CDATA[gravelinspector-Aidan]]></dc:creator>
+		<pubDate>Mon, 18 Mar 2013 11:29:09 +0000</pubDate>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=479#comment-382</guid>
+
+					<description><![CDATA[&quot;An international team ... have earthed new evidence of &quot;
+I don&#039;t think that unmeans what you think it doesn&#039;t. Perhaps?]]></description>
+			<content:encoded><![CDATA[<p>&#8220;An international team &#8230; have earthed new evidence of &#8221;<br />
+I don&#8217;t think that unmeans what you think it doesn&#8217;t. Perhaps?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /search?
+Disallow: /sign-in?
+Disallow: /sign-up?
+
+Sitemap: https://alpha.aeon.co/sitemaps/aeon/main.xml
+Sitemap: https://alpha.aeon.co/sitemaps/aeon/video.xml

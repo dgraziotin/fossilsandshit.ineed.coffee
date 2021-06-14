@@ -1,0 +1,3 @@
+user-agent: *
+disallow: /error/
+sitemap: https://eng.geus.dk/handlers/Sitemap.ashx

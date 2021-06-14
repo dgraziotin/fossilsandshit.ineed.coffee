@@ -1,0 +1,5 @@
+Sitemap: https://systass.org/sitemap.xml
+Sitemap: https://systass.org/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

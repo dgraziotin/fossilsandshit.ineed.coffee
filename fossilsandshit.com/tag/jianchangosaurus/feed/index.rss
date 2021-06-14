@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Jianchangosaurus &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/jianchangosaurus/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Sun, 01 Sep 2013 19:28:40 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>‘Meat was so sixty million years agAAAGHH…’</title>
+		<link>http://fossilsandshit.com/meat-was-so-sixty-million-years-agaaaghh/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=meat-was-so-sixty-million-years-agaaaghh</link>
+					<comments>http://fossilsandshit.com/meat-was-so-sixty-million-years-agaaaghh/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Sun, 01 Sep 2013 19:28:40 +0000</pubDate>
+				<category><![CDATA[Ecology]]></category>
+		<category><![CDATA[Evolution]]></category>
+		<category><![CDATA[Fossils]]></category>
+		<category><![CDATA[Palaeontology]]></category>
+		<category><![CDATA[Ceratopsians]]></category>
+		<category><![CDATA[Dentition]]></category>
+		<category><![CDATA[Dinosaurs]]></category>
+		<category><![CDATA[Feeding]]></category>
+		<category><![CDATA[Jianchangosaurus]]></category>
+		<category><![CDATA[Ornithischians]]></category>
+		<category><![CDATA[ornithopods]]></category>
+		<category><![CDATA[Teeth]]></category>
+		<category><![CDATA[therizinosaurs]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=590</guid>
+
+					<description><![CDATA[<p>This was initially posted at: http://blogs.egu.eu/palaeoblog/?p=760 Some dinosaurs were utterly bizarre. You may have heard of them before, but one particular group called therizinosaurs belonged to the meat-eating theropod dinosaurs (those that led to birds), were really awesome. However, they actually at some point made a conscious evolutionary decision to stop being badasses, and become Cretaceous-cauliflower* [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/meat-was-so-sixty-million-years-agaaaghh/">‘Meat was so sixty million years agAAAGHH…’</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/meat-was-so-sixty-million-years-agaaaghh/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">590</post-id>	</item>
+	</channel>
+</rss>

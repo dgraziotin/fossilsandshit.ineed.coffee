@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /covers/
+Disallow: /api/
+Disallow: /*checkval
+Disallow: /*wicket:interface
+Disallow: /*?print_view=true
+Disallow: /*/search
+Disallow: /*/product-search
+Allow: /*/product-search/discipline
+Disallow: /*/product-search/discipline?*dnc=

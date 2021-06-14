@@ -1,0 +1,5 @@
+Sitemap: https://home.scienceopen.com/sitemap.xml
+Sitemap: https://home.scienceopen.com/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

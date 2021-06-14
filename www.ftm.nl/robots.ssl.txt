@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /pageview/create/
+Disallow: /over-ftm/zakelijk-abonnementen-op-ftmnl
+Disallow: /assets/img/eyelid_spritesheet.png
+Disallow: /assets/img/eye.png
+Disallow: /eu-party-finances-ccdxf5zg2vgfbpju3-7cvcvpkckgd9kgncj

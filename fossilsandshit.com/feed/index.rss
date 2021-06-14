@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Wed, 08 Apr 2020 08:37:05 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Converting adversity into productivity</title>
+		<link>http://fossilsandshit.com/converting-adversity-into-productivity/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=converting-adversity-into-productivity</link>
+					<comments>http://fossilsandshit.com/converting-adversity-into-productivity/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2020 08:36:57 +0000</pubDate>
+				<category><![CDATA[Journey To Nowhere]]></category>
+		<category><![CDATA[Open Science]]></category>
+		<category><![CDATA[Communities]]></category>
+		<category><![CDATA[Dinosaurs]]></category>
+		<category><![CDATA[Earth Science]]></category>
+		<category><![CDATA[Environmental Science]]></category>
+		<category><![CDATA[Geochemistry]]></category>
+		<category><![CDATA[Geoscience]]></category>
+		<category><![CDATA[journals]]></category>
+		<category><![CDATA[Open Access]]></category>
+		<category><![CDATA[Open Scholarship]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[palaeontology]]></category>
+		<category><![CDATA[peer review]]></category>
+		<category><![CDATA[Preprints]]></category>
+		<category><![CDATA[Revolution]]></category>
+		<category><![CDATA[Scholarly Communication]]></category>
+		<category><![CDATA[Scholarly Publishing]]></category>
+		<category><![CDATA[Sustainable Development Goals]]></category>
+		<category><![CDATA[UNESCO]]></category>
+		<category><![CDATA[United Nations]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=4013</guid>
+
+					<description><![CDATA[<p>So, 2020 has been off to an interesting start. The &#8220;OpenCon saga&#8221; pretty much crippled me professionally. I have spent the last 5 months in isolation mode to recover physically and emotionally from that. Thankfully, while this rather vicious and intentional attempt to harm me was quite successful, it also provided me with a brilliant [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/converting-adversity-into-productivity/">Converting adversity into productivity</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/converting-adversity-into-productivity/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4013</post-id>	</item>
+		<item>
+		<title>OpenCon saga update: GDPR response</title>
+		<link>http://fossilsandshit.com/opencon-saga-update-gdpr-response/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=opencon-saga-update-gdpr-response</link>
+					<comments>http://fossilsandshit.com/opencon-saga-update-gdpr-response/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Sat, 04 Apr 2020 08:59:37 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[#OpenPhD]]></category>
+		<category><![CDATA[cancel culture]]></category>
+		<category><![CDATA[Defamation]]></category>
+		<category><![CDATA[Harassment]]></category>
+		<category><![CDATA[Open Science Community]]></category>
+		<category><![CDATA[OpenCon]]></category>
+		<category><![CDATA[SPARC]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=4001</guid>
+
+					<description><![CDATA[<p>On 28 November 2019, I initiated a GDPR (General Data Protection Regulations) data access request to OpenCon (SPARC). On 27 March 2020 they responded. I provided a recent 5-month summary of this saga here. The document On 27 March, 2020, I received a letter from OpenCon’s lawyers, notifying that I was about to receive a [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/opencon-saga-update-gdpr-response/">OpenCon saga update: GDPR response</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/opencon-saga-update-gdpr-response/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4001</post-id>	</item>
+		<item>
+		<title>Beginners guide to meditation series now freely available online. And open source.</title>
+		<link>http://fossilsandshit.com/beginners-guide-to-meditation-series-now-freely-available-online-and-open-source/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=beginners-guide-to-meditation-series-now-freely-available-online-and-open-source</link>
+					<comments>http://fossilsandshit.com/beginners-guide-to-meditation-series-now-freely-available-online-and-open-source/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Sat, 04 Apr 2020 06:39:10 +0000</pubDate>
+				<category><![CDATA[Journey To Nowhere]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3998</guid>
+
+					<description><![CDATA[<p>I&#8217;ve made a new playlist on Soundcloud that comprises a number of simple introductory meditation practices. I consider this to be a step in my own personal journey. I hope that it is of value to you, especially during these challenging times. Each &#8216;episode&#8217; is freely available. The source files and scripts also available for [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/beginners-guide-to-meditation-series-now-freely-available-online-and-open-source/">Beginners guide to meditation series now freely available online. And open source.</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/beginners-guide-to-meditation-series-now-freely-available-online-and-open-source/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3998</post-id>	</item>
+		<item>
+		<title>UNESCO mobilizes 122 countries to promote open science and reinforced cooperation in the face of COVID-19</title>
+		<link>http://fossilsandshit.com/unesco-mobilizes-to-promote-open-science/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=unesco-mobilizes-to-promote-open-science</link>
+					<comments>http://fossilsandshit.com/unesco-mobilizes-to-promote-open-science/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Wed, 01 Apr 2020 04:11:31 +0000</pubDate>
+				<category><![CDATA[Open Science]]></category>
+		<category><![CDATA[Coronavirus]]></category>
+		<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Global Health]]></category>
+		<category><![CDATA[Innovation]]></category>
+		<category><![CDATA[Pandemic]]></category>
+		<category><![CDATA[SARS-CoV-2]]></category>
+		<category><![CDATA[Scholarly Communication]]></category>
+		<category><![CDATA[Science and Society]]></category>
+		<category><![CDATA[science communication]]></category>
+		<category><![CDATA[SDGs]]></category>
+		<category><![CDATA[Sustainable Development]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[UNESCO]]></category>
+		<category><![CDATA[United Nations]]></category>
+		<category><![CDATA[World Health Organisation]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3996</guid>
+
+					<description><![CDATA[<p>SOURCE UNESCO on 30 March hosted an online meeting of representatives of ministries in charge of science all over the world. Participants included 77 ministers, including governmental secretaries representing a total of 122 countries, as well as Mariya Gabriel, European Commissioner for Innovation, Research, Culture, Education and Youth, Sarah Anyang Agbor, African Union Commissioner for Human Resources, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/unesco-mobilizes-to-promote-open-science/">UNESCO mobilizes 122 countries to promote open science and reinforced cooperation in the face of COVID-19</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/unesco-mobilizes-to-promote-open-science/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3996</post-id>	</item>
+		<item>
+		<title>A plea to end an academic culture of bullying and harassment</title>
+		<link>http://fossilsandshit.com/end-academic-bullying-culture/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=end-academic-bullying-culture</link>
+					<comments>http://fossilsandshit.com/end-academic-bullying-culture/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Fri, 27 Mar 2020 07:51:54 +0000</pubDate>
+				<category><![CDATA[University]]></category>
+		<category><![CDATA[Academic Culture]]></category>
+		<category><![CDATA[Academic mobbing]]></category>
+		<category><![CDATA[cancel culture]]></category>
+		<category><![CDATA[Harassment]]></category>
+		<category><![CDATA[Higher Education]]></category>
+		<category><![CDATA[Universities]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3982</guid>
+
+					<description><![CDATA[<p>A toxic academic bullying culture has evolved from whispers in university corridors to infiltrating social media spaces. A recent report by the Wellcome Trust stated: &#8220;Survey findings indicated that 43% had experienced bullying or harassment, while 61% had witnessed it.&#8221; That is not a good number. Academic bullies have learned to weaponise their elite status, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/end-academic-bullying-culture/">A plea to end an academic culture of bullying and harassment</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/end-academic-bullying-culture/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3982</post-id>	</item>
+		<item>
+		<title>The OpenCon saga, 5 month update</title>
+		<link>http://fossilsandshit.com/the-opencon-saga-5-month-update/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-opencon-saga-5-month-update</link>
+					<comments>http://fossilsandshit.com/the-opencon-saga-5-month-update/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Thu, 26 Mar 2020 06:37:59 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[Compassion]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Forgiveness]]></category>
+		<category><![CDATA[Morality]]></category>
+		<category><![CDATA[OpenCon]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3979</guid>
+
+					<description><![CDATA[<p>As I am sure many of you are aware, the last 5 months of my life got kinda transformed by a public statement from Opencon. Thousands of people were engaged in the ‘mobbing’ that surrounded it, sharing unfounded accusations and harsh judgements, and generally adding noise and confusion to the mess. This post is an [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/the-opencon-saga-5-month-update/">The OpenCon saga, 5 month update</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/the-opencon-saga-5-month-update/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3979</post-id>	</item>
+		<item>
+		<title>4. 30-minute self-guided meditation</title>
+		<link>http://fossilsandshit.com/4-30-minute-self-guided-meditation/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=4-30-minute-self-guided-meditation</link>
+					<comments>http://fossilsandshit.com/4-30-minute-self-guided-meditation/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Mon, 23 Mar 2020 14:27:34 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3965</guid>
+
+					<description><![CDATA[<p>Many of us are currently in self-isolation mode, at home, and probably a little bored and frustrated. There is probably no better time for all of us to take up, or continue to practice, meditation than now. Just in time for Global Nyepi 2020, I wanted to see if I could play a small role, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/4-30-minute-self-guided-meditation/">4. 30-minute self-guided meditation</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/4-30-minute-self-guided-meditation/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3965</post-id>	</item>
+		<item>
+		<title>3. Centering meditation</title>
+		<link>http://fossilsandshit.com/3-centering-meditation/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=3-centering-meditation</link>
+					<comments>http://fossilsandshit.com/3-centering-meditation/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Mon, 23 Mar 2020 14:27:28 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3967</guid>
+
+					<description><![CDATA[<p>Many of us are currently in self-isolation mode, at home, and probably a little bored and frustrated. There is probably no better time for all of us to take up, or continue to practice, meditation than now. Just in time for Global Nyepi 2020, I wanted to see if I could play a small role, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/3-centering-meditation/">3. Centering meditation</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/3-centering-meditation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3967</post-id>	</item>
+		<item>
+		<title>2. Loving-kindness meditation</title>
+		<link>http://fossilsandshit.com/2-loving-kindness-meditation/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=2-loving-kindness-meditation</link>
+					<comments>http://fossilsandshit.com/2-loving-kindness-meditation/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Mon, 23 Mar 2020 14:27:21 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3966</guid>
+
+					<description><![CDATA[<p>Many of us are currently in self-isolation mode, at home, and probably a little bored and frustrated. There is probably no better time for all of us to take up, or continue to practice, meditation than now. Just in time for Global Nyepi 2020, I wanted to see if I could play a small role, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/2-loving-kindness-meditation/">2. Loving-kindness meditation</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/2-loving-kindness-meditation/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3966</post-id>	</item>
+		<item>
+		<title>1. Super beginners guide to meditation</title>
+		<link>http://fossilsandshit.com/1-super-beginners-guide-to-meditation/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=1-super-beginners-guide-to-meditation</link>
+					<comments>http://fossilsandshit.com/1-super-beginners-guide-to-meditation/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Mon, 23 Mar 2020 14:27:16 +0000</pubDate>
+				<category><![CDATA[Journey To Nowhere]]></category>
+		<category><![CDATA[Coronavirus]]></category>
+		<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Little Prince]]></category>
+		<category><![CDATA[Meditation]]></category>
+		<category><![CDATA[Mental Health]]></category>
+		<category><![CDATA[Nyepi]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3964</guid>
+
+					<description><![CDATA[<p>Many of us are currently in self-isolation mode, at home, and probably a little bored and frustrated. There is probably no better time for all of us to take up, or continue to practice, meditation than now. Just in time for Global Nyepi 2020, I wanted to see if I could play a small role, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/1-super-beginners-guide-to-meditation/">1. Super beginners guide to meditation</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/1-super-beginners-guide-to-meditation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3964</post-id>	</item>
+	</channel>
+</rss>

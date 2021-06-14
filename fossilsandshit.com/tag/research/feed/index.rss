@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Research &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/research/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Sun, 12 May 2019 07:45:54 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>27: Artificial Intelligence-assisted peer review</title>
+		<link>http://fossilsandshit.com/27-artificial-intelligence-assisted-peer-review/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=27-artificial-intelligence-assisted-peer-review</link>
+					<comments>http://fossilsandshit.com/27-artificial-intelligence-assisted-peer-review/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Sun, 12 May 2019 07:45:36 +0000</pubDate>
+				<category><![CDATA[Peer Review]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Evise]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[Novelty]]></category>
+		<category><![CDATA[peer review]]></category>
+		<category><![CDATA[Preprints]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Scholastica]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[TensorFlow]]></category>
+		<category><![CDATA[Torch]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3597</guid>
+
+					<description><![CDATA[<p>This is adapted from our “recent” paper in F1000 Research, entitled “A multi-disciplinary perspective on emergent and future innovations in peer review.” Due to its rather monstrous length, I’ll be posting chunks of the text here in sequence over the next few weeks/months/years now apparently, to help disseminate it in more easily digestible bites. Enjoy! This [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/27-artificial-intelligence-assisted-peer-review/">27: Artificial Intelligence-assisted peer review</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/27-artificial-intelligence-assisted-peer-review/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3597</post-id>	</item>
+		<item>
+		<title>Episode #43: Interview with Jon Tennant about Open Science – PhD Career Stories</title>
+		<link>http://fossilsandshit.com/episode-43-interview-jon-tennant-open-science-phd-career-stories/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=episode-43-interview-jon-tennant-open-science-phd-career-stories</link>
+					<comments>http://fossilsandshit.com/episode-43-interview-jon-tennant-open-science-phd-career-stories/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Fri, 02 Mar 2018 17:45:34 +0000</pubDate>
+				<category><![CDATA[Open Science]]></category>
+		<category><![CDATA[PhD]]></category>
+		<category><![CDATA[Research]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=2847</guid>
+
+					<description><![CDATA[<p>Source: Episode #43: Interview with Jon Tennant about Open Science – PhD Career Stories</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/episode-43-interview-jon-tennant-open-science-phd-career-stories/">Episode #43: Interview with Jon Tennant about Open Science – PhD Career Stories</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/episode-43-interview-jon-tennant-open-science-phd-career-stories/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2847</post-id>	</item>
+		<item>
+		<title>How &#8216;broken&#8217; is academia, and how can we fix it?</title>
+		<link>http://fossilsandshit.com/how-broken-is-academia-and-how-can-we-fix-it/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-broken-is-academia-and-how-can-we-fix-it</link>
+					<comments>http://fossilsandshit.com/how-broken-is-academia-and-how-can-we-fix-it/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Tue, 18 Apr 2017 14:27:09 +0000</pubDate>
+				<category><![CDATA[PhD]]></category>
+		<category><![CDATA[University]]></category>
+		<category><![CDATA[Academic Culture]]></category>
+		<category><![CDATA[Don't hate the player]]></category>
+		<category><![CDATA[Hate the game]]></category>
+		<category><![CDATA[PhD. Early Career Researcher]]></category>
+		<category><![CDATA[Power Abuse]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Universities]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=2281</guid>
+
+					<description><![CDATA[<p>In every coffee break conversation, you hear murmurs of a ‘broken academic system’. Hallways whisper secret conversations about the latest case of professional abuse, the tenured professor still writing papers on a type-writer, and the grad student that mysteriously disappeared just 6 months in. I’m going to try and outline here what I have seen in [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/how-broken-is-academia-and-how-can-we-fix-it/">How &#8216;broken&#8217; is academia, and how can we fix it?</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/how-broken-is-academia-and-how-can-we-fix-it/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2281</post-id>	</item>
+		<item>
+		<title>When publishing is like shopping for cookies</title>
+		<link>http://fossilsandshit.com/when-publishing-is-like-shopping-for-cookies/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=when-publishing-is-like-shopping-for-cookies</link>
+					<comments>http://fossilsandshit.com/when-publishing-is-like-shopping-for-cookies/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Mon, 16 Jan 2017 04:07:49 +0000</pubDate>
+				<category><![CDATA[Open Science]]></category>
+		<category><![CDATA[Open cookie]]></category>
+		<category><![CDATA[publishing]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Science]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=2189</guid>
+
+					<description><![CDATA[<p>Staying on top of the research literature is really hard. It&#8217;s even harder because most of the time, we don&#8217;t actually know what&#8217;s in a published paper until we&#8217;ve spent the time paying to access it, and reading it. That&#8217;s right &#8211; you have to pay for access to articles to even figure out if [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/when-publishing-is-like-shopping-for-cookies/">When publishing is like shopping for cookies</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/when-publishing-is-like-shopping-for-cookies/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2189</post-id>	</item>
+		<item>
+		<title>How to efficiently stay on top of published research</title>
+		<link>http://fossilsandshit.com/how-to-efficiently-stay-on-top-of-published-research/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-efficiently-stay-on-top-of-published-research</link>
+					<comments>http://fossilsandshit.com/how-to-efficiently-stay-on-top-of-published-research/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Sun, 15 Jan 2017 02:55:56 +0000</pubDate>
+				<category><![CDATA[Open Science]]></category>
+		<category><![CDATA[Discovery]]></category>
+		<category><![CDATA[Feedly]]></category>
+		<category><![CDATA[Google Scholar]]></category>
+		<category><![CDATA[Listervs]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[RSS]]></category>
+		<category><![CDATA[Search]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=2186</guid>
+
+					<description><![CDATA[<p>One of the major arguments I still hear in favour of journals is that people still need them in order to know where to look for the latest research in their field. With over 1.5-2 million English-language articles in STEM subjects published each year, we each have a monolithic task of filtering out what research is [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/how-to-efficiently-stay-on-top-of-published-research/">How to efficiently stay on top of published research</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/how-to-efficiently-stay-on-top-of-published-research/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2186</post-id>	</item>
+		<item>
+		<title>Reproducible science is better science</title>
+		<link>http://fossilsandshit.com/reproducible-science-is-better-science/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=reproducible-science-is-better-science</link>
+					<comments>http://fossilsandshit.com/reproducible-science-is-better-science/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Wed, 11 Jan 2017 05:39:26 +0000</pubDate>
+				<category><![CDATA[Open Science]]></category>
+		<category><![CDATA[Nature]]></category>
+		<category><![CDATA[Reproducibility]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Transparency]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=2183</guid>
+
+					<description><![CDATA[<p>&#8216;Open&#8217; is not an end result for research: it is a mechanism. A mechanism for improved transparency and accountability, for reproducibility and rigour, and efficiency and accelerated discovery. A new article by Marcus Munafò and colleagues presents a manifesto for reproducible research that highlights this, and contains substantial important reading on this topic. Enjoy! Abstract [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/reproducible-science-is-better-science/">Reproducible science is better science</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/reproducible-science-is-better-science/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2183</post-id>	</item>
+		<item>
+		<title>Why and how Master’s students should publish their research</title>
+		<link>http://fossilsandshit.com/why-and-how-masters-students-should-publish-their-research/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-and-how-masters-students-should-publish-their-research</link>
+					<comments>http://fossilsandshit.com/why-and-how-masters-students-should-publish-their-research/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Thu, 18 Apr 2013 13:46:46 +0000</pubDate>
+				<category><![CDATA[PhD]]></category>
+		<category><![CDATA[University]]></category>
+		<category><![CDATA[arxiv]]></category>
+		<category><![CDATA[Figshare]]></category>
+		<category><![CDATA[manuscript preparation]]></category>
+		<category><![CDATA[Masters]]></category>
+		<category><![CDATA[masters students]]></category>
+		<category><![CDATA[Publication]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Science]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=557</guid>
+
+					<description><![CDATA[<p>This is an updated post from one I published a while back on my old blog at: http://wp.me/p22pR3-2F &#8211; as I&#8217;ve developed as a scientist, I thought it would be good to share these thoughts in the emergence of new information and experiences. The comments on the older post are worth a quick read. This was originally [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/why-and-how-masters-students-should-publish-their-research/">Why and how Master’s students should publish their research</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/why-and-how-masters-students-should-publish-their-research/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">557</post-id>	</item>
+	</channel>
+</rss>

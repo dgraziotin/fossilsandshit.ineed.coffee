@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>David Willetts &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/david-willetts/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Thu, 14 Jun 2012 11:06:55 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>The Day I was Allowed into Parliament</title>
+		<link>http://fossilsandshit.com/the-day-i-was-allowed-into-parliament/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-day-i-was-allowed-into-parliament</link>
+					<comments>http://fossilsandshit.com/the-day-i-was-allowed-into-parliament/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Thu, 14 Jun 2012 11:06:55 +0000</pubDate>
+				<category><![CDATA[University]]></category>
+		<category><![CDATA[BIS]]></category>
+		<category><![CDATA[Committee]]></category>
+		<category><![CDATA[David Willetts]]></category>
+		<category><![CDATA[Fees]]></category>
+		<category><![CDATA[Higher Education]]></category>
+		<category><![CDATA[House of Commons]]></category>
+		<category><![CDATA[politics]]></category>
+		<category><![CDATA[Postgraduate]]></category>
+		<category><![CDATA[Student Loans]]></category>
+		<category><![CDATA[Students]]></category>
+		<category><![CDATA[Undergraduate]]></category>
+		<category><![CDATA[university]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=241</guid>
+
+					<description><![CDATA[<p>Yesterday, this intern was fortunate enough to attend a Parliamentary Committee meeting on Higher Education Reforms, with the Rt Hon (innit) David Willetts MP. Most people reading this will probably recognise him as the current champion for pushing open access in Government policy with the Finch Committee, so seeing him in the flesh was a [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/the-day-i-was-allowed-into-parliament/">The Day I was Allowed into Parliament</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/the-day-i-was-allowed-into-parliament/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">241</post-id>	</item>
+	</channel>
+</rss>

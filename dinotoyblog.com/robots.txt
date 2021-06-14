@@ -1,0 +1,33 @@
+User-agent: *
+Disallow: *?replytocom
+Allow: /forum/$
+Allow: /forum/*.xml
+Allow: /forum/*sitemap
+Allow: /forum/*board
+Allow: /forum/*topic
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.gif$
+Allow: .css
+Disallow: /forum/*action
+Disallow: /forum/*board=*wap
+Disallow: /forum/*board=*imode
+Disallow: /forum/*topic=*wap
+Disallow: /forum/*topic=*imode
+Disallow: /forum/*topic=*.msg
+Disallow: /forum/*topic=*.new
+Disallow: /forum/*;
+Disallow: /forum/*PHPSESSID
+Disallow: /forum/PortalStandalone.php
+
+
+User-agent: Googlebot-Mobile
+Allow: /forum/*wap
+
+User-agent: YandexImageResizer
+Allow: /forum/*wap
+
+User-agent: MediaPartners-Google
+Allow: /forum/

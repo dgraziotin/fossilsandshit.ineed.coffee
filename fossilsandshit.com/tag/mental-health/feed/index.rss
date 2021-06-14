@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Mental Health &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/mental-health/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 23 Mar 2020 14:27:22 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>1. Super beginners guide to meditation</title>
+		<link>http://fossilsandshit.com/1-super-beginners-guide-to-meditation/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=1-super-beginners-guide-to-meditation</link>
+					<comments>http://fossilsandshit.com/1-super-beginners-guide-to-meditation/#respond</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Mon, 23 Mar 2020 14:27:16 +0000</pubDate>
+				<category><![CDATA[Journey To Nowhere]]></category>
+		<category><![CDATA[Coronavirus]]></category>
+		<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Little Prince]]></category>
+		<category><![CDATA[Meditation]]></category>
+		<category><![CDATA[Mental Health]]></category>
+		<category><![CDATA[Nyepi]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=3964</guid>
+
+					<description><![CDATA[<p>Many of us are currently in self-isolation mode, at home, and probably a little bored and frustrated. There is probably no better time for all of us to take up, or continue to practice, meditation than now. Just in time for Global Nyepi 2020, I wanted to see if I could play a small role, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/1-super-beginners-guide-to-meditation/">1. Super beginners guide to meditation</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/1-super-beginners-guide-to-meditation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3964</post-id>	</item>
+		<item>
+		<title>Shit I learned during my PhD</title>
+		<link>http://fossilsandshit.com/shit-i-learned-during-my-phd/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=shit-i-learned-during-my-phd</link>
+					<comments>http://fossilsandshit.com/shit-i-learned-during-my-phd/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Thu, 15 Sep 2016 16:34:34 +0000</pubDate>
+				<category><![CDATA[Open Science]]></category>
+		<category><![CDATA[PhD]]></category>
+		<category><![CDATA[Science Communication]]></category>
+		<category><![CDATA[Mental Health]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.com/?p=1841</guid>
+
+					<description><![CDATA[<p>Doing a PhD is one of the greatest trials you will ever experience in your life. It is physically and mentally grueling, you will be challenged and pushed to the limit every single day, and the pressure levels are so high they will bust you right into the sixth dimension if you&#8217;re not prepared or strong [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/shit-i-learned-during-my-phd/">Shit I learned during my PhD</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/shit-i-learned-during-my-phd/feed/</wfw:commentRss>
+			<slash:comments>39</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1841</post-id>	</item>
+	</channel>
+</rss>

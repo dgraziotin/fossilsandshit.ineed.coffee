@@ -1,0 +1,37 @@
+User-agent: Yandex
+Disallow: / 
+
+User-agent: moget
+User-agent: ichiro
+Disallow: /
+
+User-agent: NaverBot
+User-agent: Yeti
+Disallow: / 
+
+User-agent: Baiduspider
+User-agent: Baiduspider-video
+User-agent: Baiduspider-image
+Disallow: / 
+
+User-agent: sogou spider
+Disallow: / 
+
+User-agent: YoudaoBot
+Disallow: /
+
+User-agent: BUbiNG
+Disallow: /
+
+User-agent: *
+Disallow: /sprice/
+Disallow: /play/
+Disallow: /lists/
+Disallow: /phplist/
+Disallow: /itest/
+Disallow: /roundcubetest/
+Disallow: /tmp/
+Disallow: /livezilla/
+Disallow: /backups/
+Disallow: /listini/
+Disallow: /pcloud/

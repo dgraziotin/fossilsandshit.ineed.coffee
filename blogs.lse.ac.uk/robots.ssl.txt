@@ -1,0 +1,4 @@
+Sitemap: https://blogs.lse.ac.uk/sitemap.xml
+Sitemap: https://blogs.lse.ac.uk/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/

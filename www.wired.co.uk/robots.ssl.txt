@@ -1,0 +1,11 @@
+# www.robotstxt.org/
+
+Sitemap: https://www.wired.co.uk/sitemap.xml
+Sitemap: https://www.wired.co.uk/rss/article
+
+User-agent: *
+Disallow: /preview/
+Disallow: /5574*
+Disallow: /search
+Disallow: /*?page=
+Disallow: /xhr/

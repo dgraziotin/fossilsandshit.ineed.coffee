@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /scripts/
+Disallow: /engine/
+Disallow: /pesquisa/
+Disallow: /error-404/
+Disallow: /print/
+Disallow: /boletim/
+Disallow: /publicRedirectBoletim.php

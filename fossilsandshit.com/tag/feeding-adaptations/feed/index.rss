@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>feeding adaptations &#8211; Green Tea and Velociraptors</title>
+	<atom:link href="http://fossilsandshit.com/tag/feeding-adaptations/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fossilsandshit.com</link>
+	<description></description>
+	<lastBuildDate>Tue, 16 Apr 2013 10:00:11 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">123733567</site>	<item>
+		<title>Feeding at both ends of the food chain</title>
+		<link>http://fossilsandshit.com/feeding-at-both-ends-of-the-food-chain/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=feeding-at-both-ends-of-the-food-chain</link>
+					<comments>http://fossilsandshit.com/feeding-at-both-ends-of-the-food-chain/#comments</comments>
+		
+		<dc:creator><![CDATA[protohedgehog]]></dc:creator>
+		<pubDate>Tue, 16 Apr 2013 10:00:11 +0000</pubDate>
+				<category><![CDATA[Ecology]]></category>
+		<category><![CDATA[Zoology]]></category>
+		<category><![CDATA[crabeater seal]]></category>
+		<category><![CDATA[feeding adaptations]]></category>
+		<category><![CDATA[Hydrurga leptonyx]]></category>
+		<category><![CDATA[leopard seal]]></category>
+		<category><![CDATA[Lobodon carcinophaga]]></category>
+		<category><![CDATA[seal feeding]]></category>
+		<category><![CDATA[sieve feeding]]></category>
+		<category><![CDATA[tricuspid teeth]]></category>
+		<guid isPermaLink="false">http://fossilsandshit.wordpress.com/?p=532</guid>
+
+					<description><![CDATA[<p>In terrestrial environments, predator body size is largely correlated with prey body size. The opposite is found for many predators in the marine environment – baleen whales in particular comprise some of the world’s largest mammals and yet they feed on something far smaller (plankton). The leopard seal is unusual in that it feeds both [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://fossilsandshit.com/feeding-at-both-ends-of-the-food-chain/">Feeding at both ends of the food chain</a> appeared first on <a rel="nofollow" href="http://fossilsandshit.com">Green Tea and Velociraptors</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>http://fossilsandshit.com/feeding-at-both-ends-of-the-food-chain/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">532</post-id>	</item>
+	</channel>
+</rss>
